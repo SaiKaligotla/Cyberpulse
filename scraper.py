@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
-CyberPulse • GitHub Actions Cybersecurity Scraper & Telegram Forwarder
-Runs automatically via GitHub Actions Cron every 10-15 minutes.
+CyberPulse • Comprehensive Cybersecurity & Tech Threat Intelligence Scraper
+Scrapes:
+- Breaking Cyber News & Zero-Days
+- Security Engineering & Reverse Engineering Research
+- Hacker Tools, Hardware Gadgets (Flipper Zero, SDR, BadUSB)
+- AI Security, LLM Prompt Injections & Jailbreaks
+- Threat Actor Intelligence & Malware Deep-Dives
 """
 
 import os
@@ -13,16 +18,29 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
+def clean_chat_id(raw_id):
+    if not raw_id:
+        return ""
+    raw_id = raw_id.strip().strip("'\"")
+    # If user pasted a full t.me link
+    if "t.me/" in raw_id:
+        raw_id = "@" + raw_id.split("t.me/")[-1].strip("/@")
+    # If it's a public channel handle without @ and not numeric ID
+    elif not raw_id.startswith("@") and not raw_id.startswith("-") and not raw_id.isdigit():
+        raw_id = "@" + raw_id
+    return raw_id
+
 # 1. Telegram Configuration from GitHub Secrets / Environment Variables
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip()
-CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
+BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip().strip("'\"")
+CHAT_ID = clean_chat_id(os.environ.get("TELEGRAM_CHAT_ID", ""))
 FILTER_MODE = os.environ.get("FILTER_MODE", "all").strip() # 'all' or 'zerodays_only'
-MAX_SEND = int(os.environ.get("MAX_SEND", "5"))
+MAX_SEND = int(os.environ.get("MAX_SEND", "6"))
 
 HISTORY_FILE = "sent_history.json"
 
-# 2. Live Cyber News Sources
+# 2. Comprehensive Cybersecurity Feeds (News, Research, Gadgets, AI, Tools)
 FEEDS = [
+    # Breaking News & Threat Intel
     {
         "name": "The Hacker News",
         "url": "https://feeds.feedburner.com/TheHackersNews",
@@ -54,14 +72,46 @@ FEEDS = [
         "icon": "🌐"
     },
     {
+        "name": "Security Affairs",
+        "url": "https://securityaffairs.com/feed",
+        "icon": "🕵️"
+    },
+    {
         "name": "SANS Internet Storm Center",
         "url": "https://isc.sans.edu/rssfeed.xml",
         "icon": "⛈️"
     },
+    # Security Engineering & Deep Research Blogs
     {
-        "name": "Security Affairs",
-        "url": "https://securityaffairs.com/feed",
-        "icon": "🕵️"
+        "name": "PortSwigger Research",
+        "url": "https://portswigger.net/research/rss",
+        "icon": "🧪"
+    },
+    {
+        "name": "Cisco Talos Threat Intel",
+        "url": "https://blog.talosintelligence.com/rss/",
+        "icon": "🎯"
+    },
+    {
+        "name": "Microsoft Security Blog",
+        "url": "https://www.microsoft.com/en-us/security/blog/feed/",
+        "icon": "🏢"
+    },
+    {
+        "name": "Cloudflare Security",
+        "url": "https://blog.cloudflare.com/tag/security/rss/",
+        "icon": "☁️"
+    },
+    # Hacker Gadgets, Tools & Hardware Hacks
+    {
+        "name": "Hackaday Security Hacks",
+        "url": "https://hackaday.com/category/security-hacks/feed/",
+        "icon": "🛠️"
+    },
+    {
+        "name": "Help Net Security",
+        "url": "https://www.helpnetsecurity.com/feed/",
+        "icon": "🔐"
     }
 ]
 
@@ -75,9 +125,9 @@ def load_history():
     return []
 
 def save_history(history):
-    # Keep latest 300 entries to maintain lightweight repository
-    if len(history) > 300:
-        history = history[-300:]
+    # Keep latest 400 entries to maintain lightweight repo
+    if len(history) > 400:
+        history = history[-400:]
     with open(HISTORY_FILE, "w", encoding="utf-8") as f:
         json.dump(history, f, indent=2)
 
@@ -87,7 +137,7 @@ def fetch_url(url):
     }
     req = urllib.request.Request(url, headers=headers)
     try:
-        with urllib.request.urlopen(req, timeout=12) as response:
+        with urllib.request.urlopen(req, timeout=10) as response:
             return response.read()
     except Exception as e:
         print(f"[-] Warning: Failed to fetch {url}: {e}", file=sys.stderr)
@@ -97,23 +147,46 @@ def extract_cves(text):
     matches = re.findall(r"CVE-\d{4}-\d{4,7}", text, re.IGNORECASE)
     return list(dict.fromkeys([m.upper() for m in matches]))
 
-def categorize(title, snippet):
-    text = f"{title} {snippet}".lower()
-    if re.search(r"zero-day|0-day|exploit|vulnerability|rce|buffer overflow|privilege escalation|flaw|cve-", text):
-        return "Zero-Days & Exploits"
-    if re.search(r"ransomware|lockbit|blackcat|alphv|malware|trojan|stealer|botnet|backdoor", text):
-        return "Ransomware & Malware"
-    if re.search(r"breach|leaked|database dump|stolen data|compromised|passwords", text):
-        return "Data Breaches"
-    if re.search(r"cisa|fbi|nsa|advisory|directive|homeland security|kev", text):
-        return "CISA Advisories"
-    if re.search(r"artificial intelligence|llm|chatgpt|openai|prompt injection|deepfake", text):
-        return "AI Security"
-    if re.search(r"aws|azure|cloud|kubernetes|docker|github|supply chain", text):
-        return "Cloud & Supply Chain"
-    if re.search(r"apt|nation-state|china|russia|north korea|iran|espionage", text):
-        return "Nation-State & APT"
-    return "Cybersecurity"
+def categorize(title, snippet, source_name=""):
+    text = f"{title} {snippet} {source_name}".lower()
+
+    # 1. AI Security & LLM Hacks
+    if re.search(r"artificial intelligence|ai security|llm|chatgpt|openai|claude|prompt injection|jailbreak|model poisoning|deepfake|ai agent|machine learning", text):
+        return "🤖 AI Security & LLMs"
+
+    # 2. Hacker Gadgets & Security Tools
+    if re.search(r"flipper zero|wifi pineapple|badusb|hardware hack|sdr|radio frequency|firmware|ghidra|burp suite|nmap|metasploit|yubikey|proxmark|teardown|gadget|open-source tool", text) or "Hackaday" in source_name:
+        return "🛠️ Tools & Hardware Gadgets"
+
+    # 3. Security Engineering & Deep Research
+    if re.search(r"reverse engineering|binary exploitation|kernel|heap|cryptography|writeup|fuzzing|research|proof of concept|poc|patch analysis", text) or "PortSwigger" in source_name or "Talos" in source_name:
+        return "🥷 Security Engineering & Research"
+
+    # 4. Zero-Days & Exploits
+    if re.search(r"zero-day|0-day|exploit|vulnerability|rce|buffer overflow|privilege escalation|flaw|cve-|unauthenticated", text):
+        return "🔴 Zero-Days & Exploits"
+
+    # 5. Ransomware & Malware
+    if re.search(r"ransomware|lockbit|blackcat|alphv|malware|trojan|stealer|botnet|backdoor|infostealer", text):
+        return "💀 Ransomware & Malware"
+
+    # 6. Data Breaches & Leaks
+    if re.search(r"breach|leaked|database dump|stolen data|compromised|passwords|exfiltrated|credentials", text):
+        return "💼 Data Breaches"
+
+    # 7. CISA & Gov Advisories
+    if re.search(r"cisa|fbi|nsa|advisory|directive|homeland security|kev catalog", text):
+        return "🚨 CISA & Advisories"
+
+    # 8. Cloud & Supply Chain
+    if re.search(r"aws|azure|cloud|kubernetes|docker|github|npm|pypi|supply chain", text):
+        return "🌐 Cloud & DevSecOps"
+
+    # 9. Nation-State & APT
+    if re.search(r"apt|nation-state|china|russia|north korea|iran|espionage|cozy bear|sandworm", text):
+        return "⚔️ Nation-State & APT"
+
+    return "🛡️ Cybersecurity"
 
 def clean_html(raw_html):
     if not raw_html:
@@ -123,25 +196,25 @@ def clean_html(raw_html):
     return clean
 
 def extract_image(item_xml, raw_desc):
-    # 1. Enclosure
+    # 1. Enclosure tag
     enclosure = item_xml.find("enclosure")
     if enclosure is not None and "url" in enclosure.attrib:
         url = enclosure.attrib["url"]
         if not url.endswith(".mp3") and not url.endswith(".wav"):
             return url
-    
-    # 2. Media content or thumbnail
+
+    # 2. Media content or thumbnail tag
     for tag in ["{http://search.yahoo.com/mrss/}content", "{http://search.yahoo.com/mrss/}thumbnail"]:
         media = item_xml.find(tag)
         if media is not None and "url" in media.attrib:
             return media.attrib["url"]
-            
-    # 3. img tag in description
+
+    # 3. img tag inside HTML description
     if raw_desc:
         match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_desc, re.IGNORECASE)
         if match:
             src = match.group(1)
-            if "feedburner" not in src and "doubleclick" not in src and "gravatar" not in src:
+            if "feedburner" not in src and "doubleclick" not in src and "gravatar" not in src and not src.endswith(".gif"):
                 return src
     return None
 
@@ -153,27 +226,27 @@ def parse_feed(feed_info):
     articles = []
     try:
         root = ET.fromstring(xml_data)
-        
-        # Check RSS 2.0 (channel/item)
+
+        # Check RSS 2.0 (<channel><item>)
         items = root.findall(".//item")
         if items:
             for item in items:
                 title_el = item.find("title")
                 link_el = item.find("link")
                 desc_el = item.find("description")
-                
+
                 title = title_el.text.strip() if title_el is not None and title_el.text else ""
                 link = link_el.text.strip() if link_el is not None and link_el.text else ""
                 raw_desc = desc_el.text if desc_el is not None and desc_el.text else ""
-                
+
                 if not title or not link:
                     continue
-                    
-                snippet = clean_html(raw_desc)[:300]
+
+                snippet = clean_html(raw_desc)[:320]
                 image = extract_image(item, raw_desc)
                 cves = extract_cves(f"{title} {snippet}")
-                category = categorize(title, snippet)
-                
+                category = categorize(title, snippet, feed_info["name"])
+
                 item_id = f"{feed_info['name']}:{link}"
                 articles.append({
                     "id": item_id,
@@ -187,27 +260,27 @@ def parse_feed(feed_info):
                     "icon": feed_info["icon"]
                 })
         else:
-            # Check Atom (feed/entry)
+            # Check Atom (<feed><entry>)
             entries = root.findall(".//{http://www.w3.org/2005/Atom}entry") or root.findall(".//entry")
             for entry in entries:
                 title_el = entry.find("{http://www.w3.org/2005/Atom}title") or entry.find("title")
                 link_el = entry.find("{http://www.w3.org/2005/Atom}link") or entry.find("link")
                 summary_el = entry.find("{http://www.w3.org/2005/Atom}summary") or entry.find("summary") or entry.find("content")
-                
+
                 title = title_el.text.strip() if title_el is not None and title_el.text else ""
                 link = ""
                 if link_el is not None:
                     link = link_el.attrib.get("href", "") or (link_el.text.strip() if link_el.text else "")
                 raw_desc = summary_el.text if summary_el is not None and summary_el.text else ""
-                
+
                 if not title or not link:
                     continue
-                    
-                snippet = clean_html(raw_desc)[:300]
+
+                snippet = clean_html(raw_desc)[:320]
                 image = extract_image(entry, raw_desc)
                 cves = extract_cves(f"{title} {snippet}")
-                category = categorize(title, snippet)
-                
+                category = categorize(title, snippet, feed_info["name"])
+
                 item_id = f"{feed_info['name']}:{link}"
                 articles.append({
                     "id": item_id,
@@ -242,17 +315,17 @@ def send_telegram(item):
     safe_cat = escape_html(item["category"])
 
     message_text = (
-        f"🚨 <b>CYBERPULSE NEWS ALERT</b> 🚨\n\n"
+        f"🚨 <b>CYBERPULSE INTEL ALERT</b> 🚨\n\n"
         f"<b>{safe_title}</b>\n\n"
         f"📁 <b>Category:</b> {safe_cat}\n"
         f"📡 <b>Source:</b> {item['icon']} {safe_source}{cve_str}\n\n"
-        f"📝 <b>Summary:</b>\n{safe_snippet}\n\n"
-        f"🔗 <a href=\"{item['link']}\">Read Full Article</a>"
+        f"📝 <b>Intel Brief:</b>\n{safe_snippet}\n\n"
+        f"🔗 <a href=\"{item['link']}\">Read Full Story</a>"
     )
 
     keyboard = {
         "inline_keyboard": [
-            [{"text": "🌐 Open Article", "url": item["link"]}]
+            [{"text": "🌐 Read Full Story", "url": item["link"]}]
         ]
     }
 
@@ -295,8 +368,9 @@ def send_telegram(item):
 
 def main():
     print("====================================================")
-    print("🛡️  CyberPulse • GitHub Actions Telegram News Bot")
+    print("🛡️  CyberPulse • Expanded Threat Intel & Tools Bot")
     print(f"⏰ Execution Time: {datetime.now(timezone.utc).isoformat()} UTC")
+    print(f"📡 Monitored Feeds: {len(FEEDS)} Sources (News, Tools, AI, Research)")
     print("====================================================")
 
     if not BOT_TOKEN or not CHAT_ID:
@@ -321,12 +395,12 @@ def main():
     print(f"[+] Found {len(unread)} new unread articles.")
 
     if FILTER_MODE == "zerodays_only":
-        unread = [a for a in unread if a["category"] == "Zero-Days & Exploits" or a["cves"]]
+        unread = [a for a in unread if "Zero-Days" in a["category"] or a["cves"]]
         print(f"[+] Filtered for Zero-Days only: {len(unread)} remaining.")
 
     sent_count = 0
     for article in unread[:MAX_SEND]:
-        print(f"[*] Dispatching: {article['title'][:50]}...")
+        print(f"[*] Dispatching: [{article['category']}] {article['title'][:45]}...")
         if send_telegram(article):
             history.append(article["id"])
             sent_count += 1
