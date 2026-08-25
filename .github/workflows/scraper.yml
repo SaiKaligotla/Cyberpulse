@@ -1,1 +1,38 @@
+name: "CyberPulse Telegram News Scraper"
 
+on:
+  schedule:
+    # Run automatically every 15 minutes 24/7
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+
+jobs:
+  scrape-and-send:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit sent_history.json
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Scraper and Dispatch to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          FILTER_MODE: ${{ vars.FILTER_MODE || 'all' }}
+          MAX_SEND: ${{ vars.MAX_SEND || '5' }}
+        run: |
+          python scraper.py
+
+      - name: Commit & Push History (Prevent Duplicates)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add sent_history.json || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update sent news history [skip ci]" && git push)
