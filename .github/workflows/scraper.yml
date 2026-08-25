@@ -2,9 +2,9 @@ name: "CyberPulse Telegram News Scraper"
 
 on:
   schedule:
-    # Run automatically every 15 minutes 24/7
+    # Runs automatically every 15 minutes 24/7
     - cron: '*/15 * * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub Actions tab
+  workflow_dispatch: # Allows manual run anytime from GitHub Actions tab
 
 jobs:
   scrape-and-send:
@@ -14,12 +14,9 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/checkout@v4.2.2
         with:
-          python-version: '3.11'
+          fetch-depth: 1
 
       - name: Run Scraper and Dispatch to Telegram
         env:
@@ -28,7 +25,7 @@ jobs:
           FILTER_MODE: ${{ vars.FILTER_MODE || 'all' }}
           MAX_SEND: ${{ vars.MAX_SEND || '5' }}
         run: |
-          python scraper.py
+          python3 scraper.py
 
       - name: Commit & Push History (Prevent Duplicates)
         run: |
