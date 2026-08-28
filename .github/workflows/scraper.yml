@@ -1,33 +1,48 @@
 name: "CyberPulse Telegram News Scraper"
 
+# =============================================================================
+# WORKFLOW TRIGGER SCHEDULE
+# =============================================================================
 on:
   schedule:
-    # Runs every 30 minutes at off-peak minutes (:14 and :44) to bypass GitHub queue drops
-    - cron: '14,44 * * * *'
-  workflow_dispatch: # Allows manual trigger anytime
+    # Runs at off-peak minutes (:12 and :47) roughly 35-45 minutes apart
+    # Off-peak minutes avoid GitHub Actions top-of-the-hour (:00) runner congestion
+    - cron: '12,47 * * * *'
+    
+  # Allows you to click "Run workflow" manually anytime from the GitHub Actions tab
+  workflow_dispatch:
 
+# =============================================================================
+# JOBS DEFINITION
+# =============================================================================
 jobs:
   scrape-and-send:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to commit sent_history.json
+      contents: write # Grants permission to commit sent_history.json
 
     steps:
+      # Step 1: Check out your repository code
       - name: Checkout Repository
         uses: actions/checkout@v4.2.2
         with:
           fetch-depth: 1
 
+      # Step 2: Run the Python Scraper
       - name: Run Scraper and Dispatch to Telegram
         env:
+          # Reads encrypted bot token and chat ID from GitHub Repository Secrets
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          
+          # Optional custom variables (default: 'all' categories, max 6 per run)
           FILTER_MODE: ${{ vars.FILTER_MODE || 'all' }}
           MAX_SEND: ${{ vars.MAX_SEND || '6' }}
         run: |
           python3 scraper.py
 
-      - name: Commit & Push History (Prevent Duplicates)
+      # Step 3: Commit and Push sent_history.json so already-sent articles are never repeated
+      - name: Commit & Push History (Prevent Duplicate Alerts)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
