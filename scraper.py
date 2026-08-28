@@ -1,18 +1,21 @@
 #!/usr/bin/env python3
 """
-CyberPulse • Comprehensive Cybersecurity & Tech Threat Intelligence Scraper
-Scrapes:
-- Breaking Cyber News & Zero-Days
-- Security Engineering & Reverse Engineering Research
-- Hacker Tools, Hardware Gadgets (Flipper Zero, SDR, BadUSB)
-- AI Security, LLM Prompt Injections & Jailbreaks
-- Threat Actor Intelligence & Malware Deep-Dives
+CyberPulse • Global & Regional Cyber Threat Intelligence Broadcaster
+Runs automatically via GitHub Actions every 30-45 minutes.
+
+Features:
+- Dynamic peak-time throttle & anti-flood pacing
+- Monitors India (CERT-In, Cybercrime & Banking), US (CISA), UK (NCSC) & Global
+- AI Security, LLM Hacks & Security Engineering Research
+- Hacker Tools & Hardware Gadgets (Flipper Zero, SDR, BadUSB)
 """
 
 import os
 import sys
 import json
 import re
+import time
+import random
 import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
@@ -33,85 +36,129 @@ def clean_chat_id(raw_id):
 # 1. Telegram Configuration from GitHub Secrets / Environment Variables
 BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip().strip("'\"")
 CHAT_ID = clean_chat_id(os.environ.get("TELEGRAM_CHAT_ID", ""))
-FILTER_MODE = os.environ.get("FILTER_MODE", "all").strip() # 'all' or 'zerodays_only'
+FILTER_MODE = os.environ.get("FILTER_MODE", "all").strip().lower() # 'all', 'zerodays_only', 'india_only'
 MAX_SEND = int(os.environ.get("MAX_SEND", "6"))
 
 HISTORY_FILE = "sent_history.json"
 
-# 2. Comprehensive Cybersecurity Feeds (News, Research, Gadgets, AI, Tools)
+# 2. Comprehensive Cybersecurity Feeds (India, US, UK, Global, Tools, AI, Research)
 FEEDS = [
-    # Breaking News & Threat Intel
+    # 🇮🇳 INDIA & REGIONAL THREAT INTEL
+    {
+        "name": "The420 Cyber News India",
+        "url": "https://www.the420.in/feed/",
+        "icon": "🇮🇳",
+        "default_region": "🇮🇳 India"
+    },
+    {
+        "name": "Cyber Security News (India & Global)",
+        "url": "https://cybersecuritynews.com/feed/",
+        "icon": "🛡️",
+        "default_region": "🇮🇳 India / Global"
+    },
+    {
+        "name": "GBHackers InfoSec",
+        "url": "https://gbhackers.com/feed/",
+        "icon": "⚡",
+        "default_region": "🇮🇳 India / Global"
+    },
+
+    # 🇺🇸 US & 🇬🇧 UK GOVERNMENT THREAT ADVISORIES
+    {
+        "name": "CISA Advisories (US)",
+        "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+        "icon": "🚨",
+        "default_region": "🇺🇸 United States"
+    },
+    {
+        "name": "NCSC UK Alerts (UK)",
+        "url": "https://www.ncsc.gov.uk/api/1/services/v1/report-rss-feed.xml",
+        "icon": "🇬🇧",
+        "default_region": "🇬🇧 United Kingdom"
+    },
+
+    # 🌐 GLOBAL ZERO-DAYS, RANSOMWARE & BREAKING INTEL
     {
         "name": "The Hacker News",
         "url": "https://feeds.feedburner.com/TheHackersNews",
-        "icon": "⚡"
-    },
-    {
-        "name": "CISA Advisories",
-        "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
-        "icon": "🚨"
+        "icon": "⚡",
+        "default_region": "🌐 Global"
     },
     {
         "name": "Dark Reading",
         "url": "https://www.darkreading.com/rss.xml",
-        "icon": "👁️"
+        "icon": "👁️",
+        "default_region": "🌐 Global"
     },
     {
         "name": "The Register Security",
         "url": "https://www.theregister.com/security/headlines.atom",
-        "icon": "🪓"
+        "icon": "🪓",
+        "default_region": "🌐 Global"
     },
     {
         "name": "Krebs on Security",
         "url": "https://krebsonsecurity.com/feed/",
-        "icon": "🛡️"
+        "icon": "🛡️",
+        "default_region": "🌐 Global"
     },
     {
         "name": "SecurityWeek",
         "url": "https://www.securityweek.com/feed/",
-        "icon": "🌐"
+        "icon": "🌐",
+        "default_region": "🌐 Global"
     },
     {
         "name": "Security Affairs",
         "url": "https://securityaffairs.com/feed",
-        "icon": "🕵️"
+        "icon": "🕵️",
+        "default_region": "🌐 Global"
     },
     {
         "name": "SANS Internet Storm Center",
         "url": "https://isc.sans.edu/rssfeed.xml",
-        "icon": "⛈️"
+        "icon": "⛈️",
+        "default_region": "🌐 Global"
     },
-    # Security Engineering & Deep Research Blogs
+
+    # 🥷 SECURITY ENGINEERING & DEEP RESEARCH
     {
         "name": "PortSwigger Research",
         "url": "https://portswigger.net/research/rss",
-        "icon": "🧪"
+        "icon": "🧪",
+        "default_region": "🌐 Global"
     },
     {
         "name": "Cisco Talos Threat Intel",
         "url": "https://blog.talosintelligence.com/rss/",
-        "icon": "🎯"
+        "icon": "🎯",
+        "default_region": "🌐 Global"
     },
     {
         "name": "Microsoft Security Blog",
         "url": "https://www.microsoft.com/en-us/security/blog/feed/",
-        "icon": "🏢"
+        "icon": "🏢",
+        "default_region": "🌐 Global"
     },
     {
         "name": "Cloudflare Security",
         "url": "https://blog.cloudflare.com/tag/security/rss/",
-        "icon": "☁️"
+        "icon": "☁️",
+        "default_region": "🌐 Global"
     },
-    # Hacker Gadgets, Tools & Hardware Hacks
+
+    # 🛠️ HACKER TOOLS, GADGETS & HARDWARE HACKS
     {
         "name": "Hackaday Security Hacks",
         "url": "https://hackaday.com/category/security-hacks/feed/",
-        "icon": "🛠️"
+        "icon": "🛠️",
+        "default_region": "🌐 Global"
     },
     {
         "name": "Help Net Security",
         "url": "https://www.helpnetsecurity.com/feed/",
-        "icon": "🔐"
+        "icon": "🔐",
+        "default_region": "🌐 Global"
     }
 ]
 
@@ -147,6 +194,36 @@ def extract_cves(text):
     matches = re.findall(r"CVE-\d{4}-\d{4,7}", text, re.IGNORECASE)
     return list(dict.fromkeys([m.upper() for m in matches]))
 
+def detect_region(title, snippet, feed_info):
+    text = f"{title} {snippet} {feed_info.get('name', '')}".lower()
+
+    # 1. India Keywords
+    if any(k in text for k in [
+        "india", "indian", "cert-in", "delhi", "mumbai", "bengaluru", "bangalore", "hyderabad",
+        "rbi", "sebi", "upi", "aadhaar", "cbi", "cyber cell", "the420", "patna", "noida", "gurugram",
+        "chennai", "kolkata", "pune", "meity", "i4c", "dpdp"
+    ]) or "The420" in feed_info.get("name", ""):
+        return "🇮🇳 India"
+
+    # 2. United States Keywords
+    if any(k in text for k in ["cisa", "fbi", "nsa", "white house", "pentagon", "united states", "u.s.", "doj", "treasury"]) or "CISA" in feed_info.get("name", ""):
+        return "🇺🇸 United States"
+
+    # 3. United Kingdom Keywords
+    if any(k in text for k in ["ncsc", "uk", "gchq", "london", "britain", "england", "british"]) or "NCSC" in feed_info.get("name", ""):
+        return "🇬🇧 United Kingdom"
+
+    # 4. Europe Keywords
+    if any(k in text for k in ["european union", "eu ", "enisa", "gdpr", "germany", "france", "netherlands", "bsi", "anssi"]):
+        return "🇪🇺 Europe"
+
+    # 5. Asia-Pacific Keywords
+    if any(k in text for k in ["australia", "acsc", "singapore", "singcert", "japan", "jpcert", "taiwan", "south korea"]):
+        return "🌏 Asia-Pacific"
+
+    # Default fallback
+    return feed_info.get("default_region", "🌐 Global")
+
 def categorize(title, snippet, source_name=""):
     text = f"{title} {snippet} {source_name}".lower()
 
@@ -175,8 +252,8 @@ def categorize(title, snippet, source_name=""):
         return "💼 Data Breaches"
 
     # 7. CISA & Gov Advisories
-    if re.search(r"cisa|fbi|nsa|advisory|directive|homeland security|kev catalog", text):
-        return "🚨 CISA & Advisories"
+    if re.search(r"cisa|cert-in|fbi|nsa|advisory|directive|homeland security|kev catalog", text):
+        return "🚨 CISA & CERT Advisories"
 
     # 8. Cloud & Supply Chain
     if re.search(r"aws|azure|cloud|kubernetes|docker|github|npm|pypi|supply chain", text):
@@ -246,6 +323,7 @@ def parse_feed(feed_info):
                 image = extract_image(item, raw_desc)
                 cves = extract_cves(f"{title} {snippet}")
                 category = categorize(title, snippet, feed_info["name"])
+                region = detect_region(title, snippet, feed_info)
 
                 item_id = f"{feed_info['name']}:{link}"
                 articles.append({
@@ -254,6 +332,7 @@ def parse_feed(feed_info):
                     "link": link,
                     "snippet": snippet,
                     "category": category,
+                    "region": region,
                     "cves": cves,
                     "image": image,
                     "source": feed_info["name"],
@@ -280,6 +359,7 @@ def parse_feed(feed_info):
                 image = extract_image(entry, raw_desc)
                 cves = extract_cves(f"{title} {snippet}")
                 category = categorize(title, snippet, feed_info["name"])
+                region = detect_region(title, snippet, feed_info)
 
                 item_id = f"{feed_info['name']}:{link}"
                 articles.append({
@@ -288,6 +368,7 @@ def parse_feed(feed_info):
                     "link": link,
                     "snippet": snippet,
                     "category": category,
+                    "region": region,
                     "cves": cves,
                     "image": image,
                     "source": feed_info["name"],
@@ -313,11 +394,13 @@ def send_telegram(item):
     safe_snippet = escape_html(item["snippet"])
     safe_source = escape_html(item["source"])
     safe_cat = escape_html(item["category"])
+    safe_region = escape_html(item["region"])
 
     message_text = (
         f"🚨 <b>CYBERPULSE INTEL ALERT</b> 🚨\n\n"
         f"<b>{safe_title}</b>\n\n"
         f"📁 <b>Category:</b> {safe_cat}\n"
+        f"🌍 <b>Region:</b> {safe_region}\n"
         f"📡 <b>Source:</b> {item['icon']} {safe_source}{cve_str}\n\n"
         f"📝 <b>Intel Brief:</b>\n{safe_snippet}\n\n"
         f"🔗 <a href=\"{item['link']}\">Read Full Story</a>"
@@ -367,16 +450,26 @@ def send_telegram(item):
         return False
 
 def main():
+    now_utc = datetime.now(timezone.utc)
+    current_hour = now_utc.hour
+    
+    # Peak-time check: 06:00 to 18:00 UTC (Active daytime across India, Europe, US)
+    is_peak_time = (6 <= current_hour <= 18)
+    
     print("====================================================")
-    print("🛡️  CyberPulse • Expanded Threat Intel & Tools Bot")
-    print(f"⏰ Execution Time: {datetime.now(timezone.utc).isoformat()} UTC")
-    print(f"📡 Monitored Feeds: {len(FEEDS)} Sources (News, Tools, AI, Research)")
+    print("🛡️  CyberPulse • Global & Regional Threat Intel Bot")
+    print(f"⏰ Execution Time: {now_utc.isoformat()} UTC")
+    print(f"📡 Peak Hours Active: {'YES (Throttled Pacing)' if is_peak_time else 'NO (Normal Speed)'}")
+    print(f"🌐 Monitored Feeds: {len(FEEDS)} Sources")
     print("====================================================")
 
     if not BOT_TOKEN or not CHAT_ID:
         print("[!] Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID in GitHub Repository Secrets.")
         print("[!] Please add them under: Settings -> Secrets and variables -> Actions")
         sys.exit(0)
+
+    # Initial random jitter (2 to 6 seconds) to prevent simultaneous lockups
+    time.sleep(random.uniform(2.0, 6.0))
 
     history = load_history()
     seen_ids = set(history)
@@ -394,16 +487,24 @@ def main():
     unread = [a for a in all_articles if a["id"] not in seen_ids]
     print(f"[+] Found {len(unread)} new unread articles.")
 
+    # Apply custom filter modes
     if FILTER_MODE == "zerodays_only":
         unread = [a for a in unread if "Zero-Days" in a["category"] or a["cves"]]
         print(f"[+] Filtered for Zero-Days only: {len(unread)} remaining.")
+    elif FILTER_MODE == "india_only":
+        unread = [a for a in unread if "India" in a["region"]]
+        print(f"[+] Filtered for India only: {len(unread)} remaining.")
 
     sent_count = 0
     for article in unread[:MAX_SEND]:
-        print(f"[*] Dispatching: [{article['category']}] {article['title'][:45]}...")
+        print(f"[*] Dispatching: [{article['region']}] [{article['category']}] {article['title'][:40]}...")
         if send_telegram(article):
             history.append(article["id"])
             sent_count += 1
+            
+            # Anti-flood pacing delay: during peak time add 2.5-4s delay; off-peak add 1.2-2s delay
+            delay = random.uniform(2.5, 4.0) if is_peak_time else random.uniform(1.2, 2.0)
+            time.sleep(delay)
         else:
             print(f"[-] Failed to send: {article['title']}")
 
