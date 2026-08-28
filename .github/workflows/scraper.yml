@@ -2,9 +2,9 @@ name: "CyberPulse Telegram News Scraper"
 
 on:
   schedule:
-    # Runs automatically every hour (at minute 0) 24/7
-    - cron: '0 * * * *'
-  workflow_dispatch: # Allows manual run anytime from GitHub Actions tab
+    # Runs every 30 minutes at off-peak minutes (:14 and :44) to bypass GitHub queue drops
+    - cron: '14,44 * * * *'
+  workflow_dispatch: # Allows manual trigger anytime
 
 jobs:
   scrape-and-send:
