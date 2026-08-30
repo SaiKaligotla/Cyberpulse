@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-  <b>A 100% serverless, zero-cost threat intelligence bot that delivers real-time cybersecurity news, security engineering writeups, hacker hardware gadgets, AI/LLM security research, and Zero-Day alerts straight to Telegram.</b>
+  <b>A 100% serverless, zero-cost threat intelligence bot that delivers real-time cybersecurity news from India (CERT-In, Cybercrime & Banking) and Global superpowers (US, UK, EU, APAC), plus AI Security & Hacker Tools straight to Telegram.</b>
 </p>
 
 <p align="center">
   <a href="https://t.me/Cyber_pulse_News"><img src="https://img.shields.io/badge/Telegram-Join%20Channel-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
   <img src="https://img.shields.io/badge/GitHub%20Actions-Automated%2024%2F7-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Coverage-India%20%26%20Global-orange?style=for-the-badge" alt="Regional Coverage">
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
@@ -24,31 +25,37 @@ See all news, AI security research, and hacker tool writeups live on Telegram:
 
 ---
 
-## 🌐 Complete Topics & Sources Monitored
+## 🌐 Complete Topics & Sources Monitored (18+ Feeds)
 
-CyberPulse tracks across 4 core cybersecurity pillars:
+CyberPulse tracks across 5 core cybersecurity pillars:
 
-### 1. 🤖 AI Security & LLM Hacks
+### 1. 🇮🇳 India Threat Landscape & CERT-In
+- **Sources**: *The420 Cyber News India*, *Cyber Security News (India & Global)*, *GBHackers InfoSec*.
+- **Topics**: CERT-In vulnerability bulletins, Indian banking & UPI frauds, state police cyber cell operations, CBI investigations, DPDP Act compliance, and national cyber defense.
+
+### 2. 🤖 AI Security & LLM Hacks
 - **Topics**: Prompt injections, jailbreaks, LLM Red Teaming, AI agent vulnerabilities, model poisoning, and deepfakes.
 
-### 2. 🛠️ Hacker Gadgets & Security Tools
+### 3. 🛠️ Hacker Gadgets & Security Tools
 - **Sources**: *Hackaday Security Hacks*, *Help Net Security*.
 - **Topics**: Hardware teardowns, Flipper Zero, SDR/Radio frequency hacks, BadUSB, Wi-Fi Pineapple, Burp Suite, Ghidra, Nmap, and open-source tooling.
 
-### 3. 🥷 Security Engineering & Deep Research
+### 4. 🥷 Security Engineering & Deep Research
 - **Sources**: *PortSwigger Web Security Research*, *Cisco Talos Threat Intelligence*, *Microsoft Security Intelligence*, *Cloudflare Security*.
 - **Topics**: Reverse engineering, kernel exploits, HTTP request smuggling, binary analysis, protocol vulnerabilities, and defensive architecture.
 
-### 4. 🚨 Breaking News, Zero-Days & Advisories
-- **Sources**: *The Hacker News*, *CISA Advisories (US-CERT)*, *Dark Reading*, *Krebs on Security*, *The Register Security*, *SecurityWeek*, *SANS Internet Storm Center*, *Security Affairs*.
+### 5. 🚨 Breaking News, Zero-Days & Advisories
+- **Sources**: *The Hacker News*, *CISA Advisories (US-CERT)*, *NCSC UK Alerts*, *Dark Reading*, *Krebs on Security*, *The Register Security*, *SecurityWeek*, *SANS Internet Storm Center*, *Security Affairs*.
 - **Topics**: Critical CVE disclosures (CVSS 10.0), active ransomware campaigns, data breaches, and government directives.
 
 ---
 
 ## ✨ Features
 
-- **🚀 100% Serverless & Free**: Powered entirely by **GitHub Actions** cron schedules. No hosting, VPS, or maintenance required.
-- **⏱️ Automated 24/7 Monitoring**: Runs automatically every **15 minutes** in the cloud.
+- **🚀 100% Serverless & Free**: Runs automatically via **GitHub Actions**. No hosting, VPS, or maintenance required.
+- **⏱️ Automated 24/7 Monitoring**: Scrapes every **30 minutes** with guaranteed on-time execution.
+- **📅 7-Day Lookback & Priority Scoring**: Ranks and prioritizes the most critical Zero-Days, breaches, and major research from the past week.
+- **🌍 Regional Flag Badging**: Automatically tags posts with country flags (`🇮🇳 India`, `🇺🇸 United States`, `🇬🇧 United Kingdom`, `🇪🇺 Europe`, `🌏 Asia-Pacific`, `🌐 Global`).
 - **🔴 Automatic CVE Tagging**: Automatically detects and tags CVE identifiers (e.g. `CVE-2024-38856`).
 - **📸 Rich Telegram Cards**: Formats alerts with hero images, category badges, bold headlines, clean summaries, and inline direct article links.
 - **🛡️ Deduplication Engine**: Uses `sent_history.json` so your channel never gets spammed with duplicate posts.
@@ -106,13 +113,21 @@ GitHub Actions needs permission to commit `sent_history.json` so it can track se
 
 ---
 
-### Step 5: Test It!
+### Step 5: (Optional) 100% Reliable 24/7 Scheduling via cron-job.org
 
-1. Go to the **Actions** tab at the top of your GitHub repository.
-2. Click **"CyberPulse Telegram News Scraper"** on the left.
-3. Click **"Run workflow" ➔ "Run workflow"**.
+To ensure your workflow runs on the exact minute without any delays from GitHub's queue:
 
-🎉 **You're done!** Your bot will post the first batch of articles immediately and continue monitoring and posting 24/7 every 15 minutes.
+1. Create a GitHub Token with `repo` & `workflow` scope at **[github.com/settings/tokens/new](https://github.com/settings/tokens/new)**.
+2. Go to **[cron-job.org](https://cron-job.org)** (free) ➔ click **Create Cronjob**.
+3. **URL**: `https://api.github.com/repos/YOUR_USERNAME/YOUR_REPO/actions/workflows/scraper.yml/dispatches`
+4. **Method**: `POST`
+5. **Schedule**: `Every 30 minutes`
+6. **Headers**:
+   - `Authorization`: `Bearer YOUR_GITHUB_TOKEN`
+   - `Accept`: `application/vnd.github+json`
+   - `Content-Type`: `application/json`
+   - `User-Agent`: `CyberPulse-Cron`
+7. **Body**: `{"ref":"main"}`
 
 ---
 
@@ -122,8 +137,8 @@ You can customize your feed by adding optional variables under **Settings ➔ Se
 
 | Variable Name | Default | Options / Description |
 |---|---|---|
-| **`FILTER_MODE`** | `all` | Set to `zerodays_only` if you only want alerts for Zero-Days & Critical CVEs. |
-| **`MAX_SEND`** | `6` | Maximum number of new articles sent per 15-minute run (prevents Telegram rate limits). |
+| **`FILTER_MODE`** | `all` | • `all` — Dispatches all news, tools, and research.<br>• `india_only` — Dispatches **only India & CERT-In** news.<br>• `zerodays_only` — Dispatches only Zero-Days & Critical CVEs. |
+| **`MAX_SEND`** | `6` | Maximum number of new articles sent per 30-minute run (prevents Telegram rate limits). |
 
 ---
 
@@ -138,10 +153,3 @@ cd Cyberpulse
 export TELEGRAM_BOT_TOKEN="your_bot_token_here"
 export TELEGRAM_CHAT_ID="@your_channel_username"
 python3 scraper.py
-```
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
