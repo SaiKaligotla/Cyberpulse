@@ -1,5 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
   "The Hacker News:https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
   "The Hacker News:https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
   "The Hacker News:https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
@@ -498,5 +497,6 @@
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492",
   "Security Affairs:https://securityaffairs.com/198191/security/valleyrat-when-legitimate-software-becomes-a-malware-delivery-tool.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33298",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks"
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts"
 ]
