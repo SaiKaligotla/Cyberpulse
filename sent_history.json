@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-  "The Hacker News:https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-  "The Hacker News:https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
   "The Hacker News:https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
   "The Hacker News:https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
   "The Hacker News:https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
@@ -498,5 +495,8 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33302",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/virtualizor-compromise/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/anthropic-hardens-claude-security/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/cybersecurity-jobs-available-right-now-september-1-2026/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/cybersecurity-jobs-available-right-now-september-1-2026/",
+  "GBHackers InfoSec:https://gbhackers.com/cisa-flags-multiple-papercut-ng-mf-flaws/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/nis2-credential-compliance-before-audit/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/yaakov-stein-allot-telecom-pqc-migration/"
 ]
