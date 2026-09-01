@@ -1,6 +1,4 @@
 [
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-232-01",
-  "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog",
   "CISA Advisories:https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-01",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-02",
@@ -498,5 +496,7 @@
   "SecurityWeek:https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
   "GBHackers InfoSec:https://gbhackers.com/fake-openai-anthropic-and-deepseek/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/popular-npm-package-2/",
-  "The Hacker News:https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html"
+  "The Hacker News:https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+  "SecurityWeek:https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/berlin-data-breach-rhysida-ransomware/"
 ]
