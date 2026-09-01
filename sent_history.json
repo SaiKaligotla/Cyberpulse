@@ -1,5 +1,4 @@
 [
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-225-01",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-14",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-01",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-02",
@@ -498,5 +497,6 @@
   "The Hacker News:https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
   "Security Affairs:https://securityaffairs.com/198214/hacking/chaotic-eclipse-releases-kaspersky-zero-day-hardbreacher.html",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/new-windows-backdoor-2/",
-  "SecurityWeek:https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/"
+  "SecurityWeek:https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
+  "SecurityWeek:https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/"
 ]
