@@ -1,10 +1,4 @@
 [
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-02",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-03",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-08",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-07",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-11",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
   "Dark Reading:https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
   "SecurityWeek:https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/poc-microsoft-exchange-server-pre-auth-rce/",
-  "The Hacker News:https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html"
+  "The Hacker News:https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+  "GBHackers InfoSec:https://gbhackers.com/critical-jfrog-artifactory-authentication-bypass-exploited/",
+  "GBHackers InfoSec:https://gbhackers.com/jsceal-crypto-stealer/",
+  "SecurityWeek:https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-ai-malware/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/revstealer-malware-claude-opus-5-github/",
+  "The Register Security:https://www.theregister.com/security/2026/09/01/33-hour-bgp-hijack-of-softaculous-traffic-prompts-security-scramble/5293608"
 ]
