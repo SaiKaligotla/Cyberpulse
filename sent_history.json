@@ -1,10 +1,4 @@
 [
-  "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/24/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/20/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-06",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-01",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-04",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-02",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-03",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-07",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/malicious-website-themes/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-compromise-cisco-routers/",
   "GBHackers InfoSec:https://gbhackers.com/npm-supply-chain-attack-2/",
-  "GBHackers InfoSec:https://gbhackers.com/fire-ant-campaign/"
+  "GBHackers InfoSec:https://gbhackers.com/fire-ant-campaign/",
+  "GBHackers InfoSec:https://gbhackers.com/wordpress-uses-frontier-ai-tools-to-detect-vulnerabilities/",
+  "GBHackers InfoSec:https://gbhackers.com/sleepwalker-malware/",
+  "The420 Cyber News India:https://the420.in/aman-sanger-cursor-spacex-60-billion-acquisition/",
+  "The420 Cyber News India:https://the420.in/fire-ant-cisco-router-cyber-espionage-malware-attack/",
+  "Security Affairs:https://securityaffairs.com/198200/security/u-s-cisa-adds-papercut-ng-mf-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+  "The Hacker News:https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
 ]
