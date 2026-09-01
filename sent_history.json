@@ -1,6 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075",
-  "The Register Security:https://www.theregister.com/security/2026/08/21/cisco-bug-severity-warning-reads-like-olympic-gymnastics-scores-10-10-99-96-and-75/5290838",
   "The Register Security:https://www.theregister.com/security/2026/08/21/russian-snoops-add-oauth-abuse-to-targeted-phishing-campaigns/5290706",
   "The Register Security:https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560",
   "The Register Security:https://www.theregister.com/security/2026/08/20/researcher-tricks-apples-find-my-into-sharing-location-data-with-linux/5290496",
@@ -498,5 +496,7 @@
   "The Hacker News:https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
-  "The Hacker News:https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
+  "The Hacker News:https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+  "SecurityWeek:https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
+  "The Register Security:https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747"
 ]
