@@ -1,8 +1,4 @@
 [
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-02",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-03",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-07",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-05",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-232-01",
   "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/19/cisa-adds-one-known-exploited-vulnerability-catalog",
   "CISA Advisories:https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a",
@@ -498,5 +494,9 @@
   "The420 Cyber News India:https://the420.in/aman-sanger-cursor-spacex-60-billion-acquisition/",
   "The420 Cyber News India:https://the420.in/fire-ant-cisco-router-cyber-espionage-malware-attack/",
   "Security Affairs:https://securityaffairs.com/198200/security/u-s-cisa-adds-papercut-ng-mf-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-  "The Hacker News:https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html"
+  "The Hacker News:https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+  "SecurityWeek:https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
+  "GBHackers InfoSec:https://gbhackers.com/fake-openai-anthropic-and-deepseek/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/popular-npm-package-2/",
+  "The Hacker News:https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html"
 ]
