@@ -1,6 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/08/21/russian-snoops-add-oauth-abuse-to-targeted-phishing-campaigns/5290706",
-  "The Register Security:https://www.theregister.com/security/2026/08/20/us-bank-investigates-lockbits-claims-as-ransomware-crims-set-pay-or-leak-deadline/5290560",
   "The Register Security:https://www.theregister.com/security/2026/08/20/researcher-tricks-apples-find-my-into-sharing-location-data-with-linux/5290496",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/08/20/ransomware-crook-poses-as-recovery-firm-to-steal-payments-from-fellow-extortionists/5290344",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019",
@@ -498,5 +496,7 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
   "The Hacker News:https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
   "SecurityWeek:https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
-  "The Register Security:https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747"
+  "The Register Security:https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747",
+  "Dark Reading:https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
+  "The Register Security:https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730"
 ]
