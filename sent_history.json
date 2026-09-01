@@ -1,6 +1,4 @@
 [
-  "CISA Advisories:https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-01",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-02",
   "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
   "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -498,5 +496,7 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/popular-npm-package-2/",
   "The Hacker News:https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
   "SecurityWeek:https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/berlin-data-breach-rhysida-ransomware/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/berlin-data-breach-rhysida-ransomware/",
+  "GBHackers InfoSec:https://gbhackers.com/ai-enhanced-brazetsu-malware/",
+  "SecurityWeek:https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/"
 ]
