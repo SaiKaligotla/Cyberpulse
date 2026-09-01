@@ -1,8 +1,4 @@
 [
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-02",
-  "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-05",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-12",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-13",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-225-01",
@@ -498,5 +494,9 @@
   "SecurityWeek:https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/berlin-data-breach-rhysida-ransomware/",
   "GBHackers InfoSec:https://gbhackers.com/ai-enhanced-brazetsu-malware/",
-  "SecurityWeek:https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/"
+  "SecurityWeek:https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/revstealer-inside-fake-claude/",
+  "GBHackers InfoSec:https://gbhackers.com/boston-scientific-cyberattack/",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+  "Security Affairs:https://securityaffairs.com/198214/hacking/chaotic-eclipse-releases-kaspersky-zero-day-hardbreacher.html"
 ]
