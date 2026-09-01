@@ -1,7 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346",
-  "The Register Security:https://www.theregister.com/security/2026/08/22/aws-security-makes-an-inscrutable-choice-corey-quinn/5291446",
-  "The Register Security:https://www.theregister.com/patches/2026/08/21/homeland-security-cybercops-say-patch-trueconf-russias-zoom-if-youre-using-it/5291156",
   "The Register Security:https://www.theregister.com/security/2026/08/21/hackers-poison-popular-rust-crates-to-steal-developers-credentials/5291075",
   "The Register Security:https://www.theregister.com/security/2026/08/21/cisco-bug-severity-warning-reads-like-olympic-gymnastics-scores-10-10-99-96-and-75/5290838",
   "The Register Security:https://www.theregister.com/security/2026/08/21/russian-snoops-add-oauth-abuse-to-targeted-phishing-campaigns/5290706",
@@ -498,5 +495,8 @@
   "The Hacker News:https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
   "SecurityWeek:https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
   "SecurityWeek:https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/",
-  "The Hacker News:https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html"
+  "The Hacker News:https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
+  "The Hacker News:https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
 ]
