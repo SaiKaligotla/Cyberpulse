@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
-  "The Hacker News:https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
   "The Hacker News:https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
   "Dark Reading:https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/chennai-ccb-investment-fraud-latha-arrested-78-lakh/",
   "The420 Cyber News India:https://the420.in/fcrf-launches-india-focused-bfsi-compliance-certification-for-emerging-governance-professionals/",
   "The420 Cyber News India:https://the420.in/cbi-fir-wapcos-officer-jal-jeevan-mission-corruption-probe/",
-  "The420 Cyber News India:https://the420.in/ghaziabad-pan-misuse-fake-firm-16-crore-fraud/"
+  "The420 Cyber News India:https://the420.in/ghaziabad-pan-misuse-fake-firm-16-crore-fraud/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-01",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-06",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-05",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-03",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-02",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-04"
 ]
