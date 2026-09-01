@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
-  "Dark Reading:https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
-  "Dark Reading:https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
   "Dark Reading:https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
   "Dark Reading:https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-ai-malware/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/revstealer-malware-claude-opus-5-github/",
-  "The Register Security:https://www.theregister.com/security/2026/09/01/33-hour-bgp-hijack-of-softaculous-traffic-prompts-security-scramble/5293608"
+  "The Register Security:https://www.theregister.com/security/2026/09/01/33-hour-bgp-hijack-of-softaculous-traffic-prompts-security-scramble/5293608",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/exchange-servers-remain-exposed-2026-62911/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-abuse-real-chatgpt-links/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/wordpress-is-using-ai-to-find-security-flaws/",
+  "GBHackers InfoSec:https://gbhackers.com/chatgpt-links-abused/",
+  "GBHackers InfoSec:https://gbhackers.com/microsoft-teams-it-support-scam/",
+  "GBHackers InfoSec:https://gbhackers.com/five-plead-guilty-to-using-atm-jackpotting-malware/"
 ]
