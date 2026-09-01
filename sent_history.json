@@ -1,7 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/08/20/researcher-tricks-apples-find-my-into-sharing-location-data-with-linux/5290496",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/08/20/ransomware-crook-poses-as-recovery-firm-to-steal-payments-from-fellow-extortionists/5290344",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/08/20/grok-chat-duped-into-swallowing-injected-instructions/5290019",
   "The Hacker News:https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
   "The Register Security:https://www.theregister.com/security/2026/08/20/french-tax-authority-says-break-in-exposed-data-of-600k-including-some-private-messages/5290249",
   "The Register Security:https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
@@ -498,5 +495,8 @@
   "SecurityWeek:https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
   "The Register Security:https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747",
   "Dark Reading:https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
-  "The Register Security:https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730"
+  "The Register Security:https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
+  "The Register Security:https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within"
 ]
