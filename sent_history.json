@@ -1,5 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/08/19/comcast-gives-its-wi-fi-motion-detector-a-security-makeover/5289572",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/08/19/australian-hotel-chain-leaks-guests-pii-after-breach-at-third-party-database-operator/5289341",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
   "The Register Security:https://www.theregister.com/security/2026/08/18/expired-credit-cards-revived-by-researchers-to-make-unauthorized-payments/5289229",
@@ -498,5 +497,6 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33304",
-  "The Hacker News:https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html"
+  "The Hacker News:https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month"
 ]
