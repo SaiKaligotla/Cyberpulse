@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194",
-  "The Hacker News:https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-  "The Hacker News:https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-  "SecurityWeek:https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
-  "Security Affairs:https://securityaffairs.com/197980/hacking/papercut-zero-day-under-active-attack-emergency-patch-released.html",
-  "The Register Security:https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168",
   "The420 Cyber News India:https://the420.in/fssai-everest-hing-lalji-godhu-quality-test-action/",
   "The420 Cyber News India:https://the420.in/gurugram-cyber-fraud-bank-account-task-scam-arrests/",
   "The420 Cyber News India:https://the420.in/canara-bank-upi-fraud-consumer-commission-73765-refund-order/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/anthropic-claude-fable-5-1-launch-performance-cost-reduction/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/",
   "The420 Cyber News India:https://the420.in/irdai-public-insurance-registry-proposal/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/silver-fox-linked-hackers/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/silver-fox-linked-hackers/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-05",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+  "The Hacker News:https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+  "SecurityWeek:https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
+  "SecurityWeek:https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
+  "The Hacker News:https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
 ]
