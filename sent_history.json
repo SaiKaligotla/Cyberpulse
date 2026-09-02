@@ -1,8 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-237a",
-  "The420 Cyber News India:https://the420.in/mbbs-admission-scam-neet-government-medical-seats-domicile-quota/",
-  "The420 Cyber News India:https://the420.in/ahmedabad-cyber-fraud-apk-fake-payment-investment-scams/",
-  "The420 Cyber News India:https://the420.in/mumbai-mangalore-gas-apk-cyber-fraud-three-arrested/",
   "The420 Cyber News India:https://the420.in/ai-powered-cyberattacks-tech-companies-cybersecurity-warning/",
   "The420 Cyber News India:https://the420.in/delhi-fake-bank-id-credit-card-scam/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33290",
@@ -498,5 +494,9 @@
   "The Register Security:https://www.theregister.com/os-platforms/2026/08/27/omarchy-distro-gains-serious-backing/5293026",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
-  "The Register Security:https://www.theregister.com/security/2026/08/27/sponsored-schroedingers-backup-not-actually-recovered-until-you-try-to-restore-it/5286772"
+  "The Register Security:https://www.theregister.com/security/2026/08/27/sponsored-schroedingers-backup-not-actually-recovered-until-you-try-to-restore-it/5286772",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
+  "The Register Security:https://www.theregister.com/security/2026/08/27/cybercrooks-jet-off-with-manchester-airports-group-customer-data/5292943",
+  "The Register Security:https://www.theregister.com/security/2026/08/27/nuisance-call-blocker-fined-190k-for-being-a-nuisance-caller/5292888",
+  "Krebs on Security:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/"
 ]
