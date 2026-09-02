@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/08/26/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/cisa-vulnerability-review",
-  "Security Affairs:https://securityaffairs.com/198064/cyber-crime/rhysida-ransomware-group-targets-berlin-government-ahead-of-vote.html",
-  "SecurityWeek:https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/",
-  "Security Affairs:https://securityaffairs.com/198133/malware/security-affairs-malware-newsletter-round-112.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33280",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/08/25/cisa-adds-one-known-exploited-vulnerability-catalog",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-06",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-05",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/digital-arrest-red-fort-blast-case-retired-railway-employee-cyber-fraud/",
   "The Hacker News:https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
   "The Hacker News:https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-  "SecurityWeek:https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/"
+  "SecurityWeek:https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
+  "The420 Cyber News India:https://the420.in/dating-app-scams-identity-verification-india/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/russian-hacker-using-excel-malware/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/new-tuktuk-malware/",
+  "The420 Cyber News India:https://the420.in/cheap-mobile-accessories-online-fraud-19-states/",
+  "The420 Cyber News India:https://the420.in/thane-senior-citizen-investment-fraud-flat-returns-case/",
+  "The420 Cyber News India:https://the420.in/durg-share-trading-investment-fraud-family-crore/"
 ]
