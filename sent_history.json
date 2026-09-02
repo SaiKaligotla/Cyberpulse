@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
-  "The Register Security:https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
-  "The Register Security:https://www.theregister.com/security/2026/08/27/atf-responds-to-major-cybersecurity-incident-after-ransomware-gangs-claims/5292990",
-  "SecurityWeek:https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/",
-  "GBHackers InfoSec:https://gbhackers.com/700-openai-agents-coordinate-attack-on-hugging-face/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/08/24/cisa-adds-one-known-exploited-vulnerability-catalog",
   "SecurityWeek:https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/",
   "Security Affairs:https://securityaffairs.com/198085/hacking/hack-one-robot-reach-the-next-unitree-g1-security-flaws.html",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/198303/security/sonicwall-patches-two-new-actively-exploited-zero-days-in-sma-1000-vpns.html",
   "The Hacker News:https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
   "Dark Reading:https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks",
-  "The Hacker News:https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html"
+  "The Hacker News:https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+  "The420 Cyber News India:https://the420.in/murari-lal-meena-obc-loan-fraud-cbi-sentence/",
+  "The420 Cyber News India:https://the420.in/tamil-nadu-cb-cid-deepfake-chief-minister-vijay/",
+  "The420 Cyber News India:https://the420.in/surat-telegram-investment-scam-aditya-pandey-cyber-fraud/",
+  "The420 Cyber News India:https://the420.in/rajasthan-juvenile-ips-facebook-impersonation-furniture-fraud-case/",
+  "The420 Cyber News India:https://the420.in/defence-project-fraud-1000-crore-fake-contract-scam/",
+  "The420 Cyber News India:https://the420.in/mp-high-court-sbi-bank-account-freeze-cyber-fraud/"
 ]
