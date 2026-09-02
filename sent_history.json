@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-03",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/08/27/alleged-teampcp-hackers-arrested-australia/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/08/27/papercut-ng-mf-vulnerability-attack/",
-  "The420 Cyber News India:https://the420.in/mule-accounts-ai-cyber-fraud-money-trail/",
-  "The420 Cyber News India:https://the420.in/goa-digital-arrest-ed-cyber-fraud-probe/",
-  "The420 Cyber News India:https://the420.in/berlin-ransomware-attack-hacker-blackmail/",
   "The420 Cyber News India:https://the420.in/ai-powered-crypto-scams-security-threats/",
   "Security Affairs:https://securityaffairs.com/198124/security/security-affairs-newsletter-round-592-by-pierluigi-paganini-international-edition.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/palo-alto-networks-acquires-console-to-add-agentic-ai-workflows-to-cortex/",
   "GBHackers InfoSec:https://gbhackers.com/aws-api-abuse/",
   "GBHackers InfoSec:https://gbhackers.com/tuktuk-c2-framework/",
-  "The Register Security:https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168"
+  "The Register Security:https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-litellm-admin-api-flaw/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-01",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-03",
+  "The Register Security:https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738",
+  "SecurityWeek:https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/"
 ]
