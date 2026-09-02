@@ -1,10 +1,4 @@
 [
-  "PortSwigger Web Security Research:https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33288",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/",
-  "The Register Security:https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-  "SecurityWeek:https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
   "The Hacker News:https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
   "Security Affairs:https://securityaffairs.com/198033/data-breach/love-electric-breach-877000-driver-records-offered-for-600.html",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
   "SecurityWeek:https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
-  "Hackaday Security Hacks:https://hackaday.com/2026/08/28/this-week-in-security-android-malware-voip-hijack-signal-contact-discovery-and-teampcp-arrests/"
+  "Hackaday Security Hacks:https://hackaday.com/2026/08/28/this-week-in-security-android-malware-voip-hijack-signal-contact-discovery-and-teampcp-arrests/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/whatsapp-video-call-flaw/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/02/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+  "The Hacker News:https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+  "Dark Reading:https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
+  "Dark Reading:https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+  "The Hacker News:https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html"
 ]
