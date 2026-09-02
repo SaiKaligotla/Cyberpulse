@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/08/24/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "SecurityWeek:https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/",
-  "Security Affairs:https://securityaffairs.com/198085/hacking/hack-one-robot-reach-the-next-unitree-g1-security-flaws.html",
-  "Security Affairs:https://securityaffairs.com/198041/intelligence/philippine-nuclear-and-naval-targets-hit-by-suspected-chinese-operator.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/08/28/prasad-tharippala-versa-securing-ai-agents/",
-  "The Hacker News:https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
   "The Hacker News:https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
   "The Hacker News:https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/surat-telegram-investment-scam-aditya-pandey-cyber-fraud/",
   "The420 Cyber News India:https://the420.in/rajasthan-juvenile-ips-facebook-impersonation-furniture-fraud-case/",
   "The420 Cyber News India:https://the420.in/defence-project-fraud-1000-crore-fake-contract-scam/",
-  "The420 Cyber News India:https://the420.in/mp-high-court-sbi-bank-account-freeze-cyber-fraud/"
+  "The420 Cyber News India:https://the420.in/mp-high-court-sbi-bank-account-freeze-cyber-fraud/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-365-session-hijacking/",
+  "GBHackers InfoSec:https://gbhackers.com/firefox-for-iphone-adds-built-in-ad-blocker/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33292",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
+  "The Register Security:https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372"
 ]
