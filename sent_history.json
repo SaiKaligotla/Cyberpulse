@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-05",
-  "The Hacker News:https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-  "SecurityWeek:https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
-  "GBHackers InfoSec:https://gbhackers.com/iran-linked-cyberattack/",
-  "The Hacker News:https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
   "The Register Security:https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194",
   "The Hacker News:https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
   "The Hacker News:https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/sality-botnet-disruption-crowdstrike-law-enforcement/",
   "The420 Cyber News India:https://the420.in/supreme-court-upholds-two-year-bar-rizwan-siddiquee-client-confidentiality/",
   "The420 Cyber News India:https://the420.in/cbi-court-convicts-trading-firm-six-in-2-68-crore-bank-fraud-case/",
-  "The420 Cyber News India:https://the420.in/dri-seizes-42-kg-gold-worth-%e2%82%b965-crore-in-smuggling-crackdown/"
+  "The420 Cyber News India:https://the420.in/dri-seizes-42-kg-gold-worth-%e2%82%b965-crore-in-smuggling-crackdown/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-pose-as-it-support-microsoft-teams/",
+  "The Hacker News:https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+  "The420 Cyber News India:https://the420.in/anthropic-claude-fable-5-1-launch-performance-cost-reduction/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/",
+  "The420 Cyber News India:https://the420.in/irdai-public-insurance-registry-proposal/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/silver-fox-linked-hackers/"
 ]
