@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/08/28/us-government-snitch-finder-pleads-guilty-to-leaking-state-secrets-to-foreign-spies/5293248",
-  "The Hacker News:https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-  "The Register Security:https://www.theregister.com/security/2026/08/28/industry-that-built-the-problem-offers-to-sell-you-the-solution/5293207",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/08/28/north-korean-remote-workers-jobs-sales-and-marketing/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/08/28/android-17-network-security-features/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/08/28/manchester-airports-group-data-breach/",
   "The Register Security:https://www.theregister.com/security/2026/08/28/australian-cops-cuff-alleged-teampcp-masterminds/5293157",
   "Help Net Security:https://www.helpnetsecurity.com/2026/08/28/new-infosec-products-of-the-month-august-2026/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33294",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/security/2026/09/02/ai-agents-carried-out-every-step-of-this-ransomware-attack-then-left-the-victim-an-80-page-security-audit/5294009",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/download-the-agentic-software-development-guide/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/grid-battery-storage-cyberattack/",
-  "The Hacker News:https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html"
+  "The Hacker News:https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/sorry-i-cant-help-with-that-how-your-guardrails-might-become-the-attackers-best-friend/",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33296",
+  "The Register Security:https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33288",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/"
 ]
