@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/noida-china-hawala-network-shell-companies-under-invoicing-probe/",
-  "The420 Cyber News India:https://the420.in/chandauli-blackmail-gang-women-obscene-videos-four-arrested/",
-  "The420 Cyber News India:https://the420.in/kanpur-cyber-fraud-100-crore-bank-employees-dubai-network/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-03",
   "Help Net Security:https://www.helpnetsecurity.com/2026/08/27/alleged-teampcp-hackers-arrested-australia/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/08/27/papercut-ng-mf-vulnerability-attack/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
   "The Hacker News:https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
   "The Hacker News:https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-  "The Register Security:https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194"
+  "The Register Security:https://www.theregister.com/security/2026/08/28/cisa-most-exploited-vulnerabilities-should-have-been-eradicated-decades-ago/5293194",
+  "GBHackers InfoSec:https://gbhackers.com/hackers-exploit-litellm-admin-api-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/freerdp-3-31-0-fixes-22-security-flaws/",
+  "GBHackers InfoSec:https://gbhackers.com/palo-alto-networks-acquires-console-to-add-agentic-ai-workflows-to-cortex/",
+  "GBHackers InfoSec:https://gbhackers.com/aws-api-abuse/",
+  "GBHackers InfoSec:https://gbhackers.com/tuktuk-c2-framework/",
+  "The Register Security:https://www.theregister.com/security/2026/08/28/print-management-outfit-papercut-is-under-0-day-attack-and-its-drawing-customers-blood/5293168"
 ]
