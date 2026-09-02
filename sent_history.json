@@ -1,10 +1,4 @@
 [
-  "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-05",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-02",
-  "GBHackers InfoSec:https://gbhackers.com/cve-2023-49105-flaw-exploited/",
-  "The420 Cyber News India:https://the420.in/vatika-homebuyer-fraud-ed-assets-seized/",
-  "The420 Cyber News India:https://the420.in/shahnawaz-rana-ed-gst-fraud-27-crore-financial-trail/",
   "The420 Cyber News India:https://the420.in/bilpower-160-crore-bank-loan-fraud-ed-jewellery-cash-seizure/",
   "GBHackers InfoSec:https://gbhackers.com/papercut-warns-of-actively-exploited-vulnerability/",
   "GBHackers InfoSec:https://gbhackers.com/critical-cpanel-vulnerability/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
   "The Hacker News:https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
   "The Hacker News:https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-  "The Hacker News:https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html"
+  "The Hacker News:https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+  "The420 Cyber News India:https://the420.in/c-trace-whatsapp-bot-fastag-data-privacy-concerns/",
+  "The Hacker News:https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+  "The Hacker News:https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/visa-enhanced-a2a-protect-version/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/edge-case-guardian-ai-driven-platform/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/f5-waf-anomaly-detection-ai-threats/"
 ]
