@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-04",
-  "The Hacker News:https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/iran-linked-hackers-2/",
-  "GBHackers InfoSec:https://gbhackers.com/critical-wordpress-plugin-flaw-2/",
   "GBHackers InfoSec:https://gbhackers.com/servicenow-patches-critical-flaws/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-new-hookedge-malware/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/russian-university-leak/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/becky-palmer-national-life-group-ai-driven-cyber-threats/",
   "The Register Security:https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780",
-  "The Hacker News:https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html"
+  "The Hacker News:https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-04",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-02",
+  "Security Affairs:https://securityaffairs.com/198270/hacking/hackers-target-langflow-in-cve-2026-0768-attacks.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/keepnet-launches-free-sms-call-reporter-for-ios/",
+  "Dark Reading:https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
+  "The Hacker News:https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html"
 ]
