@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/servicenow-patches-critical-flaws/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-new-hookedge-malware/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/russian-university-leak/",
-  "GBHackers InfoSec:https://gbhackers.com/chinese-hackers-deploy-packclient-rat/",
-  "GBHackers InfoSec:https://gbhackers.com/hookedge-malware-campaign/",
-  "The Hacker News:https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
   "The420 Cyber News India:https://the420.in/openai-cursor-spacex-model-access-deal/",
   "GBHackers InfoSec:https://gbhackers.com/mcp-rce-exploitation/",
   "GBHackers InfoSec:https://gbhackers.com/researchers-execute-code-inside-fortune-500-companies/",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/198270/hacking/hackers-target-langflow-in-cve-2026-0768-attacks.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/keepnet-launches-free-sms-call-reporter-for-ios/",
   "Dark Reading:https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
-  "The Hacker News:https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html"
+  "The Hacker News:https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/sonicwall-remote-code-execution-vulnerabilities/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hpe-fabric-composer-flaws/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hugging-face-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/critical-hpe-fabric-composer-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/google-patches-26-chrome-vulnerabilities/"
 ]
