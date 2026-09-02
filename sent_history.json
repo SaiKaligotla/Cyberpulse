@@ -1,10 +1,4 @@
 [
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/javascript-obfuscation-from-party-trick-to-phishing-kit/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33274",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/",
-  "Dark Reading:https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
-  "Dark Reading:https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
-  "Security Affairs:https://securityaffairs.com/198143/cyber-crime/extortion-group-fulcrumsec-claims-86gb-manchester-airports-group-data-theft.html",
   "PortSwigger Web Security Research:https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33288",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/gemini-3-8-flash-cyber/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/firefox-on-iphone-block-ads/",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026"
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
+  "GBHackers InfoSec:https://gbhackers.com/excel-malware-campaign/",
+  "The Hacker News:https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+  "The Hacker News:https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
+  "SecurityWeek:https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
+  "Hackaday Security Hacks:https://hackaday.com/2026/08/28/this-week-in-security-android-malware-voip-hijack-signal-contact-discovery-and-teampcp-arrests/"
 ]
