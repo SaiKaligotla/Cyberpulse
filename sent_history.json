@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-  "The Hacker News:https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-03",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-01",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05",
-  "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-25-128-03",
   "CISA Advisories:https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-05",
   "CISA Advisories:https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-02",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units",
   "The Hacker News:https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-  "The Hacker News:https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html"
+  "The Hacker News:https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+  "GBHackers InfoSec:https://gbhackers.com/windows-users-targeted/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/duckdb-aws-acquisition-open-source/",
+  "The Hacker News:https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+  "The Hacker News:https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+  "The Hacker News:https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+  "The Hacker News:https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html"
 ]
