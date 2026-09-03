@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33302",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/virtualizor-compromise/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/anthropic-hardens-claude-security/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/cybersecurity-jobs-available-right-now-september-1-2026/",
-  "GBHackers InfoSec:https://gbhackers.com/cisa-flags-multiple-papercut-ng-mf-flaws/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/nis2-credential-compliance-before-audit/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/yaakov-stein-allot-telecom-pqc-migration/",
   "SecurityWeek:https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/01/crowdsec-1-8-0-bot-detection/",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-06",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-08",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-03"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-03",
+  "The420 Cyber News India:https://the420.in/lucknow-hotel-cyber-fraud-mule-gang-busted/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-04",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-02",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-07",
+  "The420 Cyber News India:https://the420.in/final-call-india-focused-ccsa-cyber-security-auditor-5-september/",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/"
 ]
