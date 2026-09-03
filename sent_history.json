@@ -1,5 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
   "GBHackers InfoSec:https://gbhackers.com/fake-openai-anthropic-and-deepseek/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/popular-npm-package-2/",
   "The Hacker News:https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
@@ -498,5 +497,6 @@
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492",
   "Security Affairs:https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html",
   "Security Affairs:https://securityaffairs.com/198377/intelligence/pegasus-and-novispy-used-against-serbian-protesters.html",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest"
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams"
 ]
