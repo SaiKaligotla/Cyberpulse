@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-  "GBHackers InfoSec:https://gbhackers.com/owasp-launches-oasis-to-use-ai-and-appsec-experts-to-fix-open-source-vulnerabilities/",
-  "GBHackers InfoSec:https://gbhackers.com/trojanized-exodus-wallet-installer/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-astra-discover-zero-day-flaws/",
-  "The420 Cyber News India:https://the420.in/dhoni-defamation-case-evidence-recording-pleas/",
-  "The420 Cyber News India:https://the420.in/dri-gold-smuggling-crackdown-42-kg-seized/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/google-scareware-ads-research/",
   "The420 Cyber News India:https://the420.in/ed-attaches-assets-akshatha-minerals-bank-fraud-mutual-funds/",
   "The420 Cyber News India:https://the420.in/supreme-court-upholds-two-year-bar-advocate-rizwan-siddiquee-client-privilege/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/surat-malicious-apk-fraud-jamtara-credit-card-money-mule-arrest/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/project-zenith-windows-pcs/",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
-  "SecurityWeek:https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/"
+  "SecurityWeek:https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
+  "The Hacker News:https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
+  "SecurityWeek:https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
+  "SecurityWeek:https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/04/synology-activeprotect-manager-2-0-data-protection/"
 ]
