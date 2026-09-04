@@ -1,10 +1,4 @@
 [
-  "Krebs on Security:https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33304",
-  "The Hacker News:https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
   "Dark Reading:https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
   "The420 Cyber News India:https://the420.in/karnataka-e-zero-fir-cybercrime-surge/",
   "The420 Cyber News India:https://the420.in/gurugram-fake-apple-support-scam-cyber-fraud/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-invisible-unicode/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-03",
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/04/this-week-in-security-baked-in-malware-freezers-not-freezing-zoom-snoops-clipboards-and-ai-makes-things-worse-faster/"
+  "Hackaday Security Hacks:https://hackaday.com/2026/09/04/this-week-in-security-baked-in-malware-freezers-not-freezing-zoom-snoops-clipboards-and-ai-makes-things-worse-faster/",
+  "The420 Cyber News India:https://the420.in/delhi-csc-wallet-cyber-fraud-network-three-arrested/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/popular-messaging-services/",
+  "The420 Cyber News India:https://the420.in/estonia-defence-minister-resigns-ammunition-deal/",
+  "The420 Cyber News India:https://the420.in/kerala-panchayat-fund-fraud-veo-lakh-life-scheme/",
+  "Dark Reading:https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise"
 ]
