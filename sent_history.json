@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
-  "The Hacker News:https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-  "SecurityWeek:https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
-  "The Register Security:https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747",
-  "Dark Reading:https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
   "The Register Security:https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
   "The Register Security:https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/ahmedabad-businessman-matrimonial-pharma-investment-fraud/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/exchange-online-outage-delaying-emails/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/trezor-confirms-shipmonk-data-breach/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-06"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-06",
+  "The420 Cyber News India:https://the420.in/hsvp-retired-ias-officers-booked-gurugram-plot-corruption/",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+  "The Hacker News:https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-04",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-05",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-02"
 ]
