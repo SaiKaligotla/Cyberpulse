@@ -1,5 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
   "GBHackers InfoSec:https://gbhackers.com/windows-users-targeted/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/duckdb-aws-acquisition-open-source/",
   "The Hacker News:https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
@@ -498,5 +497,6 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
   "Dark Reading:https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
   "The Register Security:https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
-  "Security Affairs:https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html"
+  "Security Affairs:https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/"
 ]
