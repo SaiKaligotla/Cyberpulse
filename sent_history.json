@@ -1,9 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
-  "Security Affairs:https://securityaffairs.com/198233/cyber-crime/five-venezuelan-nationals-plead-guilty-in-kansas-atm-jackpotting-attempt.html",
-  "Security Affairs:https://securityaffairs.com/198227/apt/north-korea-linked-it-workers-are-getting-hired-inside-western-companies.html",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
   "The Hacker News:https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
   "Dark Reading:https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
   "Dark Reading:https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
@@ -498,5 +493,10 @@
   "The Hacker News:https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
   "The420 Cyber News India:https://the420.in/us-uk-crypto-scam-centres/",
   "The420 Cyber News India:https://the420.in/centre-police-technology-experts-empanelment/",
-  "GBHackers InfoSec:https://gbhackers.com/ai-era-ascii-smuggling/"
+  "GBHackers InfoSec:https://gbhackers.com/ai-era-ascii-smuggling/",
+  "GBHackers InfoSec:https://gbhackers.com/critical-super-forms-wordpress-flaw-actively-exploited/",
+  "GBHackers InfoSec:https://gbhackers.com/plex-urges-users-to-update-media-server/",
+  "The420 Cyber News India:https://the420.in/cpt-policing-360-expert-ecosystem/",
+  "The420 Cyber News India:https://the420.in/manjit-singh-bedi-fbi-snap-fraud-india-most-wanted/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-teams-qr-code-protection/"
 ]
