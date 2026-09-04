@@ -1,6 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-  "GBHackers InfoSec:https://gbhackers.com/critical-jfrog-artifactory-authentication-bypass-exploited/",
   "GBHackers InfoSec:https://gbhackers.com/jsceal-crypto-stealer/",
   "SecurityWeek:https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-ai-malware/",
@@ -498,5 +496,7 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/botnet-takedowns-are-working-but-ddos-operators-are-already-adapting/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-gpt-6-astra-discovers-zero-day/",
   "The420 Cyber News India:https://the420.in/google-fairwind-cybersecurity-program/",
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html"
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/04/openai-daybreak-frontline-defenders-access/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/04/echo-claude-mythos-vulnerability-findings/"
 ]
