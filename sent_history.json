@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-06",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-05",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-04",
-  "The420 Cyber News India:https://the420.in/lucknow-retired-je-fake-trading-app-97-lakh-scam/",
   "The420 Cyber News India:https://the420.in/odisha-si-recruitment-scam-cbi-susanta-nath/",
   "The420 Cyber News India:https://the420.in/fql-finance-fraud-sivaganga-agents-double-money-scam/",
   "The420 Cyber News India:https://the420.in/mangaluru-kerala-lottery-tax-scam-3-lakh-fraud/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/ahmedabad-usdt-crypto-fraud-trader-loses-rs-47-lakh/",
   "The420 Cyber News India:https://the420.in/cbi-operation-chakra-vi-digital-arrest-raids/",
   "GBHackers InfoSec:https://gbhackers.com/microsoft-teams-adds-qr-code-protection/",
-  "The Hacker News:https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html"
+  "The Hacker News:https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/plex-fix-multiple-security-flaws/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/multiple-tp-link-archer-vulnerabilities/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-365-phishing/",
+  "GBHackers InfoSec:https://gbhackers.com/nodestealer-spyware-malware/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-agents-hijack-german-wiki/",
+  "SecurityWeek:https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/"
 ]
