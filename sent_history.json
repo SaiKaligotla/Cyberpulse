@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-02",
-  "Security Affairs:https://securityaffairs.com/198270/hacking/hackers-target-langflow-in-cve-2026-0768-attacks.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/keepnet-launches-free-sms-call-reporter-for-ios/",
-  "Dark Reading:https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
-  "The Hacker News:https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/sonicwall-remote-code-execution-vulnerabilities/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hpe-fabric-composer-flaws/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hugging-face-flaw/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
   "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
   "The Hacker News:https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-  "The420 Cyber News India:https://the420.in/hashpe-cryptocurrency-fraud-ed-arrests/"
+  "The420 Cyber News India:https://the420.in/hashpe-cryptocurrency-fraud-ed-arrests/",
+  "GBHackers InfoSec:https://gbhackers.com/12-year-old-postgresql-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/new-panzer-ransomware-hits-16-victim/",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/ai-agents-breach-company-network/",
+  "GBHackers InfoSec:https://gbhackers.com/hackers-use-frontier-ai-agents/",
+  "GBHackers InfoSec:https://gbhackers.com/cars24-data-breach-exposes-3100-customer-records/"
 ]
