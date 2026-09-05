@@ -1,7 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/oauth-consent-phishing-fbi-warning/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/freerdp-fixes-22-security-flaws/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/claude-ai-builds-pre-auth-rce-exploit/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/palo-alto-networks-acquires-console/",
   "GBHackers InfoSec:https://gbhackers.com/claude-ai-develops-working-rce-exploit/",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/bernhard-fritsch-fbi-most-wanted-fraud/",
   "The420 Cyber News India:https://the420.in/kanpur-sbi-7-crore-loan-fraud-fake-invoices-prashant-dwivedi/",
   "The Register Security:https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738",
-  "Security Affairs:https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html"
+  "Security Affairs:https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html",
+  "The420 Cyber News India:https://the420.in/pentagon-joint-staff-polygraph-tests-weapons-leaks/",
+  "The420 Cyber News India:https://the420.in/vadodara-businessman-duped-fake-supplier-email-fraud/",
+  "The Hacker News:https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html"
 ]
