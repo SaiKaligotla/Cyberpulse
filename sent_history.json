@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-  "The Hacker News:https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/02/becky-palmer-national-life-group-ai-driven-cyber-threats/",
   "The Register Security:https://www.theregister.com/security/2026/08/27/openai-explains-how-its-naughty-ai-agents-attacked-hugging-face/5292780",
   "The Hacker News:https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-04",
@@ -498,5 +495,8 @@
   "Security Affairs:https://securityaffairs.com/198465/security/broadcom-patches-critical-vmware-workstation-and-fusion-vm-escape-vulnerabilities.html",
   "The420 Cyber News India:https://the420.in/openai-ai-agents-german-wiki-incident/",
   "The420 Cyber News India:https://the420.in/tesla-driverless-cybercab-nhtsa-investigation-austin/",
-  "The420 Cyber News India:https://the420.in/fcc-challenges-disney-lawsuit-abc-licenses/"
+  "The420 Cyber News India:https://the420.in/fcc-challenges-disney-lawsuit-abc-licenses/",
+  "The420 Cyber News India:https://the420.in/google-chrome-zero-day-cve-vulnerability/",
+  "The420 Cyber News India:https://the420.in/openai-gpt-6-astra-exploitbench-cybersecurity/",
+  "The Hacker News:https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html"
 ]
