@@ -1,8 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hugging-face-flaw/",
-  "GBHackers InfoSec:https://gbhackers.com/critical-hpe-fabric-composer-flaw/",
-  "GBHackers InfoSec:https://gbhackers.com/google-patches-26-chrome-vulnerabilities/",
-  "GBHackers InfoSec:https://gbhackers.com/hugging-face-transformers-flaw/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/remote-access-trojan/",
   "The Hacker News:https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
   "The Hacker News:https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
@@ -498,5 +494,9 @@
   "GBHackers InfoSec:https://gbhackers.com/hackers-use-frontier-ai-agents/",
   "GBHackers InfoSec:https://gbhackers.com/cars24-data-breach-exposes-3100-customer-records/",
   "The420 Cyber News India:https://the420.in/ed-nhai-toll-fraud-searches-pmla-probe/",
-  "The Hacker News:https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html"
+  "The Hacker News:https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+  "The420 Cyber News India:https://the420.in/delhi-police-facial-recognition-jantar-mantar-protest/",
+  "The420 Cyber News India:https://the420.in/haryana-504-crore-funds-case-cbi-chargesheet/",
+  "The420 Cyber News India:https://the420.in/nri-quota-mbbs-admission-agents-chhattisgarh-counselling/",
+  "The420 Cyber News India:https://the420.in/up-fake-drug-network-traced-to-ujjain-ayurvedic-licence-allopathic-drug/"
 ]
