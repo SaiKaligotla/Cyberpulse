@@ -1,7 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33292",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
   "The Register Security:https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
   "The420 Cyber News India:https://the420.in/allahabad-high-court-quashes-nsa-akriti-chaudhary/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
@@ -498,5 +495,8 @@
   "The Hacker News:https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
   "The420 Cyber News India:https://the420.in/pimpri-chinchwad-jail-contacts-criminals-cybercrime-network-trend/",
   "Security Affairs:https://securityaffairs.com/198538/security/your-mikrotik-router-may-already-be-compromised-look-for-ssh-user-2.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/crowdstrike-launches-safemind/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/crowdstrike-launches-safemind/",
+  "The420 Cyber News India:https://the420.in/phagwara-canada-visa-fraud-three-booked/",
+  "The420 Cyber News India:https://the420.in/julia-molchanova-epstein-allegations-control-system/",
+  "The420 Cyber News India:https://the420.in/vadodara-medical-equipment-trader-fake-military-hospital-scam/"
 ]
