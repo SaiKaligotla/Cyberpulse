@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33290",
-  "Security Affairs:https://securityaffairs.com/198317/ai/openai-astra-brings-autonomous-zero-day-exploitation-to-ai.html",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33308",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33306",
-  "The420 Cyber News India:https://the420.in/fssai-five-star-hotels-brics-summit-food-safety/",
   "The420 Cyber News India:https://the420.in/japan-generative-ai-investment-fraud-detection/",
   "The420 Cyber News India:https://the420.in/rajasthan-boss-scam-cyber-fraud-arrests/",
   "The420 Cyber News India:https://the420.in/fbi-153-million-drivers-licence-dark-web-breach/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-business-antivirus-software/",
   "The Register Security:https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
   "The Hacker News:https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage"
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/n-able-released-hotfix/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/malicious-chrome-extension-2/",
+  "GBHackers InfoSec:https://gbhackers.com/telerik-ui-flaws-let-attackers-chain-aes-cbc-padding-oracle-to-unauthenticated-rce/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/07/connectwise-screenconnect-file-transfer-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-managed-firewall-services/",
+  "GBHackers InfoSec:https://gbhackers.com/operation-gitpower-campaign/"
 ]
