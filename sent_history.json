@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
-  "The Register Security:https://www.theregister.com/security/2026/08/27/sponsored-schroedingers-backup-not-actually-recovered-until-you-try-to-restore-it/5286772",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
-  "The Register Security:https://www.theregister.com/security/2026/08/27/cybercrooks-jet-off-with-manchester-airports-group-customer-data/5292943",
-  "The Register Security:https://www.theregister.com/security/2026/08/27/nuisance-call-blocker-fined-190k-for-being-a-nuisance-caller/5292888",
-  "Krebs on Security:https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
   "The Register Security:https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071",
   "Dark Reading:https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/hackers-exploit-papercut-ng-mf-flaws/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/russian-hackers-use-new-hookedge/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-confirms-wiki-hijack/",
-  "GBHackers InfoSec:https://gbhackers.com/haproxy-servers-backdoor/"
+  "GBHackers InfoSec:https://gbhackers.com/haproxy-servers-backdoor/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-mac-antivirus/",
+  "GBHackers InfoSec:https://gbhackers.com/critical-n-able-n-central-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/openai-confirms-ai-agents-wrote-to-multiple-internet-sites/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-software-vulnerabilities-surge/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-edr-solutions/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-business-antivirus-software/"
 ]
