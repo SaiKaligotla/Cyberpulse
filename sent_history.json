@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/03/to-keep-the-ai-hacking-genie-bottled-up-try-one-way-networks/5294121",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/cisco-nexus-9000-series-switches-vulnerability/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/03/seemplicity-response-options-vulnerability-management/",
-  "GBHackers InfoSec:https://gbhackers.com/spring-ring-campaign/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/vpn-is-the-biggest-backdoor-into-your-plant-heres-what-should-replace-it-on-your-ot-network/",
-  "GBHackers InfoSec:https://gbhackers.com/cisa-warns-sonicwall-sma1000-flaws-2/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/malicious-apache-modules/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/03/sans-aws-agentic-ai-security/",
   "GBHackers InfoSec:https://gbhackers.com/critical-cisco-nexus-9000-flaw/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/best-wifi-security-solutions-compared/",
   "GBHackers InfoSec:https://gbhackers.com/best-sdp-solutions-compared/",
   "GBHackers InfoSec:https://gbhackers.com/best-secure-web-gateway-compared/",
-  "The Register Security:https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748"
+  "The Register Security:https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748",
+  "SecurityWeek:https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+  "The Hacker News:https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+  "The Hacker News:https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+  "The Register Security:https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
+  "The Register Security:https://www.theregister.com/security/2026/09/03/terminated-employee-cost-company-hundreds-of-thousands-of-dollars-because-nobody-revoked-access/5292763",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33306"
 ]
