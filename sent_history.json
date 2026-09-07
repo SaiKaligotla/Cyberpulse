@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/malicious-apache-modules/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/03/sans-aws-agentic-ai-security/",
-  "GBHackers InfoSec:https://gbhackers.com/critical-cisco-nexus-9000-flaw/",
-  "GBHackers InfoSec:https://gbhackers.com/rapid-ransomware-deployment/",
-  "Security Affairs:https://securityaffairs.com/198332/intelligence/2000-leaked-documents-reveal-how-russia-turns-engineering-students-into-gru-cyber-operators.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/wordpress-all-in-one-wp-migration-plugin-flaw/",
   "GBHackers InfoSec:https://gbhackers.com/three-hp-easy-start-flaws/",
   "GBHackers InfoSec:https://gbhackers.com/sangoma-switchvox-rce-flaw/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/the-gentlemen-ransomware/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
   "The Register Security:https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
   "The Register Security:https://www.theregister.com/security/2026/09/03/terminated-employee-cost-company-hundreds-of-thousands-of-dollars-because-nobody-revoked-access/5292763",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33306"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33306",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/dprk-linked-hackers/",
+  "GBHackers InfoSec:https://gbhackers.com/tengu-mirai-style-linux-bot/",
+  "SecurityWeek:https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/07/n-able-n-central-hotfix-cve-2026-86218/",
+  "GBHackers InfoSec:https://gbhackers.com/global-phishing-campaign/",
+  "GBHackers InfoSec:https://gbhackers.com/openai-commits-1-billion-in-daybreak-ai-cyber-tools/"
 ]
