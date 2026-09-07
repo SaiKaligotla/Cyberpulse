@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/03/uks-online-safety-act-has-made-absolutely-no-difference-kids-say/5293893",
-  "The Hacker News:https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-  "Security Affairs:https://securityaffairs.com/198342/hacking/chaotic-eclipse-releases-crowdstrike-falcon-zeroday-falconflank.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploiting-sangoma-switchvox-voip-rce-flaw/",
-  "SecurityWeek:https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-  "SecurityWeek:https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-teams-outlook-crashes/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/03/russian-national-indicted-freelance-platform-malware/",
   "SecurityWeek:https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/kpsc-recruitment-row-24-aee-appointments-omr-tampering/",
   "SecurityWeek:https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
   "SecurityWeek:https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
-  "SecurityWeek:https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/"
+  "SecurityWeek:https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+  "The Hacker News:https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+  "The Hacker News:https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+  "The Hacker News:https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/03/to-keep-the-ai-hacking-genie-bottled-up-try-one-way-networks/5294121",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33308",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/"
 ]
