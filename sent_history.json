@@ -1,7 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
-  "The Register Security:https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071",
-  "Dark Reading:https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33290",
   "Security Affairs:https://securityaffairs.com/198317/ai/openai-astra-brings-autonomous-zero-day-exploitation-to-ai.html",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
@@ -498,5 +495,8 @@
   "GBHackers InfoSec:https://gbhackers.com/openai-confirms-ai-agents-wrote-to-multiple-internet-sites/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-software-vulnerabilities-surge/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-edr-solutions/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-business-antivirus-software/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-business-antivirus-software/",
+  "The Register Security:https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
+  "The Hacker News:https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage"
 ]
