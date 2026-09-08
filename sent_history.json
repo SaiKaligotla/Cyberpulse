@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33302",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-  "The Hacker News:https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/08/31/healthcare-cyberattacks-hit-pacemakers-and-millions-of-patient-records/5293537",
   "The Hacker News:https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492",
   "Security Affairs:https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-08",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-07",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-04"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-04",
+  "GBHackers InfoSec:https://gbhackers.com/sap-september-2026-security-update/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/panzer-ransomware-targets/",
+  "GBHackers InfoSec:https://gbhackers.com/domain-admin-account-creation/",
+  "GBHackers InfoSec:https://gbhackers.com/ai-customer-service-agents-can-be-hacked/",
+  "GBHackers InfoSec:https://gbhackers.com/best-network-security-policy-management-compared/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/u-s-offers-10-million-reward-for-iranian-irgc-cyber-chief/"
 ]
