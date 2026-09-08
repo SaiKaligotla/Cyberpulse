@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33300",
-  "The Hacker News:https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
-  "The420 Cyber News India:https://the420.in/devang-mody-rcfl-bank-fraud-bail/",
-  "The420 Cyber News India:https://the420.in/purulia-cyber-fraud-racket-217-mule-bank-accounts-six-arrested/",
-  "The420 Cyber News India:https://the420.in/ghaziabad-fake-cbi-nia-officers-55-lakh-extortion-arrests/",
   "The420 Cyber News India:https://the420.in/jaipur-cyber-fraud-boss-scam-arrests/",
   "The Register Security:https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318",
   "The Register Security:https://www.theregister.com/security/2026/08/31/attack-hides-malware-in-pngs-and-drops-custom-reverse-tunnel-on-victims-machines/5293480",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/varanasi-bhu-job-fraud-six-lakh-arrest/",
   "The420 Cyber News India:https://the420.in/gujarat-amreli-investment-scam-six-arrested/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/bigbear-2-0-evilginx2/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-managed-xdr-services/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-managed-xdr-services/",
+  "Security Affairs:https://securityaffairs.com/198656/apt/north-korea-linked-hackers-hide-a-backdoor-inside-haproxy.html",
+  "The420 Cyber News India:https://the420.in/dehradun-retired-principal-digital-arrest-fraud/",
+  "The420 Cyber News India:https://the420.in/tamil-nadu-fql-crypto-investment-fraud/",
+  "The420 Cyber News India:https://the420.in/up-police-cryptocurrency-investigation-training/",
+  "The Register Security:https://www.theregister.com/public-sector/2026/09/08/britain-reboots-its-space-strategy-with-78b-already-on-the-launchpad/5294839",
+  "Security Affairs:https://securityaffairs.com/198634/cyber-crime/it-help-desk-impersonation-lets-hackers-bypass-mfa.html"
 ]
