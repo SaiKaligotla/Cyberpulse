@@ -1,5 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-06",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-08",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-03",
@@ -498,5 +497,6 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-01",
   "The Register Security:https://www.theregister.com/security/2026/09/03/sponsored-drowning-in-cves-and-thirsty-for-answers-try-ctem/5293906",
   "The Hacker News:https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-05"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-05",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-01"
 ]
