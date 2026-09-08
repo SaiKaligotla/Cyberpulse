@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-05",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-02",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/nodestealer-record-everything/",
-  "Security Affairs:https://securityaffairs.com/198433/security/postgresql-hit-by-12-year-old-vulnerability-allowing-server-takeover.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-invisible-unicode/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-03",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/04/this-week-in-security-baked-in-malware-freezers-not-freezing-zoom-snoops-clipboards-and-ai-makes-things-worse-faster/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/india-second-hand-smoke-325600-deaths-444-million-lancet-study/",
   "The420 Cyber News India:https://the420.in/mumbai-fake-pmo-id-licensed-gun-jio-world-plaza-arrests/",
   "The420 Cyber News India:https://the420.in/up-judge-ravi-kumar-diwakar-97-case-transfers-mafia-allegations/",
-  "The420 Cyber News India:https://the420.in/qvse-trading-app-fraud-kakinada-police-withdrawal-warning/"
+  "The420 Cyber News India:https://the420.in/qvse-trading-app-fraud-kakinada-police-withdrawal-warning/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-patch-tuesday-update-september-2026/",
+  "The420 Cyber News India:https://the420.in/qualcomm-amazon-ai-chip-deal-4-billion-warrant-60-billion/",
+  "The420 Cyber News India:https://the420.in/modi-upi-global-expansion-cross-border-remittance-costs/",
+  "The420 Cyber News India:https://the420.in/odisha-vigilance-pension-fund-fraud-fasimal-govindpur-1-crore/",
+  "The420 Cyber News India:https://the420.in/nia-vandyke-six-ukrainians-immigration-chargesheet-uapa-probe/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/phishing-powers-80-of-attacks-on-us-companies-how-socs-can-detect-it-early/"
 ]
