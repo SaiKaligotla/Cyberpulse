@@ -1,10 +1,4 @@
 [
-  "Cloudflare Security:https://blog.cloudflare.com/vulnerability-discovery-remediation/",
-  "The Register Security:https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33310",
-  "The Hacker News:https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/04/cisco-searched-for-ios-xr-bugs-and-found-so-many-it-rolled-them-into-an-update-release/5294410",
-  "The420 Cyber News India:https://the420.in/patna-digital-arrest-cyber-fraud/",
   "The420 Cyber News India:https://the420.in/salem-investment-fraud-100-crore/",
   "The420 Cyber News India:https://the420.in/karnataka-veterinary-recruitment-scam-ias-officer/",
   "The420 Cyber News India:https://the420.in/ahmedabad-fake-traffic-e-memo-cyber-fraud/",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-06",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clickfix-moves-into-the-browser/"
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/sap-security-updates-september-2026/",
+  "GBHackers InfoSec:https://gbhackers.com/asus-control-center-critical-flaw/",
+  "SecurityWeek:https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
+  "The420 Cyber News India:https://the420.in/karnataka-high-court-kpsc-chairman-bail-rejected/",
+  "GBHackers InfoSec:https://gbhackers.com/whatsapp-testing-guest-calls/",
+  "GBHackers InfoSec:https://gbhackers.com/best-business-antivirus-compared/"
 ]
