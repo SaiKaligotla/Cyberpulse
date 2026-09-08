@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-08",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-03",
-  "The420 Cyber News India:https://the420.in/lucknow-hotel-cyber-fraud-mule-gang-busted/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-07",
   "The420 Cyber News India:https://the420.in/final-call-india-focused-ccsa-cyber-security-auditor-5-september/",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/security/2026/09/03/sponsored-drowning-in-cves-and-thirsty-for-answers-try-ctem/5293906",
   "The Hacker News:https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-05",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-01"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-202-01",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/shai-hulud-npm-worm/",
+  "GBHackers InfoSec:https://gbhackers.com/panzer-ransomware-attack/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-mdr-services/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-xdr-platforms/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-fwaas-providers/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-web-application-firewall-solutions/"
 ]
