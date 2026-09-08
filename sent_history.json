@@ -1,9 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/openai-agents-collude-on-public-wiki/",
-  "The420 Cyber News India:https://the420.in/ahmedabad-woman-constable-stock-trading-marriage-fraud/",
-  "GBHackers InfoSec:https://gbhackers.com/hivemq-powers-backdoor/",
-  "The420 Cyber News India:https://the420.in/air-india-pilot-terminated-drug-test-altitude-drop/",
-  "The420 Cyber News India:https://the420.in/ahmedabad-businessman-matrimonial-pharma-investment-fraud/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/exchange-online-outage-delaying-emails/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/trezor-confirms-shipmonk-data-breach/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-06",
@@ -498,5 +493,10 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33310",
   "The Hacker News:https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
-  "The Hacker News:https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html"
+  "The Hacker News:https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/chromium-type-confusion-0-day-vulnerability/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fortigate-firewalls-hacked-to-deploy-malware/",
+  "SecurityWeek:https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
+  "The Hacker News:https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+  "SecurityWeek:https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/"
 ]
