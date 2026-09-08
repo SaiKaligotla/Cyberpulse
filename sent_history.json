@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492",
-  "Security Affairs:https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html",
-  "Security Affairs:https://securityaffairs.com/198377/intelligence/pegasus-and-novispy-used-against-serbian-protesters.html",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
   "Cloudflare Security:https://blog.cloudflare.com/vulnerability-discovery-remediation/",
   "The Register Security:https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33310",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/domain-admin-account-creation/",
   "GBHackers InfoSec:https://gbhackers.com/ai-customer-service-agents-can-be-hacked/",
   "GBHackers InfoSec:https://gbhackers.com/best-network-security-policy-management-compared/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/u-s-offers-10-million-reward-for-iranian-irgc-cyber-chief/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/u-s-offers-10-million-reward-for-iranian-irgc-cyber-chief/",
+  "SecurityWeek:https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-03",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-06",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clickfix-moves-into-the-browser/"
 ]
