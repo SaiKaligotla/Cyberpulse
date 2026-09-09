@@ -1,5 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
   "SecurityWeek:https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
   "The420 Cyber News India:https://the420.in/up-manav-sampada-22-employee-records-tampering-ip-address-probe/",
   "The420 Cyber News India:https://the420.in/gorakhpur-nasa-investment-fraud-shalini-naskar-sukanta-banerjee/",
@@ -498,5 +497,6 @@
   "Security Affairs:https://securityaffairs.com/198697/cyber-crime/hackers-drain-320-million-from-liquid-network-then-return-most-of-it.html",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
   "Krebs on Security:https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/"
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
+  "The Register Security:https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160"
 ]
