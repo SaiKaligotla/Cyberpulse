@@ -1,10 +1,4 @@
 [
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/01/cybersecurity-ir-workshop-you-shouldnt-miss/",
-  "Dark Reading:https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
-  "The Register Security:https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
-  "Security Affairs:https://securityaffairs.com/198447/data-breach/crooks-behind-manchester-airports-group-hack-leaked-data-of-8-8-million-people.html",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
   "Security Affairs:https://securityaffairs.com/198455/security/u-s-cisa-adds-google-chromium-v8-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33312",
   "The420 Cyber News India:https://the420.in/bsnl-sms-routing-money-laundering-case/",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
   "The420 Cyber News India:https://the420.in/rajkot-turnrest-resources-directors-coal-trading-investment-fraud/",
-  "The Hacker News:https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html"
+  "The Hacker News:https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+  "The420 Cyber News India:https://the420.in/badaun-500-crore-amar-jyoti-nidhi-scam-maurya-brothers-arrested/",
+  "GBHackers InfoSec:https://gbhackers.com/ivanti-patches-10-epmm-neurons-for-itsm-and-sentry-flaws/",
+  "GBHackers InfoSec:https://gbhackers.com/google-chrome-153-released-with-230-security-fixes/",
+  "The420 Cyber News India:https://the420.in/saharanpur-pnb-fake-currency-chest-nia-arrests-amit-kumar/",
+  "The420 Cyber News India:https://the420.in/supreme-court-rejects-parshvnath-developers-homebuyers-plan/",
+  "The420 Cyber News India:https://the420.in/meerut-parag-dairy-corruption-probe-ordered/"
 ]
