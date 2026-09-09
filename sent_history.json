@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/ai-agents-breach-company-network/",
-  "GBHackers InfoSec:https://gbhackers.com/hackers-use-frontier-ai-agents/",
-  "GBHackers InfoSec:https://gbhackers.com/cars24-data-breach-exposes-3100-customer-records/",
-  "The420 Cyber News India:https://the420.in/ed-nhai-toll-fraud-searches-pmla-probe/",
-  "The Hacker News:https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-  "The420 Cyber News India:https://the420.in/delhi-police-facial-recognition-jantar-mantar-protest/",
   "The420 Cyber News India:https://the420.in/haryana-504-crore-funds-case-cbi-chargesheet/",
   "The420 Cyber News India:https://the420.in/nri-quota-mbbs-admission-agents-chhattisgarh-counselling/",
   "The420 Cyber News India:https://the420.in/up-fake-drug-network-traced-to-ujjain-ayurvedic-licence-allopathic-drug/",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
   "The Register Security:https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/defender-shieldcrash-0-day-bypasses/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/windows-bitlocker-remote-code-execution/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/cpanel-sql-injection-vulnerability/",
+  "The Hacker News:https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+  "The Hacker News:https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/cisa-warns-chinese-ai-firms/"
 ]
