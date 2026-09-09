@@ -1,7 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/12-year-old-postgresql-flaw/",
-  "GBHackers InfoSec:https://gbhackers.com/new-panzer-ransomware-hits-16-victim/",
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/ai-agents-breach-company-network/",
   "GBHackers InfoSec:https://gbhackers.com/hackers-use-frontier-ai-agents/",
   "GBHackers InfoSec:https://gbhackers.com/cars24-data-breach-exposes-3100-customer-records/",
@@ -498,5 +495,8 @@
   "Security Affairs:https://securityaffairs.com/198705/security/microsofts-biggest-patch-tuesday-974-cves-2-zero-days-and-20-wormable-bugs.html",
   "Security Affairs:https://securityaffairs.com/198589/hacking/chaotic-eclipse-released-greensection-a-poc-for-nvidia-memory-corruption-zero-day.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33312",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+  "The Register Security:https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people"
 ]
