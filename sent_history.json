@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
-  "SecurityWeek:https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/04/synology-activeprotect-manager-2-0-data-protection/",
-  "Krebs on Security:https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33304",
-  "Dark Reading:https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
   "The Register Security:https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
   "The Register Security:https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/09/picus-security-autonomous-breach-attack-simulation/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/chrome-153-released/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/fortisandbox-vulnerability-access-sensitive-data/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554"
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
+  "GBHackers InfoSec:https://gbhackers.com/redis-cryptojacking-campaign/",
+  "GBHackers InfoSec:https://gbhackers.com/microsoft-september-2026-patch-tuesday/",
+  "The420 Cyber News India:https://the420.in/jpsc-exam-scam-cid-omr-sheet-manipulation/",
+  "The420 Cyber News India:https://the420.in/gorakhpur-policewoman-fake-facebook-profile-cyber-harassment/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/09/prophet-security-evaluating-ai-soc-agents/",
+  "The Hacker News:https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html"
 ]
