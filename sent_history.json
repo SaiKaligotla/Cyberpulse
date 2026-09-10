@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
-  "The Register Security:https://www.theregister.com/security/2026/09/03/terminated-employee-cost-company-hundreds-of-thousands-of-dollars-because-nobody-revoked-access/5292763",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33306",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/dprk-linked-hackers/",
-  "GBHackers InfoSec:https://gbhackers.com/tengu-mirai-style-linux-bot/",
-  "SecurityWeek:https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/07/n-able-n-central-hotfix-cve-2026-86218/",
   "GBHackers InfoSec:https://gbhackers.com/global-phishing-campaign/",
   "GBHackers InfoSec:https://gbhackers.com/openai-commits-1-billion-in-daybreak-ai-cyber-tools/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/litellm-flaws/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-builds-defense-factory/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/openssl-4-1-0-alpha1-released/",
-  "SecurityWeek:https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/"
+  "SecurityWeek:https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/check-point-vpn-vulnerabilities/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/ai-workflows-stealing-proxies/",
+  "GBHackers InfoSec:https://gbhackers.com/litellm-ai-gateways/",
+  "The420 Cyber News India:https://the420.in/chennai-cyber-fraud-mule-accounts-rs-2-45-crore-arrests/",
+  "The420 Cyber News India:https://the420.in/delhi-high-court-mandatory-biometric-aadhaar-gst-registration/",
+  "The420 Cyber News India:https://the420.in/bhadohi-fake-freedom-fighter-certificate-mbbs-police-recruitment/"
 ]
