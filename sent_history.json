@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/198573/malware/jsceal-hides-crypto-malware-in-v8-bytecode.html",
-  "Dark Reading:https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
-  "The Register Security:https://www.theregister.com/security/2026/09/07/uk-food-supply-chain-at-risk-from-hostile-attacks/5294719",
-  "GBHackers InfoSec:https://gbhackers.com/best-network-sandboxing-compared/",
-  "The420 Cyber News India:https://the420.in/cyber-fraud-money-restoration-module-frozen-funds-online-refund-request/",
-  "GBHackers InfoSec:https://gbhackers.com/best-wifi-security-solutions-compared/",
   "GBHackers InfoSec:https://gbhackers.com/best-sdp-solutions-compared/",
   "GBHackers InfoSec:https://gbhackers.com/best-secure-web-gateway-compared/",
   "The Register Security:https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/cisco-fmc-exploited-cve-2026-20079-cve-2026-20316/",
   "The420 Cyber News India:https://the420.in/banda-gpf-loan-irregularity-devendra-kumar-audit-probe/",
-  "SecurityWeek:https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/"
+  "SecurityWeek:https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fortinet-heap-based-buffer-overflow/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/palo-alto-pan-os-vulnerability-code-execution/",
+  "GBHackers InfoSec:https://gbhackers.com/hackers-steal-active-directory-password-hashes/",
+  "GBHackers InfoSec:https://gbhackers.com/fake-gta-6-installer/",
+  "GBHackers InfoSec:https://gbhackers.com/apple-xcode-integer-underflow-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/palo-alto-pan-os-buffer-overflow/"
 ]
