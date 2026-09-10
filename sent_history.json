@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/mathspace-data-breach/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/switzerland-moves-away-from-microsoft-365/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/natural-resources-wales-expose/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/connectwise-screenconnect-remote-access-flaw/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-commits-1-billion/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/new-linux-bot/",
   "The420 Cyber News India:https://the420.in/17-29-crore-fake-currency-pnb-currency-chest-nia-sit-probe/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
   "The Hacker News:https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
   "The Register Security:https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770",
-  "The Hacker News:https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html"
+  "The Hacker News:https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-253-01",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-01",
+  "The420 Cyber News India:https://the420.in/rbi-sebi-demat-2-bond-market-pilot/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-blob-urls/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/passkey-themed-phishing/",
+  "GBHackers InfoSec:https://gbhackers.com/phishing-attack-uses-blob-urls/"
 ]
