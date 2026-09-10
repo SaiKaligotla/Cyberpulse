@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
-  "SecurityWeek:https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
-  "SecurityWeek:https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
-  "The Hacker News:https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-  "The Hacker News:https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-  "The Hacker News:https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/03/to-keep-the-ai-hacking-genie-bottled-up-try-one-way-networks/5294121",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33308",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
   "The420 Cyber News India:https://the420.in/amit-lakhanpal-money-trade-coin-crypto-fraud/",
   "The420 Cyber News India:https://the420.in/us-sanctions-xinbi-guarantee-cybercrime-network/",
-  "The420 Cyber News India:https://the420.in/vadodara-woman-singing-app-fraud-extortion-fir/"
+  "The420 Cyber News India:https://the420.in/vadodara-woman-singing-app-fraud-extortion-fir/",
+  "The420 Cyber News India:https://the420.in/quick-commerce-phishing-fraud-risks-india-high-risk-sessions-report/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/cisco-firewall-root-access-flaw/",
+  "SecurityWeek:https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
+  "The420 Cyber News India:https://the420.in/cbi-ajnara-india-homebuyer-fraud-20th-charge-sheet/",
+  "The420 Cyber News India:https://the420.in/saima-wazed-resigns-who-southeast-asia-post-amid-fraud-investigations/",
+  "The420 Cyber News India:https://the420.in/saharanpur-sanitation-tender-document-verification-fdr-solvency-probe/"
 ]
