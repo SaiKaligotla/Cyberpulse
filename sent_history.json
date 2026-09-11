@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318",
-  "The420 Cyber News India:https://the420.in/cmrl-case-ed-seeks-fir-pinarayi-vijayan-veena-riyas/",
-  "The420 Cyber News India:https://the420.in/bank-of-india-idea-cellular-ordered-pay-compensation-2015-cyber-fraud/",
-  "The420 Cyber News India:https://the420.in/radiant-world-jefferies-london-court-fraud-claim/",
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/03/tube-launch-boosts-rockets-performance/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33300",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/weworm-first-0-click-worm/",
   "GBHackers InfoSec:https://gbhackers.com/jellyfin-12-0-released-with-security-fixes/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cwpp-solutions/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cspm-tools/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-enterprise-browsers/",
-  "GBHackers InfoSec:https://gbhackers.com/ai-assisted-phishing/"
+  "GBHackers InfoSec:https://gbhackers.com/ai-assisted-phishing/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-deploy-new-sloppyrat/",
+  "GBHackers InfoSec:https://gbhackers.com/iot-malware-attacks/",
+  "GBHackers InfoSec:https://gbhackers.com/best-epm-tools-compared-2/",
+  "The Hacker News:https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+  "SecurityWeek:https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
+  "GBHackers InfoSec:https://gbhackers.com/cisa-urges-service-providers-to-provide-transparent-updates/"
 ]
