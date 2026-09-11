@@ -1,5 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-01",
   "The Register Security:https://www.theregister.com/security/2026/09/03/sponsored-drowning-in-cves-and-thirsty-for-answers-try-ctem/5293906",
   "The Hacker News:https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-05",
@@ -498,5 +497,6 @@
   "SecurityWeek:https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702",
-  "Dark Reading:https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign"
+  "Dark Reading:https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33330"
 ]
