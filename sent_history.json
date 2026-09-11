@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/198671/data-breach/massive-vietnam-linked-apis-database-exposes-passport-and-flight-data.html",
-  "The420 Cyber News India:https://the420.in/cbi-second-chargesheet-reliance-commercial-finance-bank-fraud/",
-  "The Register Security:https://www.theregister.com/security/2026/09/04/openai-commits-1b-in-ai-credits-to-frontline-cyber-defenders/5294382",
-  "Cloudflare Security:https://blog.cloudflare.com/vulnerability-discovery-remediation/",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
   "The Register Security:https://www.theregister.com/security/2026/09/03/prolific-microsoft-0-day-hunter-drops-crowdstrike-falcon-exploit-poc/5294318",
   "The420 Cyber News India:https://the420.in/cmrl-case-ed-seeks-fir-pinarayi-vijayan-veena-riyas/",
   "The420 Cyber News India:https://the420.in/bank-of-india-idea-cellular-ordered-pay-compensation-2015-cyber-fraud/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/kiteworks-bonfy-ai-acquisition/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/kiteworks-bonfy-ai-acquisition/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/gitlab-patches-critical-flaws/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/jfrog-artifactory-vulnerabilities-actively-exploited/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cwpp-solutions/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cspm-tools/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-enterprise-browsers/",
+  "GBHackers InfoSec:https://gbhackers.com/ai-assisted-phishing/"
 ]
