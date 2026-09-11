@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/u-s-offers-10-million-reward-for-iranian-irgc-cyber-chief/",
-  "SecurityWeek:https://www.securityweek.com/n-able-patches-critical-zero-day-in-n-central/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-246-06",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/sap-security-updates-september-2026/",
   "GBHackers InfoSec:https://gbhackers.com/asus-control-center-critical-flaw/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/harley-davidson-alleged-breach/",
   "GBHackers InfoSec:https://gbhackers.com/best-ransomware-protection-compared-2/",
   "GBHackers InfoSec:https://gbhackers.com/mantax-otax-android-ransomware/",
-  "GBHackers InfoSec:https://gbhackers.com/best-endpoint-encryption-compared/"
+  "GBHackers InfoSec:https://gbhackers.com/best-endpoint-encryption-compared/",
+  "The Hacker News:https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+  "The Hacker News:https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+  "The Hacker News:https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+  "Security Affairs:https://securityaffairs.com/198864/hacking/uk-council-attack-linked-to-mass-exploitation-of-sonicwall-flaw.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/automox-mitigation-worklet-pipeline/"
 ]
