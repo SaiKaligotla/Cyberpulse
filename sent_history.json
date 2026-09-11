@@ -1,8 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/08/vishing-microsoft-365-data-theft-extortion/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/08/jellyfin-12-0-security-fixes/",
-  "The Register Security:https://www.theregister.com/security/2026/09/04/cisco-searched-for-ios-xr-bugs-and-found-so-many-it-rolled-them-into-an-update-release/5294410",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33310",
   "The Hacker News:https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
@@ -498,5 +494,9 @@
   "The Hacker News:https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
   "The420 Cyber News India:https://the420.in/cesar-campos-reyes-covid-relief-fraud-real-estate-money-laundering/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/windows-11-security-update-kb5124008/",
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/11/this-week-in-security-its-patch-tuesday-again-tvs-spying-supply-chain-worms-return-prolonged-hack-impacts-stolen-ids/"
+  "Hackaday Security Hacks:https://hackaday.com/2026/09/11/this-week-in-security-its-patch-tuesday-again-tvs-spying-supply-chain-worms-return-prolonged-hack-impacts-stolen-ids/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/new-kataru-iot-malware/",
+  "SecurityWeek:https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+  "The Register Security:https://www.theregister.com/security/2026/09/08/boston-scientific-left-nursing-its-bottom-line-after-cyberattack/5295026",
+  "The Hacker News:https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html"
 ]
