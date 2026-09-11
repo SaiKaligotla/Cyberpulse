@@ -1,8 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-disable-endpoint-protection/",
-  "The Hacker News:https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/08/bigbear-phishing-crew-nets-thousands-of-microsoft-365-credentials/5294944",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/08/ai-agents-cyberattacks-automation-google-research/",
   "The Hacker News:https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
   "The Hacker News:https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/",
@@ -498,5 +494,9 @@
   "Security Affairs:https://securityaffairs.com/198884/cyber-crime/attackers-exploit-critical-cisco-fmc-flaw-to-deploy-qilin-ransomware.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/",
   "GBHackers InfoSec:https://gbhackers.com/ai-safety-guardrails/",
-  "SecurityWeek:https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/"
+  "SecurityWeek:https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/cpanel-configserver-security-firewall-vulnerability/",
+  "GBHackers InfoSec:https://gbhackers.com/cpanel-urges-users-to-patch-configserver-firewall/",
+  "SecurityWeek:https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
+  "SecurityWeek:https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/"
 ]
