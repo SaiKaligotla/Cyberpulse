@@ -1,9 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/08/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/04/this-week-in-security-baked-in-malware-freezers-not-freezing-zoom-snoops-clipboards-and-ai-makes-things-worse-faster/",
-  "SecurityWeek:https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33320",
   "Dark Reading:https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
   "The Hacker News:https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
@@ -498,5 +493,10 @@
   "The420 Cyber News India:https://the420.in/anthropic-ai-biological-research-missiles-drones-weapons-misuse/",
   "The420 Cyber News India:https://the420.in/android-flaws-fake-shopping-domains-ai-cyberattacks-security-alert/",
   "The420 Cyber News India:https://the420.in/us-lawmakers-indian-hack-for-hire-firms-belltrox-cyberroot-appin/",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-scamming-humans"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+  "The420 Cyber News India:https://the420.in/nirmala-sitharaman-ai-electoral-outcomes-election-deepfake-risk/",
+  "The420 Cyber News India:https://the420.in/rbi-quantum-proofing-payment-systems-post-quantum-cryptography/",
+  "The420 Cyber News India:https://the420.in/california-child-social-media-autoplay-algorithmic-feed-law/",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access"
 ]
