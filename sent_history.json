@@ -1,9 +1,4 @@
 [
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/weworm-first-0-click-worm/",
-  "GBHackers InfoSec:https://gbhackers.com/jellyfin-12-0-released-with-security-fixes/",
-  "GBHackers InfoSec:https://gbhackers.com/dell-secure-connect-gateway-critical-flaws/",
-  "The420 Cyber News India:https://the420.in/hackers-ai-attack-frameworks-credential-theft/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/claude-mythos-ai/",
   "The420 Cyber News India:https://the420.in/irdai-icici-lombard-1-crore-penalty-outsourcing-lapses/",
   "The420 Cyber News India:https://the420.in/tmc-mp-nadimul-haque-ed-searches-financial-fraud-probe/",
@@ -498,5 +493,10 @@
   "GBHackers InfoSec:https://gbhackers.com/best-epm-tools-compared-2/",
   "The Hacker News:https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
   "SecurityWeek:https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-  "GBHackers InfoSec:https://gbhackers.com/cisa-urges-service-providers-to-provide-transparent-updates/"
+  "GBHackers InfoSec:https://gbhackers.com/cisa-urges-service-providers-to-provide-transparent-updates/",
+  "GBHackers InfoSec:https://gbhackers.com/hackers-exploit-jfrog-artifactory-flaws/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/idscan-confirms-data-breach/",
+  "GBHackers InfoSec:https://gbhackers.com/okta-patches-auth0-and-access-gateway-vulnerabilities/",
+  "SecurityWeek:https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/"
 ]
