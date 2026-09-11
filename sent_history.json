@@ -1,5 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
   "Security Affairs:https://securityaffairs.com/198697/cyber-crime/hackers-drain-320-million-from-liquid-network-then-return-most-of-it.html",
@@ -498,5 +497,6 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog"
 ]
