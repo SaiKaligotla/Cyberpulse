@@ -1,10 +1,4 @@
 [
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/sap-security-updates-september-2026/",
-  "GBHackers InfoSec:https://gbhackers.com/asus-control-center-critical-flaw/",
-  "SecurityWeek:https://www.securityweek.com/mikrotik-patches-critical-flaws-chained-to-hack-routers/",
-  "The420 Cyber News India:https://the420.in/karnataka-high-court-kpsc-chairman-bail-rejected/",
-  "GBHackers InfoSec:https://gbhackers.com/whatsapp-testing-guest-calls/",
   "GBHackers InfoSec:https://gbhackers.com/best-business-antivirus-compared/",
   "The420 Cyber News India:https://the420.in/brics-law-enforcement-network-economic-fugitives/",
   "GBHackers InfoSec:https://gbhackers.com/end-to-end-intrusion/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
   "The Hacker News:https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
   "Security Affairs:https://securityaffairs.com/198864/hacking/uk-council-attack-linked-to-mass-exploitation-of-sonicwall-flaw.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/automox-mitigation-worklet-pipeline/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/automox-mitigation-worklet-pipeline/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/okta-fixes-auth0-and-access-gateway-flaws/",
+  "The420 Cyber News India:https://the420.in/delhi-airport-duty-free-passport-scanning-data-privacy/",
+  "The420 Cyber News India:https://the420.in/crypto-theft-stolen-data-wealthy-investors/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/malicious-ai-commands/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-365-copilot-access-issues/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cnapp-platforms/"
 ]
