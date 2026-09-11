@@ -1,7 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
-  "The Hacker News:https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/rbi-quantum-proofing-payment-systems-post-quantum-cryptography/",
   "The420 Cyber News India:https://the420.in/california-child-social-media-autoplay-algorithmic-feed-law/",
   "Dark Reading:https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
-  "Dark Reading:https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access"
+  "Dark Reading:https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33320",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/08/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a"
 ]
