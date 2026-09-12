@@ -1,6 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/chrome-153-released/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/fortisandbox-vulnerability-access-sensitive-data/",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/04/rogue-openai-agents-used-dead-german-web-site-to-communicate-in-may-months-before-hugging-face-incident/5294554",
   "GBHackers InfoSec:https://gbhackers.com/redis-cryptojacking-campaign/",
   "GBHackers InfoSec:https://gbhackers.com/microsoft-september-2026-patch-tuesday/",
@@ -498,5 +496,7 @@
   "The420 Cyber News India:https://the420.in/mumbai-cyber-fraud-2898-sim-cards-24-crore-transactions/",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
   "The Register Security:https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33322"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33322",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/cisa-gitlab-path-traversal/",
+  "The Hacker News:https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html"
 ]
