@@ -1,5 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
   "GBHackers InfoSec:https://gbhackers.com/gigabud-banking-malware/",
   "SecurityWeek:https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
   "SecurityWeek:https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/",
@@ -498,5 +497,6 @@
   "Security Affairs:https://securityaffairs.com/198905/ai/anthropic-ai-misuse-is-entering-a-new-phase-from-cybercrime-to-surveillance-propaganda-and-weapons.html",
   "The420 Cyber News India:https://the420.in/aanand-shukla-sentenced-us-tax-fraud/",
   "The420 Cyber News India:https://the420.in/rajarhat-bank-fraud-forged-kyc-arrest/",
-  "Security Affairs:https://securityaffairs.com/198922/data-breach/revolut-exposed-kyc-data-after-fraudulent-government-email-passed-security-checks.html"
+  "Security Affairs:https://securityaffairs.com/198922/data-breach/revolut-exposed-kyc-data-after-fraudulent-government-email-passed-security-checks.html",
+  "The Hacker News:https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html"
 ]
