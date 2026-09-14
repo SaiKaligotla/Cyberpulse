@@ -1,6 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/palo-alto-pan-os-vulnerability-code-execution/",
-  "GBHackers InfoSec:https://gbhackers.com/hackers-steal-active-directory-password-hashes/",
   "GBHackers InfoSec:https://gbhackers.com/fake-gta-6-installer/",
   "GBHackers InfoSec:https://gbhackers.com/apple-xcode-integer-underflow-flaw/",
   "GBHackers InfoSec:https://gbhackers.com/palo-alto-pan-os-buffer-overflow/",
@@ -498,5 +496,7 @@
   "The420 Cyber News India:https://the420.in/ice-arrests-indian-truck-driver-satvir-singh-us-overstay/",
   "The420 Cyber News India:https://the420.in/cbi-extradites-amritpal-singh-red-notice-fugitive-from-moldova/",
   "The Hacker News:https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33328"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33328",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/nintendo-switch-code-execution-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-ai-bug-bounty/"
 ]
