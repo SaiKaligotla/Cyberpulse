@@ -1,7 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-builds-defense-factory/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/openssl-4-1-0-alpha1-released/",
-  "SecurityWeek:https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/check-point-vpn-vulnerabilities/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/ai-workflows-stealing-proxies/",
   "GBHackers InfoSec:https://gbhackers.com/litellm-ai-gateways/",
@@ -498,5 +495,8 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/vite-servers-under-attack/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/uk-government-passwordless/",
   "The Hacker News:https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fortigate-ssl-vpn-vulnerability/",
+  "The Hacker News:https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+  "The Hacker News:https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html"
 ]
