@@ -1,9 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "Dark Reading:https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
-  "Dark Reading:https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
-  "The Register Security:https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/openssl-4-1-0-alpha1-released/",
@@ -498,5 +493,10 @@
   "The420 Cyber News India:https://the420.in/sam-altman-ai-safety-frontier-model-development/",
   "The420 Cyber News India:https://the420.in/vadodara-pharma-16-crore-us-company-takeover-fraud/",
   "Security Affairs:https://securityaffairs.com/198994/ai/anthropic-ceo-calls-for-an-ai-slowdown-is-it-possible.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/",
+  "The420 Cyber News India:https://the420.in/assam-cyber-fraud-crackdown-cash-gold-ujjwala-cards-seized/",
+  "The420 Cyber News India:https://the420.in/kerala-vpvv-techno-constructions-us-defence-contract-fraud-pradeep-kumar/",
+  "The Hacker News:https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/14/debian-13-7-point-release/",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/"
 ]
