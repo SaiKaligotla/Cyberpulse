@@ -1,10 +1,4 @@
 [
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/openssl-4-1-0-alpha1-released/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33314",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/claude-ai-models-gained-unauthorized-access/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/kevin-mandia-joins-amazon-board/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/proofpoint-ciso-ai-security-risks-report/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/weight-custody-manifest-open-standard/",
   "GBHackers InfoSec:https://gbhackers.com/hackers-deploy-hundreds-of-ai-agents/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/kerala-vpvv-techno-constructions-us-defence-contract-fraud-pradeep-kumar/",
   "The Hacker News:https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/14/debian-13-7-point-release/",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/"
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+  "SecurityWeek:https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
+  "Dark Reading:https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+  "The Register Security:https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
+  "The Hacker News:https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+  "Dark Reading:https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models"
 ]
