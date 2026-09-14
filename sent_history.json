@@ -1,10 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/proofpoint-ciso-ai-security-risks-report/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/weight-custody-manifest-open-standard/",
-  "GBHackers InfoSec:https://gbhackers.com/hackers-deploy-hundreds-of-ai-agents/",
-  "GBHackers InfoSec:https://gbhackers.com/anthropic-claude-ai-models-attack-real-systems/",
-  "GBHackers InfoSec:https://gbhackers.com/china-linked-hackers-exploit-chrome-and-windows-zero-days/",
-  "The420 Cyber News India:https://the420.in/allahabad-high-court-deoria-police-missing-cctv-illegal-detention-compensation/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/product-showcase-gitguardian-honeytoken-decoy-service/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/10/browser-based-phishing-blob-urls-microsoft-oauth/",
   "GBHackers InfoSec:https://gbhackers.com/llm-powered-cyberattacks/",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
   "The Register Security:https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
   "The Hacker News:https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-  "Dark Reading:https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models"
+  "Dark Reading:https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/github-pays-bounty-for-rce-flaw-in-git-push/",
+  "GBHackers InfoSec:https://gbhackers.com/grayrabbit-backdoor/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/casbaneiro-banking-trojan/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-abuse-youtube-gaming/",
+  "The420 Cyber News India:https://the420.in/policing-with-ai-100-use-cases-cpt-calls-on-students-researchers-startups/",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/10/anthropic-reveals-fourth-likely-crime-committed-by-its-ai/5295412"
 ]
