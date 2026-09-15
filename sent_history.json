@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cwpp-solutions/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cspm-tools/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-enterprise-browsers/",
-  "GBHackers InfoSec:https://gbhackers.com/ai-assisted-phishing/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-deploy-new-sloppyrat/",
-  "GBHackers InfoSec:https://gbhackers.com/iot-malware-attacks/",
   "GBHackers InfoSec:https://gbhackers.com/best-epm-tools-compared-2/",
   "The Hacker News:https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
   "SecurityWeek:https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
   "The Hacker News:https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
   "Cloudflare Security:https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-  "Cloudflare Security:https://blog.cloudflare.com/workers-granular-authorization/"
+  "Cloudflare Security:https://blog.cloudflare.com/workers-granular-authorization/",
+  "GBHackers InfoSec:https://gbhackers.com/trusted-email-abuse/",
+  "Security Affairs:https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html",
+  "Security Affairs:https://securityaffairs.com/199127/security/shared-hosting-at-risk-litespeed-enterprise-bug-can-grant-root-from-a-single-tenant.html",
+  "The420 Cyber News India:https://the420.in/dehradun-gpa-land-fraud-multiple-buyers-economic-fraud/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/enzoic-ebook-identity-first-threat-intelligence/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/globalgig-expands-managed-security-with-ai-protection/"
 ]
