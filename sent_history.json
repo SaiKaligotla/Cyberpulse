@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-  "The Register Security:https://www.theregister.com/research/2026/09/08/extortion-crews-have-their-eyes-on-high-value-ai-data-google-warns/5294640",
-  "The420 Cyber News India:https://the420.in/pnb-fake-currency-nia-outsourced-employee-assets-saharanpur-probe/",
   "The Hacker News:https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
   "The Hacker News:https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
   "The Hacker News:https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
@@ -498,5 +495,8 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-06",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-05",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/cisa-nist-identity-token-security/",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841"
 ]
