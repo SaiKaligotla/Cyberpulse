@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-02",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
-  "The Hacker News:https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/openmatter-network-realigns-leadership-team-to-accelerate-global-commercial-growth/",
-  "GBHackers InfoSec:https://gbhackers.com/openmatter-network-realigns-leadership-team-to-accelerate-global-commercial-growth/",
-  "The Hacker News:https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
   "The Register Security:https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550",
   "SecurityWeek:https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
   "SecurityWeek:https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/onetrust-enterprise-ai-governance-trends-report/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-01",
   "The Hacker News:https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-  "The Hacker News:https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html"
+  "The Hacker News:https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+  "GBHackers InfoSec:https://gbhackers.com/hackers-exploit-fortigate-ssl-vpn-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/hackers-exploit-critical-cisco-secure-email-gateway-flaw/",
+  "SecurityWeek:https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
+  "GBHackers InfoSec:https://gbhackers.com/hbo-max-reddit-account-hijacked/",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/gartner-ai-in-internal-audit/"
 ]
