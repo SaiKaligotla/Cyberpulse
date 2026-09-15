@@ -1,8 +1,4 @@
 [
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/kiteworks-bonfy-ai-acquisition/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/gitlab-patches-critical-flaws/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/jfrog-artifactory-vulnerabilities-actively-exploited/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cwpp-solutions/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cspm-tools/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-enterprise-browsers/",
@@ -498,5 +494,9 @@
   "The Hacker News:https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
   "The Hacker News:https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
   "The Hacker News:https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-  "The Hacker News:https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html"
+  "The Hacker News:https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+  "The Hacker News:https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+  "The Hacker News:https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+  "Cloudflare Security:https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+  "Cloudflare Security:https://blog.cloudflare.com/workers-granular-authorization/"
 ]
