@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/10000-malware-loaders/",
-  "GBHackers InfoSec:https://gbhackers.com/cisa-adds-exploited-mikrotik-routeros-flaws/",
-  "The420 Cyber News India:https://the420.in/saurabh-prasad-cbi-disproportionate-assets-former-waltair-drm-case/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/conti-ransomware-hacker-sentenced/",
-  "The420 Cyber News India:https://the420.in/ai-cybercrime-financial-security-india-key-shifts/",
-  "The420 Cyber News India:https://the420.in/ghaziabad-cyber-fraud-investment-job-task-scam-victims/",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841",
   "The Register Security:https://www.theregister.com/security/2026/09/08/bigbear-phishing-crew-nets-thousands-of-microsoft-365-credentials/5294944",
   "The Hacker News:https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
   "The Hacker News:https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
   "SecurityWeek:https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
-  "The Register Security:https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237"
+  "The Register Security:https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/cisa-active-directory-attack-techniques/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-03",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-08",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/how-to-keep-malwares-rotating-infrastructure-from-becoming-a-detection-gap/",
+  "The420 Cyber News India:https://the420.in/fcrf-cp-frm-certified-professional-fraud-risk-management-india/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-01"
 ]
