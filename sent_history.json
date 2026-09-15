@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550",
-  "SecurityWeek:https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
-  "SecurityWeek:https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
-  "The420 Cyber News India:https://the420.in/nandan-nilekani-finternet-asset-tokenisation-framework/",
-  "The420 Cyber News India:https://the420.in/idscan-driver-license-data-breach/",
-  "The Hacker News:https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
   "SecurityWeek:https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33326",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
   "GBHackers InfoSec:https://gbhackers.com/hbo-max-reddit-account-hijacked/",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/gartner-ai-in-internal-audit/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/gartner-ai-in-internal-audit/",
+  "The420 Cyber News India:https://the420.in/meta-report-csam-cases-india-child-safety-scrutiny/",
+  "The420 Cyber News India:https://the420.in/rbi-60-day-bank-account-hold-money-mule-cyber-fraud/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-02",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/product-showcase-msecure-password-manager/",
+  "The Hacker News:https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
 ]
