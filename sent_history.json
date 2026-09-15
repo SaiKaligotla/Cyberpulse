@@ -1,9 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/idscan-confirms-data-breach/",
-  "GBHackers InfoSec:https://gbhackers.com/okta-patches-auth0-and-access-gateway-vulnerabilities/",
-  "SecurityWeek:https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/",
-  "GBHackers InfoSec:https://gbhackers.com/critical-gitlab-flaws/",
   "Security Affairs:https://securityaffairs.com/198884/cyber-crime/attackers-exploit-critical-cisco-fmc-flaw-to-deploy-qilin-ransomware.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/",
   "GBHackers InfoSec:https://gbhackers.com/ai-safety-guardrails/",
@@ -498,5 +493,10 @@
   "The Register Security:https://www.theregister.com/security/2026/09/15/swiss-court-sentences-52-year-old-ukrainian-ransomware-dev-to-nearly-13-years-in-the-cooler/5296482",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/f5-distributed-cloud-bot-defense-enhancements/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/postman-passport/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/ultraviolet-cyber-equinox/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/ultraviolet-cyber-equinox/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/homebrew-7-0-0-adds-vulnerability-scanner/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/cpanel-litespeed-web-server-vulnerability/",
+  "The420 Cyber News India:https://the420.in/delhi-high-court-vimal-elaichi-maharashtra-fda-actor-notices/",
+  "GBHackers InfoSec:https://gbhackers.com/harder-link-verification/",
+  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies"
 ]
