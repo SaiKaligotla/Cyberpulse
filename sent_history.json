@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-365-copilot-access-issues/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cnapp-platforms/",
-  "SecurityWeek:https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-  "The Hacker News:https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-  "The Hacker News:https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/clickfix-moves-into-the-browser/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/11/kiteworks-bonfy-ai-acquisition/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/gitlab-patches-critical-flaws/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/woocommerce-plugin-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/googles-new-search/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/new-phishing-attacks/",
-  "The Hacker News:https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html"
+  "The Hacker News:https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+  "SecurityWeek:https://www.securityweek.com/openai-investigates-report-linking-ai-agents-to-rubygems-attack/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/luciferus-uncensored-ai-service-hacking-forum/",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+  "The Hacker News:https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+  "The Hacker News:https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+  "The Hacker News:https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html"
 ]
