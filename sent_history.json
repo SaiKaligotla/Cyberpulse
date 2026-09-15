@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33316",
-  "The Register Security:https://www.theregister.com/security/2026/09/07/peers-ask-why-uk-cyber-bill-leaves-execs-off-the-personal-liability-hook/5294586",
-  "Security Affairs:https://securityaffairs.com/198850/security/u-s-cisa-adds-cisco-google-chromium-v8-fortinet-and-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
   "SecurityWeek:https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
@@ -498,5 +492,11 @@
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
   "The Register Security:https://www.theregister.com/security/2026/09/10/shinyhunters-expose-64m-in-attack-on-medical-supplier-mckesson/5295550",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33326",
-  "Cloudflare Security:https://blog.cloudflare.com/post-quantum-dnssec-1111/"
+  "Cloudflare Security:https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+  "GBHackers InfoSec:https://gbhackers.com/agentic-ai-exploitation/",
+  "The420 Cyber News India:https://the420.in/lost-phone-what-to-do-immediately/",
+  "The420 Cyber News India:https://the420.in/hdfc-bank-shopian-branch-fraud-refund-depositors-eow-kashmir/",
+  "GBHackers InfoSec:https://gbhackers.com/best-browser-isolation-compared/",
+  "The Hacker News:https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+  "GBHackers InfoSec:https://gbhackers.com/uk-government-enables-passkey-login-for-23-million-users/"
 ]
