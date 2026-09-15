@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/hidden-prompt-injection/",
-  "The420 Cyber News India:https://the420.in/shoppers-stop-carry-bag-consumer-complaint-4-crore-claim-dismissed/",
-  "The420 Cyber News India:https://the420.in/ludhiana-company-owner-impersonation-cyber-fraud-second-accused-arrested/",
-  "GBHackers InfoSec:https://gbhackers.com/hackers-deploy-new-sloppyrat-via-clickfix-to-enable-ransomware-lateral-movement/",
-  "GBHackers InfoSec:https://gbhackers.com/hackers-abuse-claude-ai-agents-to-automate-cyberattacks/",
-  "The420 Cyber News India:https://the420.in/bilaspur-mule-bank-account-syndicate-cyber-fraud-six-arrested/",
   "The420 Cyber News India:https://the420.in/surat-e-stamp-fraud-76-lakh-stamp-vendors-booked/",
   "The420 Cyber News India:https://the420.in/vadodara-trader-facebook-stock-trading-fraud-20-lakh/",
   "The420 Cyber News India:https://the420.in/ahmedabad-surat-620-rape-cases-gujarat-crime-data/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-autonomous-ai-agents/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/kb5002914-update-breaks-copy-paste/",
   "SecurityWeek:https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-  "The Register Security:https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650"
+  "The Register Security:https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploiting-gitea-n-day-rce-vulnerability/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/telegram-desktop-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/new-ddrop-attack/",
+  "GBHackers InfoSec:https://gbhackers.com/marimo-rce-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/intel-tdx-under-attack/",
+  "SecurityWeek:https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/"
 ]
