@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
-  "The420 Cyber News India:https://the420.in/sirmaur-staged-truck-crash-steel-theft-insurance-probe/",
-  "The420 Cyber News India:https://the420.in/goa-ceo-whatsapp-fraud-pune-men-arrested-case/",
-  "The Hacker News:https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-  "The420 Cyber News India:https://the420.in/agra-gst-scrap-evasion-gps-fir-tax-fraud/",
-  "The420 Cyber News India:https://the420.in/bihar-telecom-distributor-illegal-sim-box-cybercrime-arrest/",
   "The420 Cyber News India:https://the420.in/jharkhand-police-cctv-surveillance-project-606-stations-9006-cameras/",
   "The420 Cyber News India:https://the420.in/vikram-luthar-adm-sec-accounting-fraud-case-discovery/",
   "The420 Cyber News India:https://the420.in/kanpur-cyber-fraud-network-shahvez-salman-bogus-firms-probe/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/parallels-desktop-vulnerability/",
   "GBHackers InfoSec:https://gbhackers.com/peckbirdy-malware-c2/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/16/iranian-hackers-chosen-brick-malware-dissidents-journalists/",
-  "Security Affairs:https://securityaffairs.com/199170/data-breach/texas-utility-centerpoint-energy-confirms-data-breach-after-hacker-claims-7-49m-records-stolen.html"
+  "Security Affairs:https://securityaffairs.com/199170/data-breach/texas-utility-centerpoint-energy-confirms-data-breach-after-hacker-claims-7-49m-records-stolen.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/android-pixel-zero-day/",
+  "GBHackers InfoSec:https://gbhackers.com/acronis-backup-plugin-vulnerability/",
+  "GBHackers InfoSec:https://gbhackers.com/best-container-security-compared/",
+  "GBHackers InfoSec:https://gbhackers.com/papermill-malware-campaign/",
+  "SecurityWeek:https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/16/acronis-backup-plugin-vulnerability-exploited-cve-2026-87886/"
 ]
