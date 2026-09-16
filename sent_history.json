@@ -1,9 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "The Register Security:https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
-  "SecurityWeek:https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
-  "The420 Cyber News India:https://the420.in/justice-reform-roadmap-20-measures-accessible-transparent-dignified-justice/",
   "The420 Cyber News India:https://the420.in/ai-farming-us-india-generative-ai-agriculture-farmer/",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
   "The420 Cyber News India:https://the420.in/claude-ai-agents-automated-cyberattacks-hackers-evade-detection/",
@@ -498,5 +493,10 @@
   "GBHackers InfoSec:https://gbhackers.com/luciferus-uncensored-ai-service/",
   "GBHackers InfoSec:https://gbhackers.com/3022-malicious-rubygems/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/16/material-google-workspace-attack-chains/",
-  "The420 Cyber News India:https://the420.in/anbil-mahesh-private-school-fraud-police-search-tiruchi/"
+  "The420 Cyber News India:https://the420.in/anbil-mahesh-private-school-fraud-police-search-tiruchi/",
+  "The420 Cyber News India:https://the420.in/cgst-15-78-crore-itc-fraud-bogus-invoices-arrest/",
+  "The420 Cyber News India:https://the420.in/ed-amrit-group-money-laundering-deposit-scheme-probe/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/16/vulnerable-windows-drivers-deepzero-open-source/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days"
 ]
