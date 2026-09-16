@@ -1,9 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/08/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
   "The Register Security:https://www.theregister.com/security/2026/09/08/openais-artifactory-opened-covert-data-stealing-channel-alongside-hugging-face-attack/5295124",
   "SecurityWeek:https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
@@ -498,5 +493,10 @@
   "Dark Reading:https://www.darkreading.com/cyber-risk/ai-scamming-humans",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/16/msp-ciso-services-compliance/",
   "The Register Security:https://www.theregister.com/security/2026/09/11/more-jfrog-artifactory-bugs-under-attack-and-all-3-have-patches/5295943",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+  "GBHackers InfoSec:https://gbhackers.com/google-chrome-153-released/",
+  "GBHackers InfoSec:https://gbhackers.com/luciferus-uncensored-ai-service/",
+  "GBHackers InfoSec:https://gbhackers.com/3022-malicious-rubygems/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/16/material-google-workspace-attack-chains/",
+  "The420 Cyber News India:https://the420.in/anbil-mahesh-private-school-fraud-police-search-tiruchi/"
 ]
