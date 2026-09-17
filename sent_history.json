@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/fortigate-ssl-vpn-vulnerability/",
-  "The Hacker News:https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-  "The Hacker News:https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-  "The420 Cyber News India:https://the420.in/uttar-pradesh-universities-ai-policy-research-administration/",
   "The420 Cyber News India:https://the420.in/baraut-flipkart-warehouse-parcel-swapping-fraud-77-lakh/",
   "The420 Cyber News India:https://the420.in/revolut-fake-government-request-customer-data-breach/",
   "The420 Cyber News India:https://the420.in/fake-aadhaar-racket-along-nepal-border-triggers-crackdown-on-cyber-cafes-in-sitamarhi/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/spicerat-infrastructure/",
   "GBHackers InfoSec:https://gbhackers.com/best-dspm-compared/",
   "GBHackers InfoSec:https://gbhackers.com/zero-code-cloaking-attackers-weaponize-google-search-and-hacked-ac-th-domain-to-bypass-ad-moderation/",
-  "The Hacker News:https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html"
+  "The Hacker News:https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+  "SecurityWeek:https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+  "Security Affairs:https://securityaffairs.com/199267/apt/silkparasite-infrastructure-links-spicerat-to-central-asian-targets.html",
+  "The Hacker News:https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+  "The Hacker News:https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
+  "SecurityWeek:https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/"
 ]
