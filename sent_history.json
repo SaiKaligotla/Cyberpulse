@@ -1,9 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/gartner-ai-in-internal-audit/",
-  "The420 Cyber News India:https://the420.in/meta-report-csam-cases-india-child-safety-scrutiny/",
-  "The420 Cyber News India:https://the420.in/rbi-60-day-bank-account-hold-money-mule-cyber-fraud/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-02",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/product-showcase-msecure-password-manager/",
   "The Hacker News:https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
@@ -498,5 +493,10 @@
   "The Hacker News:https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
   "The Hacker News:https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33338",
-  "The Hacker News:https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html"
+  "The Hacker News:https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
+  "The Register Security:https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
+  "The Register Security:https://www.theregister.com/security/2026/09/14/new-hardware-device-can-ram-into-encrypted-memory-expose-your-data/5296377",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33336"
 ]
