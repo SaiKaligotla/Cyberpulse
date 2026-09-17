@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-  "The Hacker News:https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-  "The Hacker News:https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-  "Security Affairs:https://securityaffairs.com/199048/uncategorized/china-calls-amodeis-ai-proposal-a-new-cold-war-playbook.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33336",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/14/cisa-adds-one-known-exploited-vulnerability-catalog",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
   "Security Affairs:https://securityaffairs.com/199063/ai/enisa-frontier-ai-is-changing-the-speed-of-cyberattacks-europe-needs-to-catch-up.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
   "The Register Security:https://www.theregister.com/security/2026/09/14/openais-malicious-bot-swarm-attacked-rubygems/5296356",
   "The Hacker News:https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232"
+  "The Register Security:https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-models-api-key-leaks/",
+  "The420 Cyber News India:https://the420.in/uk-apple-investigatory-powers-tribunal-encrypted-data/",
+  "The420 Cyber News India:https://the420.in/madurai-bikaner-express-jewellery-theft-bikaner-grp/",
+  "Dark Reading:https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
+  "SecurityWeek:https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
+  "SecurityWeek:https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/"
 ]
