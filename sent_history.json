@@ -1,7 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "SecurityWeek:https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
-  "Dark Reading:https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
   "The Register Security:https://www.theregister.com/research/2026/09/09/novel-blue-moon-kit-targeting-chrome-and-windows-reflects-new-reality-of-ai-driven-exploits/5295399",
   "The Hacker News:https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
   "Dark Reading:https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/pnb-saharanpur-fake-currency-nia-contract-driver-arrested/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/17/fake-ai-trading-agent-research/",
   "SecurityWeek:https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
-  "SecurityWeek:https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/"
+  "SecurityWeek:https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
+  "GBHackers InfoSec:https://gbhackers.com/rathat-malware-attack/",
+  "The420 Cyber News India:https://the420.in/kolkata-businessman-arrested-forged-signature-bank-of-baroda-1-5-crore/",
+  "Security Affairs:https://securityaffairs.com/199217/malware/chosen-brick-irans-surveillance-malware.html"
 ]
