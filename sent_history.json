@@ -1,6 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604",
-  "The Register Security:https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821",
   "SecurityWeek:https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
   "The Hacker News:https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
   "SecurityWeek:https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
@@ -498,5 +496,7 @@
   "SecurityWeek:https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
   "The420 Cyber News India:https://the420.in/ahmedabad-doctor-laboratory-deal-fraud-hospital-payment-case/",
   "The Hacker News:https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies"
+  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies",
+  "The420 Cyber News India:https://the420.in/x-festive-season-account-hacks-crypto-scam-warning/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33340"
 ]
