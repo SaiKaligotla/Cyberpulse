@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-  "The Register Security:https://www.theregister.com/security/2026/09/10/hundreds-of-ai-agents-helped-papercut-attacker-hit-395-orgs-and-some-went-off-script/5295650",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploiting-gitea-n-day-rce-vulnerability/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/telegram-desktop-flaw/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/new-ddrop-attack/",
-  "GBHackers InfoSec:https://gbhackers.com/marimo-rce-flaw/",
   "GBHackers InfoSec:https://gbhackers.com/intel-tdx-under-attack/",
   "SecurityWeek:https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-wordpress-plugin-flaws/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/bhel-gurugram-plant-silver-missing-cbi-registers-fir/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cloud-compliance-tools/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/wordpress-7-1-1-security-update/",
-  "SecurityWeek:https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/"
+  "SecurityWeek:https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-container-registry-security-tools/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/one-click-in-a-malicious-vs-code-project-give-persistent-access/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/ai-powered-malware/",
+  "Security Affairs:https://securityaffairs.com/199279/security/check-point-fixes-critical-cve-2026-91843-allowing-root-code-execution.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cloud-encryption-solutions/",
+  "GBHackers InfoSec:https://gbhackers.com/best-multi-cloud-security-compared/"
 ]
