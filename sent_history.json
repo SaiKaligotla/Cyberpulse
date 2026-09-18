@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/199090/security/non-zero-day-vpn-flaw-left-japan-government-shared-network-platform-exposed-246000-records-at-risk.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/akuity-agentic-control-plane/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/traefik-labs-sovereign-trust-plane/",
-  "Dark Reading:https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/10/cisa-adds-two-known-exploited-vulnerabilities-catalog",
   "Security Affairs:https://securityaffairs.com/199076/security/telegram-desktop-flaw-could-turn-old-chat-exports-into-data-theft-traps.html",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/marimo-rce-to-steal-aws-credentials-in-8-seconds/",
   "GBHackers InfoSec:https://gbhackers.com/best-cwpp-compared/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/18/wordpress-security-survey-recovery-plan/",
   "The Hacker News:https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33352",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/poison-movie-torrents/",
+  "The420 Cyber News India:https://the420.in/trai-ai-spam-calls-guidelines-private-numbers-action/",
+  "GBHackers InfoSec:https://gbhackers.com/t-mobile-phishing-scam/",
+  "SecurityWeek:https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+  "GBHackers InfoSec:https://gbhackers.com/brevo-widgets-supply-chain/",
+  "The Hacker News:https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html"
 ]
