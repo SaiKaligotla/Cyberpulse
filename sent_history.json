@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-  "The Hacker News:https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/11/this-week-in-security-its-patch-tuesday-again-tvs-spying-supply-chain-worms-return-prolonged-hack-impacts-stolen-ids/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33332",
   "The Register Security:https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/rathat-android-malware-ai-banking-otp-device-control/",
   "The420 Cyber News India:https://the420.in/fake-lastpass-github-rapuncel-infostealer-malware/",
   "The420 Cyber News India:https://the420.in/france-smart-glasses-privacy-harassment-investigation/",
-  "The Hacker News:https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html"
+  "The Hacker News:https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+  "The Register Security:https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse"
 ]
