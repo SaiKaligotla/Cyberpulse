@@ -1,7 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-07",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-06",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-05",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/cisa-nist-identity-token-security/",
@@ -498,5 +495,8 @@
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
   "The Register Security:https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-08",
-  "The Register Security:https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461"
+  "The Register Security:https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-01",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-04",
+  "The Register Security:https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517"
 ]
