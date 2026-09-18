@@ -1,9 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/wordpress-events-calendar-vulnerabilities/",
-  "Security Affairs:https://securityaffairs.com/199104/apt/one-exploit-chain-two-espionage-campaigns-chrome-and-windows-under-fire.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/cve-2026-76461-cisco-email-gateway-zero-day-exploited/",
-  "The420 Cyber News India:https://the420.in/varanasi-cybercrime-gangs-arrests-frozen-funds-police-crackdown/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-woocommerce-plugin/",
   "GBHackers InfoSec:https://gbhackers.com/weekly-cybersecurity-newsletter-september-7-12-2026/",
   "SecurityWeek:https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
   "The420 Cyber News India:https://the420.in/azamgarh-agniveer-recruitment-fraud-fake-appointment-letters-gangsters-act/",
@@ -498,5 +493,10 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/brevo-supply-chain-attack/",
   "GBHackers InfoSec:https://gbhackers.com/plugin4shell-zero-click-rce/",
   "The420 Cyber News India:https://the420.in/passport-rules-children-under-15-validity-2026/",
-  "The Hacker News:https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html"
+  "The Hacker News:https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+  "GBHackers InfoSec:https://gbhackers.com/critical-pgadmin-authentication-bypass/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/mikrotrick-attack/",
+  "GBHackers InfoSec:https://gbhackers.com/researchers-find-security-risks-in-73-6-of-61500-abandoned-iot-apps/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fake-t-mobile-rewards/",
+  "SecurityWeek:https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/"
 ]
