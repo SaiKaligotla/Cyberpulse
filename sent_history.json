@@ -1,7 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
-  "The Hacker News:https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-  "SecurityWeek:https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
   "The Register Security:https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/cisa-active-directory-attack-techniques/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-03",
@@ -498,5 +495,8 @@
   "The Hacker News:https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
   "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies",
   "The420 Cyber News India:https://the420.in/x-festive-season-account-hacks-crypto-scam-warning/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33340"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33340",
+  "The420 Cyber News India:https://the420.in/shakumbhari-sugar-mill-loan-diversion-saharanpur-fraud-probe/",
+  "The420 Cyber News India:https://the420.in/neeraj-bharti-meta-takedown-himachal-high-court-case/",
+  "The Register Security:https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604"
 ]
