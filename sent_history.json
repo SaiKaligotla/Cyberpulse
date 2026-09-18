@@ -1,5 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33330",
   "The Register Security:https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/microsoft-ai-safety-rules-humanist-ai-code-of-conduct/",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
@@ -498,5 +497,6 @@
   "GBHackers InfoSec:https://gbhackers.com/best-cdr-compared/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/18/arcjet-agent-runtime-security/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/",
-  "GBHackers InfoSec:https://gbhackers.com/best-sspm-compared/"
+  "GBHackers InfoSec:https://gbhackers.com/best-sspm-compared/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/18/google-androidx-security-state-libraries/"
 ]
