@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies",
-  "The420 Cyber News India:https://the420.in/upi-merchant-transactions-mdr-charge-october-15/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/japan-digital-agency-data-breach/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-advertise-luciferus-ai-service/",
-  "The420 Cyber News India:https://the420.in/oracle-layoffs-ai-infrastructure-data-centre-spending-workforce-cuts/",
   "The420 Cyber News India:https://the420.in/delhi-eow-investment-fraud-21-investors-crore-returns/",
   "The420 Cyber News India:https://the420.in/meta-child-sexual-abuse-cases-india-i4c-direct-reporting/",
   "The420 Cyber News India:https://the420.in/mathura-kosi-kalan-jewellery-heist-gold-cash-theft/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/",
   "The420 Cyber News India:https://the420.in/how-to-report-cybercrime-online-india/",
   "The420 Cyber News India:https://the420.in/fssai-legal-action-nestle-india-infant-nutrition/",
-  "The Register Security:https://www.theregister.com/security/2026/09/15/swiss-court-sentences-52-year-old-ukrainian-ransomware-dev-to-nearly-13-years-in-the-cooler/5296482"
+  "The Register Security:https://www.theregister.com/security/2026/09/15/swiss-court-sentences-52-year-old-ukrainian-ransomware-dev-to-nearly-13-years-in-the-cooler/5296482",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/feral-wolf-ransomware/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/new-settra-ransomware/",
+  "The Hacker News:https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+  "The Hacker News:https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+  "Hackaday Security Hacks:https://hackaday.com/2026/09/18/this-week-in-security-flock-cameras-are-old-microsoft-patches-patches-and-researchers-attack-ssh/",
+  "GBHackers InfoSec:https://gbhackers.com/casino-domains-hide-c2-traffic/"
 ]
