@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/intel-tdx-under-attack/",
-  "SecurityWeek:https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-wordpress-plugin-flaws/",
-  "GBHackers InfoSec:https://gbhackers.com/telegram-desktop-xss-vulnerability-lets-attackers-steal-entire-chat-histories/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/hbo-max-reddit-account-clickfix-infostealer-malware/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33330",
   "The Register Security:https://www.theregister.com/security/2026/09/10/watch-out-apple-timepiece-can-grab-snippets-of-conversation-without-both-speakers-consent/5295666",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/15/microsoft-ai-safety-rules-humanist-ai-code-of-conduct/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/ai-powered-malware/",
   "Security Affairs:https://securityaffairs.com/199279/security/check-point-fixes-critical-cve-2026-91843-allowing-root-code-execution.html",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cloud-encryption-solutions/",
-  "GBHackers InfoSec:https://gbhackers.com/best-multi-cloud-security-compared/"
+  "GBHackers InfoSec:https://gbhackers.com/best-multi-cloud-security-compared/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/plugin4shell-zero-click-rce/",
+  "SecurityWeek:https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+  "GBHackers InfoSec:https://gbhackers.com/best-cdr-compared/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/18/arcjet-agent-runtime-security/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/",
+  "GBHackers InfoSec:https://gbhackers.com/best-sspm-compared/"
 ]
