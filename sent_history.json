@@ -1,7 +1,4 @@
 [
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/11/this-week-in-security-its-patch-tuesday-again-tvs-spying-supply-chain-worms-return-prolonged-hack-impacts-stolen-ids/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33332",
-  "The Register Security:https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652",
   "SecurityWeek:https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
   "Dark Reading:https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
   "SecurityWeek:https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
@@ -498,5 +495,8 @@
   "The Hacker News:https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
   "Dark Reading:https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
   "The Register Security:https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse"
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+  "The Hacker News:https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html"
 ]
