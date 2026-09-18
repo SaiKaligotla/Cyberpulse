@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-  "The Hacker News:https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-  "Cloudflare Security:https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
   "Cloudflare Security:https://blog.cloudflare.com/workers-granular-authorization/",
   "GBHackers InfoSec:https://gbhackers.com/trusted-email-abuse/",
   "Security Affairs:https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html",
@@ -498,5 +495,8 @@
   "The Hacker News:https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
   "The420 Cyber News India:https://the420.in/bharat-digital-fraud-prevention-summit-digital-swachhata-india/",
   "SecurityWeek:https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
-  "The420 Cyber News India:https://the420.in/rhea-ripley-wwe-identity-scam-pennsylvania-fraud-case/"
+  "The420 Cyber News India:https://the420.in/rhea-ripley-wwe-identity-scam-pennsylvania-fraud-case/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/tutor-lms-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/agentic-ransomware-to-target-ai-models/",
+  "The Hacker News:https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html"
 ]
