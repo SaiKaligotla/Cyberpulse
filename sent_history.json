@@ -1,6 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/kremlin-banking-malware/",
-  "GBHackers InfoSec:https://gbhackers.com/apple-releases-ios-27-security-update/",
   "GBHackers InfoSec:https://gbhackers.com/cisa-warns-hackers-exploit-17-active-directory-techniques/",
   "The420 Cyber News India:https://the420.in/ghaziabad-retired-judge-1-34-crore-cyber-fraud-arrest/",
   "The420 Cyber News India:https://the420.in/uttarakhand-mbbs-admission-fraud-fake-freedom-fighter-certificates/",
@@ -498,5 +496,7 @@
   "GBHackers InfoSec:https://gbhackers.com/powershell-malware-abuses-registry-and-dns-txt-records/",
   "The420 Cyber News India:https://the420.in/google-gemini-ai-breaches-three-companies-during-security-testing/",
   "The Hacker News:https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-  "GBHackers InfoSec:https://gbhackers.com/ai-powered-rathat-android-trojan-steals-bank-credentials/"
+  "GBHackers InfoSec:https://gbhackers.com/ai-powered-rathat-android-trojan-steals-bank-credentials/",
+  "The Hacker News:https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+  "The Hacker News:https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
 ]
