@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/nightmarestresser-ddos-service/",
-  "The Hacker News:https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
-  "The420 Cyber News India:https://the420.in/kanpur-fake-software-engineer-wedding-arrest/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
-  "The Register Security:https://www.theregister.com/security/2026/09/14/openais-malicious-bot-swarm-attacked-rubygems/5296356",
   "The Hacker News:https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
   "The Register Security:https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-models-api-key-leaks/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
   "The Hacker News:https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
   "The Hacker News:https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-  "The Hacker News:https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html"
+  "The Hacker News:https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-01",
+  "The Register Security:https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
+  "Security Affairs:https://securityaffairs.com/199480/ics-scada/foreign-hackers-target-two-colorado-water-utilities.html"
 ]
