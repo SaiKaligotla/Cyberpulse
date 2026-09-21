@@ -1,9 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/kubernetes-identity-attack/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/heavygram-surveillance-malware/",
-  "GBHackers InfoSec:https://gbhackers.com/sparrowocky-backdoor/",
-  "GBHackers InfoSec:https://gbhackers.com/gpt4free-privacy-risks-expose-ai-prompts/",
-  "GBHackers InfoSec:https://gbhackers.com/proxy-interviews-scam/",
   "The Register Security:https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180",
   "SecurityWeek:https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/17/aws-middle-east-outage-permanent-data-loss-bahrain-uae/",
@@ -498,5 +493,10 @@
   "GBHackers InfoSec:https://gbhackers.com/nighteagle-attack-chain/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/malicious-npm-package/",
   "The420 Cyber News India:https://the420.in/kanpur-doctor-digital-arrest-scam-48-lakh-fraud/",
-  "SecurityWeek:https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/"
+  "SecurityWeek:https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/payload-ransomware-hijacks-active-directory/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-teams-calling-issue/",
+  "Security Affairs:https://securityaffairs.com/199471/malware/chainscript-the-rat-that-hides-its-command-server-inside-a-blockchain-contract.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/21/taskstomp-windows-backdoor/",
+  "SecurityWeek:https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/"
 ]
