@@ -1,7 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/199217/malware/chosen-brick-irans-surveillance-malware.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/17/spain-ai-agent-data-breach/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-gcp-security-tools/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-azure-security-tools/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/new-android-malware/",
   "GBHackers InfoSec:https://gbhackers.com/nighteagle-abuse-microsoft-dev-tunnels/",
@@ -498,5 +495,8 @@
   "SecurityWeek:https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33318",
   "SecurityWeek:https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
-  "Security Affairs:https://securityaffairs.com/199442/uncategorized/uk-police-data-faces-long-standing-microsoft-cloud-security-concerns.html"
+  "Security Affairs:https://securityaffairs.com/199442/uncategorized/uk-police-data-faces-long-standing-microsoft-cloud-security-concerns.html",
+  "SecurityWeek:https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
+  "The Register Security:https://www.theregister.com/security/2026/09/21/rustaceans-warned-of-job-interviews-with-a-malicious-payload/5297690",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/21/fake-police-federal-agents-scams/"
 ]
