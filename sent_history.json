@@ -1,7 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
-  "GBHackers InfoSec:https://gbhackers.com/rathat-malware-attack/",
-  "The420 Cyber News India:https://the420.in/kolkata-businessman-arrested-forged-signature-bank-of-baroda-1-5-crore/",
   "Security Affairs:https://securityaffairs.com/199217/malware/chosen-brick-irans-surveillance-malware.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/17/spain-ai-agent-data-breach/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-gcp-security-tools/",
@@ -498,5 +495,8 @@
   "GBHackers InfoSec:https://gbhackers.com/hangro-vpn-exposure/",
   "The Hacker News:https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
   "Security Affairs:https://securityaffairs.com/199454/ai/the-target-is-no-longer-the-model-its-the-agent.html",
-  "SecurityWeek:https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/"
+  "SecurityWeek:https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33318",
+  "SecurityWeek:https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
+  "Security Affairs:https://securityaffairs.com/199442/uncategorized/uk-police-data-faces-long-standing-microsoft-cloud-security-concerns.html"
 ]
