@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33334",
-  "The420 Cyber News India:https://the420.in/80s-nostalgia-trend-cyber-fraud-amroha/",
-  "The420 Cyber News India:https://the420.in/trusted-platform-malware-attacks/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/17/autonomous-ai-weapons-future/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/17/ai-and-open-source-projects/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/17/aws-spend-limit-agent-set-permissions/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/17/gnome-51-new-features/",
   "GBHackers InfoSec:https://gbhackers.com/critical-check-point-vulnerability/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/17/flat-cybersecurity-budget-video/",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968",
   "SecurityWeek:https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33344",
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response"
+  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-hide-xmrig-miner/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/exim-mail-server-4-100-1-fixes-security-flaws/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-iam-solutions/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
+  "The Register Security:https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33346"
 ]
