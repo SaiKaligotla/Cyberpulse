@@ -1,9 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-models-api-key-leaks/",
-  "The420 Cyber News India:https://the420.in/uk-apple-investigatory-powers-tribunal-encrypted-data/",
-  "The420 Cyber News India:https://the420.in/madurai-bikaner-express-jewellery-theft-bikaner-grp/",
   "Dark Reading:https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
   "SecurityWeek:https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
   "SecurityWeek:https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
@@ -498,5 +493,10 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
-  "Security Affairs:https://securityaffairs.com/199480/ics-scada/foreign-hackers-target-two-colorado-water-utilities.html"
+  "Security Affairs:https://securityaffairs.com/199480/ics-scada/foreign-hackers-target-two-colorado-water-utilities.html",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/21/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06"
 ]
