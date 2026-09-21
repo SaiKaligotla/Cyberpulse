@@ -1,5 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/14/cisa-adds-one-known-exploited-vulnerability-catalog",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
   "The Hacker News:https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
@@ -498,5 +497,6 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-  "The Register Security:https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232"
+  "The Register Security:https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
+  "Dark Reading:https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027"
 ]
