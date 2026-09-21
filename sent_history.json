@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-  "SecurityWeek:https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/nightmarestresser-ddos-service/",
   "The Hacker News:https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/delhi-police-67-lakh-money-trail-digital-arrest-victim/",
   "The420 Cyber News India:https://the420.in/deoghar-jamtara-six-arrested-fake-echallan-apk-cyber-fraud/",
   "The420 Cyber News India:https://the420.in/dot-advisory-sim-card-misuse-telecom-act-penalties/",
-  "The Hacker News:https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html"
+  "The Hacker News:https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33348",
+  "The Hacker News:https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+  "The Hacker News:https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+  "The Hacker News:https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+  "The Hacker News:https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+  "The Hacker News:https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html"
 ]
