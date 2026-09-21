@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
-  "The Register Security:https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/windows-11-kb5124008-update/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33346",
-  "The420 Cyber News India:https://the420.in/iranian-spyware-dissidents-whatsapp-telegram/",
-  "The420 Cyber News India:https://the420.in/ed-dcp-santanu-sinha-biswas-corruption-complaint/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33334",
   "The420 Cyber News India:https://the420.in/80s-nostalgia-trend-cyber-fraud-amroha/",
   "The420 Cyber News India:https://the420.in/trusted-platform-malware-attacks/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/21/guilherme-joventino-mignow-sap-ecc-migration/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
   "The Register Security:https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936",
-  "Krebs on Security:https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/"
+  "Krebs on Security:https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+  "GBHackers InfoSec:https://gbhackers.com/remus-infostealer-campaign/",
+  "GBHackers InfoSec:https://gbhackers.com/exim-mail-server-hit-by-4-security-flaws/",
+  "The Register Security:https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968",
+  "SecurityWeek:https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33344",
+  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response"
 ]
