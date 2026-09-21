@@ -1,5 +1,4 @@
 [
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
   "The Hacker News:https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
   "The Hacker News:https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/",
@@ -498,5 +497,6 @@
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
   "The Register Security:https://www.theregister.com/security/2026/09/17/london-property-manager-breach-may-have-exposed-bank-details-and-lockbox-codes/5297232",
   "Dark Reading:https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
-  "Security Affairs:https://securityaffairs.com/199494/laws-and-regulations/google-fined-e403-million-over-location-data-practices.html"
+  "Security Affairs:https://securityaffairs.com/199494/laws-and-regulations/google-fined-e403-million-over-location-data-practices.html",
+  "Dark Reading:https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs"
 ]
