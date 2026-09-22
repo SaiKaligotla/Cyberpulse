@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/plugin4shell-zero-click-rce/",
-  "The420 Cyber News India:https://the420.in/passport-rules-children-under-15-validity-2026/",
-  "The Hacker News:https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-  "GBHackers InfoSec:https://gbhackers.com/critical-pgadmin-authentication-bypass/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/mikrotrick-attack/",
-  "GBHackers InfoSec:https://gbhackers.com/researchers-find-security-risks-in-73-6-of-61500-abandoned-iot-apps/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/fake-t-mobile-rewards/",
   "SecurityWeek:https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
   "GBHackers InfoSec:https://gbhackers.com/tutor-lms-vulnerability/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/red-hat-openshift-flaw/",
   "The420 Cyber News India:https://the420.in/turkiye-forex-fraud-israel-linked-network-133-arrests/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/22/ai-crawler-traffic-online-stores/",
-  "Security Affairs:https://securityaffairs.com/199532/security/public-poc-exposes-critical-veeam-agent-privilege-escalation.html"
+  "Security Affairs:https://securityaffairs.com/199532/security/public-poc-exposes-critical-veeam-agent-privilege-escalation.html",
+  "The Hacker News:https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+  "The Hacker News:https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+  "The Hacker News:https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+  "SecurityWeek:https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+  "SecurityWeek:https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+  "The Hacker News:https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html"
 ]
