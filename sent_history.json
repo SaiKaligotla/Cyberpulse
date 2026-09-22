@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-06",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-07",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-05",
-  "The Hacker News:https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
   "The420 Cyber News India:https://the420.in/anthropic-claude-biology-lab-ai-drug-research/",
   "Security Affairs:https://securityaffairs.com/199338/data-breach/gyazo-data-breach-exposes-23-million-user-records.html",
   "The420 Cyber News India:https://the420.in/anil-ambani-reliance-capital-lic-2684-crore-cbi-fraud/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/",
   "GBHackers InfoSec:https://gbhackers.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/",
   "The Hacker News:https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "The Hacker News:https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+  "SecurityWeek:https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
+  "The420 Cyber News India:https://the420.in/real11-delhi-police-fir-4-crore-cyber-fraud-gaming-app/",
+  "The420 Cyber News India:https://the420.in/pune-whale-phishing-1-95-crore-china-linked-gang-arrested/",
+  "The420 Cyber News India:https://the420.in/us-airports-fibre-cable-cut-air-traffic-control-flight-delays/",
+  "The420 Cyber News India:https://the420.in/india-cyber-slavery-overseas-job-scam-recruitment-crackdown/"
 ]
