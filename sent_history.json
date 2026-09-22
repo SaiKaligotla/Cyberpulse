@@ -1,8 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "The Hacker News:https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-  "The Hacker News:https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-03",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
   "The Register Security:https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-08",
@@ -498,5 +494,9 @@
   "The420 Cyber News India:https://the420.in/maharashtra-fda-suspends-food-licences-mumbai-hygiene-violations/",
   "The420 Cyber News India:https://the420.in/up-police-tightens-e-sakshya-digital-evidence-rules/",
   "The420 Cyber News India:https://the420.in/surat-accountant-arrested-textile-fire-salary-dispute/",
-  "The Hacker News:https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html"
+  "The Hacker News:https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+  "The Hacker News:https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+  "Hackaday Security Hacks:https://hackaday.com/2026/09/18/this-week-in-security-flock-cameras-are-old-microsoft-patches-patches-and-researchers-attack-ssh/",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
+  "The Hacker News:https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html"
 ]
