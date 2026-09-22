@@ -1,9 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
-  "The Register Security:https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
   "The Hacker News:https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
   "The Hacker News:https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
@@ -498,5 +493,10 @@
   "The Register Security:https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
   "The Hacker News:https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
+  "The Hacker News:https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+  "The Hacker News:https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+  "The Hacker News:https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+  "The Register Security:https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499"
 ]
