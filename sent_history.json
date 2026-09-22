@@ -1,7 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
-  "The Register Security:https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
   "Dark Reading:https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
   "Security Affairs:https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html",
@@ -498,5 +495,8 @@
   "The Register Security:https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse"
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+  "Security Affairs:https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html",
+  "The Hacker News:https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+  "Dark Reading:https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service"
 ]
