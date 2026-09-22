@@ -1,6 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
   "Security Affairs:https://securityaffairs.com/199355/hacking/brevo-supply-chain-attack-infected-over-100000-websites.html",
   "The420 Cyber News India:https://the420.in/eu-cyber-resilience-act-reporting/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/bragjack-ai-agent-hijacking/",
@@ -498,5 +496,7 @@
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
   "Security Affairs:https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html",
   "The Hacker News:https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-  "Dark Reading:https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service"
+  "Dark Reading:https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight"
 ]
