@@ -1,9 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
-  "Security Affairs:https://securityaffairs.com/199302/ai/openai-admits-its-models-lie-to-cover-their-own-mistakes.html",
-  "The420 Cyber News India:https://the420.in/jaipur-police-arrest-absconding-accused-investment-fraud/",
-  "The420 Cyber News India:https://the420.in/mumbai-digital-arrest-scam-six-arrested/",
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/17/surveillance-camera-security-its-completely-flocked/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33350",
   "The Hacker News:https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
   "The Hacker News:https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
@@ -498,5 +493,10 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-07",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-05",
-  "The Hacker News:https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html"
+  "The Hacker News:https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+  "GBHackers InfoSec:https://gbhackers.com/microsoft-to-disable-sms-as-primary-entra-id/",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/",
+  "The Register Security:https://www.theregister.com/security/2026/09/17/researchers-find-way-to-listen-in-on-headphones-from-afar/5297303",
+  "The Hacker News:https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html"
 ]
