@@ -1,6 +1,4 @@
 [
-  "Cloudflare Security:https://blog.cloudflare.com/workers-granular-authorization/",
-  "GBHackers InfoSec:https://gbhackers.com/genielocker-ransomware/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/ai-agents-3/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/",
   "The420 Cyber News India:https://the420.in/how-to-report-cybercrime-online-india/",
@@ -498,5 +496,7 @@
   "The420 Cyber News India:https://the420.in/noida-investment-fraud-telegram-whatsapp-fake-trading-apps/",
   "The420 Cyber News India:https://the420.in/ambala-australia-visa-fraud-21-lakh-fake-receipt/",
   "Security Affairs:https://securityaffairs.com/199538/hacking/chaotic-eclipse-released-bigdiskbuster-a-poc-for-windows-defender-update-dos-zero-day.html",
-  "SecurityWeek:https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/"
+  "SecurityWeek:https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
+  "The Register Security:https://www.theregister.com/security/2026/09/22/sponsored/5297693",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33358"
 ]
