@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
-  "The Register Security:https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-08",
-  "The Register Security:https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-04",
   "The Register Security:https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-06",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/18/this-week-in-security-flock-cameras-are-old-microsoft-patches-patches-and-researchers-attack-ssh/",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
-  "The Hacker News:https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html"
+  "The Hacker News:https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/check-point-management-server-0-day-exploited/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/scaling-soc-capabilities-how-threat-intelligence-cuts-triage-time-and-burnout/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/",
+  "GBHackers InfoSec:https://gbhackers.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/",
+  "The Hacker News:https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog"
 ]
