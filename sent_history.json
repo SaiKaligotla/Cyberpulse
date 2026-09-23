@@ -1,5 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968",
   "SecurityWeek:https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33344",
   "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response",
@@ -498,5 +497,6 @@
   "The Hacker News:https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
   "SecurityWeek:https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
   "Dark Reading:https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-  "Dark Reading:https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses"
+  "Dark Reading:https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+  "Security Affairs:https://securityaffairs.com/199631/hacking/u-s-cisa-adds-check-point-arista-velocloud-orchestrator-and-f5-big-ip-apm-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
 ]
