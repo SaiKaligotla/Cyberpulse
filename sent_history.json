@@ -1,8 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/21/6g-intent-injection-attacks/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33354",
-  "The420 Cyber News India:https://the420.in/fssai-legal-action-against-nestle-india-over-infant-formula-marketing-claims/",
   "The420 Cyber News India:https://the420.in/fbi-seizes-nightmarestresser-ddos-attack-domains/",
   "The420 Cyber News India:https://the420.in/bengaluru-police-arrest-three-in-online-trading-fraud-mule-account-network/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/21/product-showcase-helmit-parental-controls/",
@@ -498,5 +494,9 @@
   "The Hacker News:https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
-  "The Register Security:https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592"
+  "The Register Security:https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/gitlab-email-private-repository-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/the-visibility-gap-in-phishing-detection-where-sandboxing-makes-a-difference/",
+  "The Register Security:https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
+  "The Register Security:https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558"
 ]
