@@ -1,6 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/16/google-pixel-phones-pwned-in-zero-click-attacks/5296936",
-  "Krebs on Security:https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
   "GBHackers InfoSec:https://gbhackers.com/remus-infostealer-campaign/",
   "GBHackers InfoSec:https://gbhackers.com/exim-mail-server-hit-by-4-security-flaws/",
   "The Register Security:https://www.theregister.com/security/2026/09/16/cisa-decides-weekly-vulnerability-bulletin-isnt-necessary-anymore/5296968",
@@ -498,5 +496,7 @@
   "The Hacker News:https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
   "The420 Cyber News India:https://the420.in/fbi-shinyhunters-data-leak-intelligence-roles-reuters/",
   "The420 Cyber News India:https://the420.in/rbi-cancels-five-nbfc-registrations-eight-surrender-licences/",
-  "SecurityWeek:https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/"
+  "SecurityWeek:https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+  "SecurityWeek:https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/"
 ]
