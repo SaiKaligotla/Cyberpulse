@@ -1,9 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
-  "Security Affairs:https://securityaffairs.com/199480/ics-scada/foreign-hackers-target-two-colorado-water-utilities.html",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
@@ -498,5 +493,10 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33348",
   "The Hacker News:https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-  "The Hacker News:https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html"
+  "The Hacker News:https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/scoutz-prospect-intelligence-platform-launches-for-msps-with-30-day-beta/",
+  "The Register Security:https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958",
+  "The Hacker News:https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+  "The Register Security:https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+  "The Hacker News:https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html"
 ]
