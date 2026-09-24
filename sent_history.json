@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/21/ireland-google-users-location-data-processing-fine/",
-  "The420 Cyber News India:https://the420.in/harendra-masih-gangster-act-high-court-jhansi-case/",
-  "The420 Cyber News India:https://the420.in/lucknow-lda-pnc-green-corridor-contract-notice/",
-  "The Register Security:https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977",
-  "The420 Cyber News India:https://the420.in/supreme-court-mandatory-written-grounds-arrest-rules/",
   "The420 Cyber News India:https://the420.in/ai-voice-cloning-scams-india-how-to-verify-calls/",
   "SecurityWeek:https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/21/clop-gets-a-taste-of-its-own-medicine-after-shinyhunters-hijack-leak-site/5297702",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/pb-fintech-shares-plunge-irdai-distribution-proposals/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/remcontrol-android-banking-trojan-fake-tv-app/",
   "SecurityWeek:https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/google-private-ai-compute-server-side-memory/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/google-private-ai-compute-server-side-memory/",
+  "GBHackers InfoSec:https://gbhackers.com/roundcube-webmail-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/hackers-exploit-check-point-vpn-rce-and-management-zero-day/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/android-banking-trojan/",
+  "The Hacker News:https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+  "SecurityWeek:https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
+  "The420 Cyber News India:https://the420.in/bhagirathi-construction-gst-evasion-varanasi-bogus-itc-case/"
 ]
