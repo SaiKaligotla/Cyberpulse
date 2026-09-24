@@ -1,8 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-01",
-  "The Register Security:https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
   "Security Affairs:https://securityaffairs.com/199480/ics-scada/foreign-hackers-target-two-colorado-water-utilities.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
@@ -498,5 +494,9 @@
   "The420 Cyber News India:https://the420.in/cambodia-casinos-cyber-scam-crackdown-prince-group/",
   "The420 Cyber News India:https://the420.in/kerala-amster-overseas-ceo-arrested-job-fraud-poland-armenia/",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
-  "The Hacker News:https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html"
+  "The Hacker News:https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33348",
+  "The Hacker News:https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+  "The Hacker News:https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html"
 ]
