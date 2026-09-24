@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33318",
-  "SecurityWeek:https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
-  "Security Affairs:https://securityaffairs.com/199442/uncategorized/uk-police-data-faces-long-standing-microsoft-cloud-security-concerns.html",
-  "SecurityWeek:https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
-  "The Register Security:https://www.theregister.com/security/2026/09/21/rustaceans-warned-of-job-interviews-with-a-malicious-payload/5297690",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/21/fake-police-federal-agents-scams/",
   "GBHackers InfoSec:https://gbhackers.com/bigdiskbuster-windows-defender-dos-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/remus-infostealer/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/anthropic-claude-ai-faster/",
   "The Hacker News:https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689"
+  "The Register Security:https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/roundcube-webmail-vulnerability-exploited/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-critical-check-point-vpn-flaws/",
+  "GBHackers InfoSec:https://gbhackers.com/cpanel-permissions-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/p2p-command-network/",
+  "GBHackers InfoSec:https://gbhackers.com/remcontrol-android-malware/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-agent-hacked-australian-portal/"
 ]
