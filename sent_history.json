@@ -1,8 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-hide-xmrig-miner/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/exim-mail-server-4-100-1-fixes-security-flaws/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-iam-solutions/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
   "The Register Security:https://www.theregister.com/security/2026/09/16/ai-agents-can-modify-themselves-without-humans-telling-them-to-do-so/5296991",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33346",
@@ -498,5 +494,9 @@
   "Dark Reading:https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
   "Security Affairs:https://securityaffairs.com/199631/hacking/u-s-cisa-adds-check-point-arista-velocloud-orchestrator-and-f5-big-ip-apm-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/americans-views-on-data-centers/",
-  "The Register Security:https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702"
+  "The Register Security:https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
+  "The420 Cyber News India:https://the420.in/openai-agent-australia-medicare-portal-access/",
+  "The420 Cyber News India:https://the420.in/cisco-cairn-ai-integrated-malware-tracking/",
+  "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-agentic-ai-csam-f5-zero-day/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33364"
 ]
