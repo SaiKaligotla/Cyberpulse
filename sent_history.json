@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/17/ai-coding-agents-0-click-rce-flaw-could-hand-attackers-keys-to-the-kingdom/5297335",
-  "The420 Cyber News India:https://the420.in/kpsc-veterinary-recruitment-scam-gangwar-ed-probe/",
   "The Hacker News:https://thehackernews.com/2026/09/critical-check-point-management-server.html",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/17/surveillance-camera-security-its-completely-flocked/",
   "Security Affairs:https://securityaffairs.com/199506/uncategorized/contagious-interview-30000-devices-infected-by-a-fake-job-interview.html",
@@ -498,5 +495,8 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33368",
   "SecurityWeek:https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
   "The Hacker News:https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-  "Dark Reading:https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe"
+  "Dark Reading:https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
+  "GBHackers InfoSec:https://gbhackers.com/sudo-vulnerability/",
+  "The Hacker News:https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+  "The Hacker News:https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html"
 ]
