@@ -1,6 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/scaling-soc-capabilities-how-threat-intelligence-cuts-triage-time-and-burnout/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/",
   "GBHackers InfoSec:https://gbhackers.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/",
   "The Hacker News:https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -498,5 +496,7 @@
   "The Register Security:https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
   "The Register Security:https://www.theregister.com/security/2026/09/22/sponsored/5297693",
   "The Register Security:https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33358"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33358",
+  "The Register Security:https://www.theregister.com/security/2026/09/22/uk-cops-arrest-2-eviltokens-suspects-microsoft-seizes-50-phishing-kit-websites/5298317",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/"
 ]
