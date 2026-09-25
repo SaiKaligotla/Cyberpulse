@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
-  "The Hacker News:https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-  "The420 Cyber News India:https://the420.in/ed-raids-gmada-office-clu-scam-probe/",
-  "GBHackers InfoSec:https://gbhackers.com/taskstomp-powershell-backdoor/",
-  "The420 Cyber News India:https://the420.in/canada-immigration-marriage-fraud-punjab-ircc-sponsorship-warning/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/22/cisos-deepfake-incidents-social-engineering-survey/",
   "SecurityWeek:https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
   "The Hacker News:https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
   "GBHackers InfoSec:https://gbhackers.com/critical-linux-kvm-flaw/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-servicenow-vulnerabilities/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/wordpress-comment2shell-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/business-emails/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/",
+  "The Hacker News:https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+  "The Hacker News:https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+  "The420 Cyber News India:https://the420.in/hyderabad-cgst-fake-itc-fraud-company-director-arrested/",
+  "The Hacker News:https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+  "Security Affairs:https://securityaffairs.com/199731/malware/clickfix-campaign-abuses-trusted-websites-to-deploy-psychedelic-stealer.html",
+  "Hackaday Security Hacks:https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-attacking-the-rp2350-and-new-attacks-against-rsa/"
 ]
