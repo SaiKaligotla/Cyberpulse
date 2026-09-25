@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-  "The Hacker News:https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/18/this-week-in-security-flock-cameras-are-old-microsoft-patches-patches-and-researchers-attack-ssh/",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
-  "The Hacker News:https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/check-point-management-server-0-day-exploited/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/scaling-soc-capabilities-how-threat-intelligence-cuts-triage-time-and-burnout/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/",
   "GBHackers InfoSec:https://gbhackers.com/aembit-launches-support-for-okta-cross-app-access-extending-enterprise-identity-controls-to-ai-agents/",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-04",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-07",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "The Register Security:https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320",
+  "The Register Security:https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
+  "The Register Security:https://www.theregister.com/security/2026/09/22/sponsored/5297693",
+  "The Register Security:https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33358"
 ]
