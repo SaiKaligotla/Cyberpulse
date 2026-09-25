@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
-  "The Register Security:https://www.theregister.com/security/2026/09/22/sponsored/5297693",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33358",
-  "The420 Cyber News India:https://the420.in/lucknow-fake-fastag-toll-evasion-stf-driver-arrest/",
-  "The420 Cyber News India:https://the420.in/kaushal-kumar-nada-doping-case-ludhiana-athletics-suspension/",
-  "The420 Cyber News India:https://the420.in/bajaj-life-customer-data-leak-noida-cyber-police-case/",
   "The Register Security:https://www.theregister.com/security/2026/09/22/uk-cops-arrest-2-eviltokens-suspects-microsoft-seizes-50-phishing-kit-websites/5298317",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-05",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-03",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/14-year-old-linux-kernel-flaw/",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
+  "The420 Cyber News India:https://the420.in/salesforce-agentforce-salesbleed-zero-click-data-exfiltration/",
+  "The420 Cyber News India:https://the420.in/google-openai-anthropic-frontier-ai-safety-standards-safa/",
+  "The420 Cyber News India:https://the420.in/kanpur-250-crore-cyber-fraud-mule-accounts-four-arrested/",
+  "The420 Cyber News India:https://the420.in/bitget-351-million-crypto-hack-north-korea-wallet-breach/",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250",
+  "Security Affairs:https://securityaffairs.com/199754/cyber-crime/cryptocurrency-exchange-bitget-says-north-korea-linked-hackers-stole-351-6-million.html"
 ]
