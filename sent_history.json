@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
-  "The Hacker News:https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-  "GBHackers InfoSec:https://gbhackers.com/critical-linux-kvm-flaw/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/bambootoken-linux-backdoor/",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
-  "The Hacker News:https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
   "Dark Reading:https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/22/csc-online-intellectual-property-risk-report/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/veeam-agent-flaw-exploited/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/hyderabad-cgst-fake-itc-fraud-company-director-arrested/",
   "The Hacker News:https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
   "Security Affairs:https://securityaffairs.com/199731/malware/clickfix-campaign-abuses-trusted-websites-to-deploy-psychedelic-stealer.html",
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-attacking-the-rp2350-and-new-attacks-against-rsa/"
+  "Hackaday Security Hacks:https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-attacking-the-rp2350-and-new-attacks-against-rsa/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/samsung-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/botnet-uses-ai-agent/",
+  "GBHackers InfoSec:https://gbhackers.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/tweakos-malware/",
+  "The420 Cyber News India:https://the420.in/ankit-pandey-ahmedabad-call-centre-us-citizens-fraud/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/windows-11-update-bug-causing-black-screens/"
 ]
