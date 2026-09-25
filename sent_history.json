@@ -1,8 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/ghappier-supply-chain-attack/",
-  "GBHackers InfoSec:https://gbhackers.com/linux-bambootoken-malware/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/aikido-security-unveils-altar-1/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/context-bombs/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/",
   "GBHackers InfoSec:https://gbhackers.com/hackers-exploit-veeam-agent-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-clone-legitimate-websites/",
@@ -498,5 +494,9 @@
   "GBHackers InfoSec:https://gbhackers.com/rogue-ai-agents-tried-to-hack-public-websites/",
   "The420 Cyber News India:https://the420.in/brahm-swaroop-bhardwaj-land-fraud-retired-pharmacist-arrest/",
   "The420 Cyber News India:https://the420.in/ex-dggi-officer-sangwan-llp-kamla-pasand-transactions/",
-  "The Hacker News:https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html"
+  "The Hacker News:https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/",
+  "SecurityWeek:https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/25/threat-detections-coverage-gaps-report/"
 ]
