@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
-  "The420 Cyber News India:https://the420.in/up-stf-assess-infra-directors-ssc-exam-cheating-proxy-server/",
-  "The Register Security:https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320",
-  "The420 Cyber News India:https://the420.in/maharashtra-fda-suspends-food-licences-mumbai-hygiene-violations/",
-  "The420 Cyber News India:https://the420.in/up-police-tightens-e-sakshya-digital-evidence-rules/",
-  "The420 Cyber News India:https://the420.in/surat-accountant-arrested-textile-fire-salary-dispute/",
   "The Hacker News:https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
   "The Hacker News:https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/18/this-week-in-security-flock-cameras-are-old-microsoft-patches-patches-and-researchers-attack-ssh/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/perplexity-davoice-wake-word-trade-secret-lawsuit/",
   "The420 Cyber News India:https://the420.in/sebi-omaxe-2013-ofs-minimum-public-shareholding-penalty/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-06",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-09"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-09",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-08",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-01",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-04",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-07",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness"
 ]
