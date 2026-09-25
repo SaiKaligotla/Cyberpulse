@@ -1,5 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog",
   "The Hacker News:https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
   "SecurityWeek:https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/",
@@ -498,5 +497,6 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33358",
   "The Register Security:https://www.theregister.com/security/2026/09/22/uk-cops-arrest-2-eviltokens-suspects-microsoft-seizes-50-phishing-kit-websites/5298317",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
-  "Security Affairs:https://securityaffairs.com/199777/hacking/u-s-cisa-adds-microsoft-sharepoint-and-mikrotik-routeros-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+  "Security Affairs:https://securityaffairs.com/199777/hacking/u-s-cisa-adds-microsoft-sharepoint-and-mikrotik-routeros-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+  "Krebs on Security:https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/"
 ]
