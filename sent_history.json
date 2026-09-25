@@ -1,8 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/22/csc-online-intellectual-property-risk-report/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/veeam-agent-flaw-exploited/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/red-hat-openshift-flaw/",
   "The Hacker News:https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33352",
   "The Hacker News:https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
@@ -498,5 +494,9 @@
   "GBHackers InfoSec:https://gbhackers.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/tweakos-malware/",
   "The420 Cyber News India:https://the420.in/ankit-pandey-ahmedabad-call-centre-us-citizens-fraud/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/windows-11-update-bug-causing-black-screens/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/windows-11-update-bug-causing-black-screens/",
+  "SecurityWeek:https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
+  "The Register Security:https://www.theregister.com/storage/2026/09/25/sponsored/5299080",
+  "SecurityWeek:https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
+  "The Hacker News:https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html"
 ]
