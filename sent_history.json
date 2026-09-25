@@ -1,10 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/22/ai-crawler-traffic-online-stores/",
-  "Security Affairs:https://securityaffairs.com/199532/security/public-poc-exposes-critical-veeam-agent-privilege-escalation.html",
-  "The Hacker News:https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-  "The Hacker News:https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-  "The Hacker News:https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-  "SecurityWeek:https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
   "SecurityWeek:https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
   "The Hacker News:https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
   "The420 Cyber News India:https://the420.in/ed-raids-gmada-office-clu-scam-probe/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
   "SecurityWeek:https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
   "The420 Cyber News India:https://the420.in/ahmedabad-work-from-home-loan-emi-fraud-diya-patel/",
-  "Cloudflare Security:https://blog.cloudflare.com/turnstile-spin/"
+  "Cloudflare Security:https://blog.cloudflare.com/turnstile-spin/",
+  "GBHackers InfoSec:https://gbhackers.com/14-year-old-linux-kernel-vulnerability/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/sauron-loader-malware/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-servicenow-vulnerabilities/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/wordpress-comment2shell-vulnerability/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/business-emails/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/salmon-introduces-execution-verification-infrastructure-evi-for-securing-ai-agents-and-autonomous-systems/"
 ]
