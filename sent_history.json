@@ -1,5 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
@@ -498,5 +497,6 @@
   "The Hacker News:https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
   "The Hacker News:https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
   "The Register Security:https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
-  "The420 Cyber News India:https://the420.in/openai-ai-agents-us-government-websites-security-review/"
+  "The420 Cyber News India:https://the420.in/openai-ai-agents-us-government-websites-security-review/",
+  "Dark Reading:https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service"
 ]
