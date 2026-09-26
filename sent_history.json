@@ -1,9 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
-  "Security Affairs:https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html",
   "The Hacker News:https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
   "Dark Reading:https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -498,5 +493,10 @@
   "The Hacker News:https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
   "The420 Cyber News India:https://the420.in/airtel-ai-spam-detection-digital-fraud-safe-network/",
   "Dark Reading:https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
+  "The420 Cyber News India:https://the420.in/patna-cyber-fraud-mule-accounts-villagers-bank-accounts/",
+  "The420 Cyber News India:https://the420.in/bihar-police-ai-generated-videos-jamui-girl-cyber-case/",
+  "The Hacker News:https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+  "The Hacker News:https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+  "The Hacker News:https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html"
 ]
