@@ -1,9 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/shinyhunters-allegedly-claims-fbi-breach/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33362",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/f5-big-ip-oauth-server-0-day-flaw/",
-  "The420 Cyber News India:https://the420.in/nagaland-dimapur-kohima-cybercrime-cases/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/23/netbsd-10-2-security-fixes-released/",
   "The420 Cyber News India:https://the420.in/organized-crime-gift-card-fraud-money-laundering/",
   "The420 Cyber News India:https://the420.in/americans-ai-safety-firms-public-concerns/",
   "The420 Cyber News India:https://the420.in/indian-researchers-claude-openai-security-hack/",
@@ -498,5 +493,10 @@
   "GBHackers InfoSec:https://gbhackers.com/storm-3168-hackers-abuse-compromised-service-principals/",
   "GBHackers InfoSec:https://gbhackers.com/openai-says-misaligned-ai-agents-hacked-hugging-face/",
   "Security Affairs:https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-  "GBHackers InfoSec:https://gbhackers.com/windows-11-update-causes-black-screen/"
+  "GBHackers InfoSec:https://gbhackers.com/windows-11-update-causes-black-screen/",
+  "The420 Cyber News India:https://the420.in/badaun-cjm-rejects-bail-maurya-brothers-amar-jyoti-nidhi-fraud/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+  "The Register Security:https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33360"
 ]
