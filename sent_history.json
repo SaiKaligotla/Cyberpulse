@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
-  "The Register Security:https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33360",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/shinyhunters-allegedly-claims-fbi-breach/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33362",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/f5-big-ip-oauth-server-0-day-flaw/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
   "The Register Security:https://www.theregister.com/security/2026/09/22/shinyhunters-claims-fbi-hack-this-is-not-financially-motivated/5298385",
   "The420 Cyber News India:https://the420.in/openai-ai-agents-us-government-websites-security-review/",
-  "Dark Reading:https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service"
+  "Dark Reading:https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+  "GBHackers InfoSec:https://gbhackers.com/red-heron-exploits-critical-gitea-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/kiteworks-systems-offline-amid-suspected-zero-day/",
+  "GBHackers InfoSec:https://gbhackers.com/storm-3168-hackers-abuse-compromised-service-principals/",
+  "GBHackers InfoSec:https://gbhackers.com/openai-says-misaligned-ai-agents-hacked-hugging-face/",
+  "Security Affairs:https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+  "GBHackers InfoSec:https://gbhackers.com/windows-11-update-causes-black-screen/"
 ]
