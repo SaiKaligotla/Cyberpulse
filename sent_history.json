@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33366",
-  "GBHackers InfoSec:https://gbhackers.com/gitlab-email-token/",
-  "GBHackers InfoSec:https://gbhackers.com/apache-tomcat-11-0-26-fixes-12-security-flaws/",
-  "GBHackers InfoSec:https://gbhackers.com/galago-ransomware-operation/",
-  "The420 Cyber News India:https://the420.in/bengaluru-firm-indo-us-project-fraud-case/",
-  "The420 Cyber News India:https://the420.in/eviltokens-microsoft-device-code-phishing-attack/",
   "SecurityWeek:https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
   "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/gnome-50-5-security-fixes/",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
   "SecurityWeek:https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
   "SecurityWeek:https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33364"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33364",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/python-maas-infostealer/",
+  "GBHackers InfoSec:https://gbhackers.com/infostealer-malware-3/",
+  "The420 Cyber News India:https://the420.in/pooja-singhal-supreme-court-money-laundering-trial-sanction/",
+  "GBHackers InfoSec:https://gbhackers.com/670-jev-domains-registered/",
+  "GBHackers InfoSec:https://gbhackers.com/microsoft-entra-trustsink/",
+  "SecurityWeek:https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/"
 ]
