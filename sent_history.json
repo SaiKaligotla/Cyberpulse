@@ -1,7 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-next-js-flaw-allows-remote-code-execution/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/ryuk-ransomware-operator-sentenced/",
-  "The420 Cyber News India:https://the420.in/priyanshu-lucknow-call-centre-us-citizens-cyber-fraud/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/cpanel-user-account-access-flaw/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/outerlimit-ai-agent-zero-trust/",
   "The Hacker News:https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-nta-security-ai-fraud-citrix-zero-days/",
   "GBHackers InfoSec:https://gbhackers.com/new-windows-process-injection-technique-bypasses-edr/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/",
+  "GBHackers InfoSec:https://gbhackers.com/16-year-old-researcher-discovers-microsoft-authentication-bug/",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
+  "The Hacker News:https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html"
 ]
