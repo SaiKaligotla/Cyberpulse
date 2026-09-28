@@ -1,7 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-  "SecurityWeek:https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
-  "The Hacker News:https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
   "The Register Security:https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
   "The Register Security:https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
   "The420 Cyber News India:https://the420.in/google-project-suncatcher-ai-chips-space-orbit-test/",
@@ -498,5 +495,8 @@
   "Dark Reading:https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
   "Dark Reading:https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
   "The Hacker News:https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860"
+  "The Register Security:https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-02",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-01",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-02"
 ]
