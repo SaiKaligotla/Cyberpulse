@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/roundcube-webmail-vulnerability-exploited/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-critical-check-point-vpn-flaws/",
-  "GBHackers InfoSec:https://gbhackers.com/cpanel-permissions-flaw/",
-  "GBHackers InfoSec:https://gbhackers.com/p2p-command-network/",
-  "GBHackers InfoSec:https://gbhackers.com/remcontrol-android-malware/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-agent-hacked-australian-portal/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/new-galago-ransomware/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/malicious-firefox-extension/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-agent-swarm-bypassed-sandbox/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/nvidia-open-agent-safety-platform/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/drunk-ai-models-jailbreak-research/",
-  "Security Affairs:https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html"
+  "Security Affairs:https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html",
+  "GBHackers InfoSec:https://gbhackers.com/nvidia-launches-in-silicon-security-platform/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/trustsink-attack/",
+  "The420 Cyber News India:https://the420.in/supreme-court-upi-mdr-charge-legal-challenge-india/",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/cve-2025-68788-file-notification-attacks/",
+  "The Hacker News:https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
 ]
