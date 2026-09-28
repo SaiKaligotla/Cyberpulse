@@ -1,7 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/cpanel-user-account-access-flaw/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/outerlimit-ai-agent-zero-trust/",
-  "The Hacker News:https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
   "The Register Security:https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
@@ -498,5 +495,8 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/",
   "GBHackers InfoSec:https://gbhackers.com/16-year-old-researcher-discovers-microsoft-authentication-bug/",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
-  "The Hacker News:https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html"
+  "The Hacker News:https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+  "Security Affairs:https://securityaffairs.com/199882/security/roundcube-sql-injection-cve-2026-48842-is-now-being-exploited-in-the-wild.html",
+  "The420 Cyber News India:https://the420.in/supreme-court-orders-action-mau-sp-trial-delay/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/"
 ]
