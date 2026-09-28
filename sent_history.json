@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/20/reviving-tempest-attacks-with-an-injected-signal/",
-  "The Register Security:https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/gitlab-email-private-repository-flaw/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/the-visibility-gap-in-phishing-detection-where-sandboxing-makes-a-difference/",
-  "The Register Security:https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
   "The Register Security:https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558",
   "The Hacker News:https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33354",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
   "Security Affairs:https://securityaffairs.com/199882/security/roundcube-sql-injection-cve-2026-48842-is-now-being-exploited-in-the-wild.html",
   "The420 Cyber News India:https://the420.in/supreme-court-orders-action-mau-sp-trial-delay/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/",
+  "GBHackers InfoSec:https://gbhackers.com/best-azure-security-compared/",
+  "GBHackers InfoSec:https://gbhackers.com/viewsonic-vcast-vulnerabilities/",
+  "GBHackers InfoSec:https://gbhackers.com/best-aws-security-compared/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-biometric-authentication/",
+  "GBHackers InfoSec:https://gbhackers.com/docker-servers-hijacking/",
+  "The420 Cyber News India:https://the420.in/bhopal-stolen-scooter-e-challan-police-uniform-theft-investigation/"
 ]
