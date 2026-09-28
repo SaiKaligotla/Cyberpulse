@@ -1,7 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-agentic-ai-csam-f5-zero-day/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33364",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/apache-tomcat-update/",
   "The420 Cyber News India:https://the420.in/supreme-court-cybercrime-addiction-bail-case/",
   "The420 Cyber News India:https://the420.in/pune-digital-arrest-retired-officer-fraud/",
   "The420 Cyber News India:https://the420.in/gurugram-court-mule-account-cyberfraud-ruling/",
@@ -498,5 +495,8 @@
   "The Register Security:https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558",
   "Security Affairs:https://securityaffairs.com/199891/hacking/u-s-cisa-adds-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
   "Dark Reading:https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
-  "Dark Reading:https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks"
+  "Dark Reading:https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+  "SecurityWeek:https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/",
+  "The Register Security:https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702"
 ]
