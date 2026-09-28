@@ -1,8 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-  "Dark Reading:https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
-  "Security Affairs:https://securityaffairs.com/199631/hacking/u-s-cisa-adds-check-point-arista-velocloud-orchestrator-and-f5-big-ip-apm-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/americans-views-on-data-centers/",
   "The Register Security:https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
   "The420 Cyber News India:https://the420.in/openai-agent-australia-medicare-portal-access/",
   "The420 Cyber News India:https://the420.in/cisco-cairn-ai-integrated-malware-tracking/",
@@ -498,5 +494,9 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-adaptive-authentication/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-authentication-as-a-service/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cloud-directory-services/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/linkedin-profile-verification-features/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/linkedin-profile-verification-features/",
+  "The Register Security:https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/us-army-soldier-snowflake-breaches-extortion/",
+  "The Register Security:https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558"
 ]
