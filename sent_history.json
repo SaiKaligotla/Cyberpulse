@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/amit-shah-2029-drug-trade-india-anti-narcotics-roadmap/",
-  "The420 Cyber News India:https://the420.in/odisha-2-47-lakh-crore-data-centre-ai-projects/",
-  "The420 Cyber News India:https://the420.in/microsoft-10-billion-gulf-ai-cloud-investment-2030/",
-  "The Register Security:https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659",
-  "Security Affairs:https://securityaffairs.com/199619/security/f5-big-ip-apm-zero-day-exploited-in-zero-day-rce-attacks.html",
-  "The Hacker News:https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
   "The420 Cyber News India:https://the420.in/fbi-shinyhunters-data-leak-intelligence-roles-reuters/",
   "The420 Cyber News India:https://the420.in/rbi-cancels-five-nbfc-registrations-eight-surrender-licences/",
   "SecurityWeek:https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/python-infostealer-campaign/",
   "GBHackers InfoSec:https://gbhackers.com/best-cloud-encryption-compared/",
   "GBHackers InfoSec:https://gbhackers.com/best-gcp-security-compared/",
-  "The Hacker News:https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
+  "The Hacker News:https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+  "The Register Security:https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369",
+  "The Hacker News:https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+  "The Register Security:https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
+  "The Register Security:https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
+  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/considerations-critical-infrastructure-operators-working-third-party-ics-integrators"
 ]
