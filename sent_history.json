@@ -1,6 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-02",
@@ -498,5 +496,7 @@
   "The Hacker News:https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
   "The Register Security:https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
   "The Hacker News:https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-  "Security Affairs:https://securityaffairs.com/199933/ai/ai-accounts-are-becoming-the-new-target-for-infostealers.html"
+  "Security Affairs:https://securityaffairs.com/199933/ai/ai-accounts-are-becoming-the-new-target-for-infostealers.html",
+  "Dark Reading:https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+  "Dark Reading:https://www.darkreading.com/cloud-security/how-to-build-sase-framework"
 ]
