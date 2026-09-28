@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-agent-hacked-australian-portal/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/new-galago-ransomware/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/malicious-firefox-extension/",
-  "SecurityWeek:https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
-  "The Hacker News:https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33318",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/apple-ios-27-impersonation-risk-detection/",
   "GBHackers InfoSec:https://gbhackers.com/ai-powered-soc/",
   "The420 Cyber News India:https://the420.in/us-visa-fraud-reporting-portal/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/supreme-court-upi-mdr-charge-legal-challenge-india/",
   "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/cve-2025-68788-file-notification-attacks/",
-  "The Hacker News:https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html"
+  "The Hacker News:https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/nvidia-launches-open-agent-safety-platform/",
+  "GBHackers InfoSec:https://gbhackers.com/openai-agent-swarm-used-nearly-1-million-urls-to-hack-hugging-face/",
+  "The Hacker News:https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+  "The Hacker News:https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+  "The Hacker News:https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+  "SecurityWeek:https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/"
 ]
