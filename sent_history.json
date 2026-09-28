@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/gnome-50-5-security-fixes/",
-  "The Hacker News:https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/24/anthropic-claude-ai-faster/",
-  "The Hacker News:https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
   "The Register Security:https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/roundcube-webmail-vulnerability-exploited/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-critical-check-point-vpn-flaws/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/pooja-singhal-supreme-court-money-laundering-trial-sanction/",
   "GBHackers InfoSec:https://gbhackers.com/670-jev-domains-registered/",
   "GBHackers InfoSec:https://gbhackers.com/microsoft-entra-trustsink/",
-  "SecurityWeek:https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/"
+  "SecurityWeek:https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
+  "GBHackers InfoSec:https://gbhackers.com/oracle-peoplesoft-servers/",
+  "The420 Cyber News India:https://the420.in/japan-ransomware-ai-qilin-gentlemen-cisco-talos-report/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-agent-swarm-bypassed-sandbox/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/nvidia-open-agent-safety-platform/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/drunk-ai-models-jailbreak-research/",
+  "Security Affairs:https://securityaffairs.com/199905/cyber-crime/storm-3168-linked-to-jadepuffer-abused-stolen-azure-identities.html"
 ]
