@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/199612/cyber-crime/shinyhunters-claims-fbi-breach-after-alleged-peoplesoft-zero-day-attack.html",
-  "The420 Cyber News India:https://the420.in/dri-india-drug-trafficking-845kg-narcotics-seizure-crackdown/",
-  "The Hacker News:https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-  "The420 Cyber News India:https://the420.in/nishant-pitti-easemytrip-mahadev-betting-fpi-money-laundering/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-ibm-ftm-flaws/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/aws-lambda-flaw/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-next-js-flaw-allows-remote-code-execution/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/ryuk-ransomware-operator-sentenced/",
   "The420 Cyber News India:https://the420.in/priyanshu-lucknow-call-centre-us-citizens-cyber-fraud/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/product-showcase-verdict/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/quantum-random-number-generator-qrng-guidance/",
   "The420 Cyber News India:https://the420.in/lg-electronics-india-customs-duty-demand-royalty-payments/",
-  "PortSwigger Web Security Research:https://portswigger.net/research/http3-in-burp-suite"
+  "PortSwigger Web Security Research:https://portswigger.net/research/http3-in-burp-suite",
+  "GBHackers InfoSec:https://gbhackers.com/citrix-confirms-netscaler-zero-day-rce-flaws/",
+  "GBHackers InfoSec:https://gbhackers.com/macsyncs-new-infection-chain/",
+  "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-nta-security-ai-fraud-citrix-zero-days/",
+  "GBHackers InfoSec:https://gbhackers.com/new-windows-process-injection-technique-bypasses-edr/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/"
 ]
