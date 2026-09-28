@@ -1,9 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/fbi-shinyhunters-data-leak-intelligence-roles-reuters/",
-  "The420 Cyber News India:https://the420.in/rbi-cancels-five-nbfc-registrations-eight-surrender-licences/",
-  "SecurityWeek:https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-  "SecurityWeek:https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
   "Dark Reading:https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
   "Dark Reading:https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
   "Security Affairs:https://securityaffairs.com/199631/hacking/u-s-cisa-adds-check-point-arista-velocloud-orchestrator-and-f5-big-ip-apm-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
@@ -498,5 +493,10 @@
   "The Register Security:https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
   "The Register Security:https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/considerations-critical-infrastructure-operators-working-third-party-ics-integrators"
+  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/considerations-critical-infrastructure-operators-working-third-party-ics-integrators",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-globalprotect-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-adaptive-authentication/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-authentication-as-a-service/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cloud-directory-services/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/linkedin-profile-verification-features/"
 ]
