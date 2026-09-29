@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
-  "The Hacker News:https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-  "GBHackers InfoSec:https://gbhackers.com/scoutz-prospect-intelligence-platform-launches-for-msps-with-30-day-beta/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/21/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "Security Affairs:https://securityaffairs.com/199678/hacking/ai-helps-uncover-mikrotrick-attack-chain-in-mikrotik-routeros.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
   "Dark Reading:https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
@@ -498,5 +492,11 @@
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/vendor-concentration-risk-video/",
   "The420 Cyber News India:https://the420.in/indian-it-vendor-singapore-court-data-breach/",
-  "The420 Cyber News India:https://the420.in/delhi-police-bureaucrat-son-assault-complaint/"
+  "The420 Cyber News India:https://the420.in/delhi-police-bureaucrat-son-assault-complaint/",
+  "GBHackers InfoSec:https://gbhackers.com/azure-storage-deletion/",
+  "GBHackers InfoSec:https://gbhackers.com/windows-rat-espionage/",
+  "SecurityWeek:https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fake-vpn-extensions-hijack-browser-traffic/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/pentagon-data-breach/",
+  "GBHackers InfoSec:https://gbhackers.com/malicious-vpn-extensions/"
 ]
