@@ -1,9 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-  "The Hacker News:https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-  "Dark Reading:https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-  "GBHackers InfoSec:https://gbhackers.com/sudo-vulnerability/",
-  "The Hacker News:https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
   "The Hacker News:https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
   "The420 Cyber News India:https://the420.in/moradabad-gst-sib-raid-metal-scrap-firms-tax-evasion/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/25/docker-launches-cloud-sandboxes/",
@@ -498,5 +493,10 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/apple-core-graphics-zero-day-cve-2026-86950-fixed/",
   "The420 Cyber News India:https://the420.in/uttarakhand-fake-certificate-racket-six-mbbs-admissions-cancelled/",
   "SecurityWeek:https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/"
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
+  "The420 Cyber News India:https://the420.in/ed-insolvency-fraud-ibc-corporate-resolution-probes/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/palo-alto-networks-nvidia-ai-agent-security/",
+  "The Hacker News:https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33368",
+  "The Hacker News:https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html"
 ]
