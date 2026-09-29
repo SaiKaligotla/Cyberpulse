@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-07",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-265-02",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "The Register Security:https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320",
   "The Register Security:https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
   "The Register Security:https://www.theregister.com/security/2026/09/22/sponsored/5297693",
   "The Register Security:https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
   "Cloudflare Security:https://blog.cloudflare.com/post-quantum-visibility/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/lastpass-ai-monitoring-and-protect/",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250",
+  "The Register Security:https://www.theregister.com/security/2026/09/25/crooks-use-fake-desktop-apps-to-fool-hr-staff-into-giving-them-remote-access/5299226",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218",
+  "The Register Security:https://www.theregister.com/storage/2026/09/25/sponsored/5299080",
+  "The Hacker News:https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+  "Cloudflare Security:https://blog.cloudflare.com/turnstile-spin/"
 ]
