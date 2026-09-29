@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-  "The Hacker News:https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
-  "The Hacker News:https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
-  "The Hacker News:https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/25/crooks-use-fake-desktop-apps-to-fool-hr-staff-into-giving-them-remote-access/5299226",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/14-year-old-linux-kernel-flaw/",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/how-us-socs-and-mssps-can-use-threat-intelligence-to-detect-phishing-infrastructure-earlier/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/how-us-socs-and-mssps-can-use-threat-intelligence-to-detect-phishing-infrastructure-earlier/",
+  "The420 Cyber News India:https://the420.in/ed-murshidabad-raid-punjab-8-crore-cyber-fraud-probe/",
+  "The420 Cyber News India:https://the420.in/surat-dubai-cyber-fraud-mule-accounts-fake-dsc-icegate-escrip/",
+  "The420 Cyber News India:https://the420.in/sebi-growpital-192-crore-refund-5208-investors-collective-investment-scheme/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/alleged-shinyhunters-leader-arrested/",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog"
 ]
