@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
-  "SecurityWeek:https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
-  "Dark Reading:https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-  "Cloudflare Security:https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
-  "Security Affairs:https://securityaffairs.com/199692/cyber-crime/ryuk-member-karen-vardanyan-sentenced-to-two-years-in-u-s-prison.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
   "The420 Cyber News India:https://the420.in/delhi-police-bust-pitampura-fake-call-center-us-fraud/",
   "The420 Cyber News India:https://the420.in/cbi-arrests-abhishek-kumar-mahadev-betting-case/",
   "The420 Cyber News India:https://the420.in/sc-directs-centre-prevent-child-abuse-material-uploads/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
   "The Hacker News:https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
   "The Hacker News:https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/github-ai-android-app-vulnerabilities/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/github-ai-android-app-vulnerabilities/",
+  "Security Affairs:https://securityaffairs.com/199947/ai/gpt-6-astra-and-the-supply-chain-attack-it-wasnt-asked-to-launch.html",
+  "The Register Security:https://www.theregister.com/security/2026/09/24/salesforce-agentforce-vulns-allowed-0-click-crm-data-theft-anonymous-phishing/5298958",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "GBHackers InfoSec:https://gbhackers.com/file-notification-attacks/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+  "The Hacker News:https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html"
 ]
