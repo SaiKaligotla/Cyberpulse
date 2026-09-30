@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/199862/ai/security-affairs-ai-cybersecurity-newsletter-round-1.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/windows-process-injection-evades-edr/",
-  "Security Affairs:https://securityaffairs.com/199873/security/citrix-confirmed-two-new-netscaler-flaws-exploited-as-zero-day.html",
-  "The420 Cyber News India:https://the420.in/gurugram-reassigned-mobile-number-bank-fraud-32-lakh/",
-  "The420 Cyber News India:https://the420.in/stolen-ai-accounts-llm-jacking-claude-gemini-cursor-dark-web/",
   "The420 Cyber News India:https://the420.in/openai-agent-dns-sandbox-internet-bypass-external-chatbot/",
   "The420 Cyber News India:https://the420.in/russia-kyivstar-headquarters-ukraine-data-centre-telecom-strikes/",
   "The420 Cyber News India:https://the420.in/mobile-retailers-no-upi-day-october-2-mdr-protest/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/remote-access-tools/",
   "The Hacker News:https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
   "The Hacker News:https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-  "The Hacker News:https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html"
+  "The Hacker News:https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/supply-chain-attacks/",
+  "The Hacker News:https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/",
+  "The420 Cyber News India:https://the420.in/chandauli-cyber-fraud-call-centre-japanese-victims-arrests/",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html"
 ]
