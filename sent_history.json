@@ -1,6 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
   "The Hacker News:https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway",
   "The Hacker News:https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
@@ -498,5 +496,7 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/paperphone-headless/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/russian-hackers-2/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/phishing-response-3-steps-soc-teams-can-take-to-investigate-threats-faster/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/chrome-update-with-32-security-fixes/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/citrix-0-day-vulnerabilities-webshells/"
 ]
