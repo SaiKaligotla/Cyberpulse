@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-  "SecurityWeek:https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
-  "The420 Cyber News India:https://the420.in/bill-gates-ai-misuse-billion-deaths-safety-warning/",
-  "SecurityWeek:https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
-  "The420 Cyber News India:https://the420.in/us-visa-crackdown-commercial-birth-tourism/",
-  "The420 Cyber News India:https://the420.in/openai-ai-agent-review-hugging-face-security-investigation/",
   "The420 Cyber News India:https://the420.in/azamgarh-madrasa-district-judge-committee-forgery-probe-case/",
   "The420 Cyber News India:https://the420.in/uttar-pradesh-state-data-centre-nadarganj-digital-infrastructure/",
   "The420 Cyber News India:https://the420.in/jpsc-exam-fixing-saurabh-pandey-ranchi-cid-probe/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/fbi-dutch-police-take-down-alleged-shinyhunters-cybercrime-group-leader/",
   "GBHackers InfoSec:https://gbhackers.com/linux-kernel-cve-2026-72018-flaw/",
   "The420 Cyber News India:https://the420.in/iit-madras-study-cyber-fraud-psychological-vulnerabilities/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/30/air-force-members-sentenced-bec-phishing/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/30/air-force-members-sentenced-bec-phishing/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/unsloth-studio-rce-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fortinet-uncovers-sectoprat/",
+  "GBHackers InfoSec:https://gbhackers.com/opertraitor-finds-kubernetes-operators/",
+  "Security Affairs:https://securityaffairs.com/200069/security/u-s-cisa-adds-apple-multiple-products-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+  "Security Affairs:https://securityaffairs.com/200046/security/whipshot-and-slapshot-the-tools-behind-an-active-citrix-netscaler-campaign.html",
+  "The Hacker News:https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html"
 ]
