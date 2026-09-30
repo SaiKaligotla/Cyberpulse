@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/kiteworks-systems-offline-amid-suspected-zero-day/",
-  "GBHackers InfoSec:https://gbhackers.com/storm-3168-hackers-abuse-compromised-service-principals/",
-  "GBHackers InfoSec:https://gbhackers.com/openai-says-misaligned-ai-agents-hacked-hugging-face/",
-  "Security Affairs:https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-  "GBHackers InfoSec:https://gbhackers.com/windows-11-update-causes-black-screen/",
-  "The420 Cyber News India:https://the420.in/badaun-cjm-rejects-bail-maurya-brothers-amar-jyoti-nidhi-fraud/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog",
   "Dark Reading:https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
   "The Register Security:https://www.theregister.com/security/2026/09/22/windows-closedquorum-malware-uses-ai-models-to-autonomously-select-post-compromise-actions/5298435",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/ed-raids-chandigarh-mohali-650-crore-bank-fraud/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/30/owasp-noir-open-source-static-analysis-tool/",
   "The420 Cyber News India:https://the420.in/supreme-court-medicine-mrp-retail-margin-cap/",
-  "The420 Cyber News India:https://the420.in/youtube-india-creator-economy-gdp-jobs-2025/"
+  "The420 Cyber News India:https://the420.in/youtube-india-creator-economy-gdp-jobs-2025/",
+  "GBHackers InfoSec:https://gbhackers.com/unsloth-fixes-arbitrary-code-execution-flaw/",
+  "The Hacker News:https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+  "SecurityWeek:https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
+  "GBHackers InfoSec:https://gbhackers.com/storm-3068-hijacks-azure/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/30/genea-mcp/"
 ]
