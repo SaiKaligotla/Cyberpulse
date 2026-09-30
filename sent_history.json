@@ -1,7 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33362",
-  "The Hacker News:https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-  "The Hacker News:https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
   "The Hacker News:https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
   "SecurityWeek:https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
   "The420 Cyber News India:https://the420.in/bill-gates-ai-misuse-billion-deaths-safety-warning/",
@@ -498,5 +495,8 @@
   "GBHackers InfoSec:https://gbhackers.com/microsoft-365-accounts-targeted/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/30/claude-compliance-api-integrations/",
   "The Register Security:https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937",
-  "GBHackers InfoSec:https://gbhackers.com/fbi-dutch-police-take-down-alleged-shinyhunters-cybercrime-group-leader/"
+  "GBHackers InfoSec:https://gbhackers.com/fbi-dutch-police-take-down-alleged-shinyhunters-cybercrime-group-leader/",
+  "GBHackers InfoSec:https://gbhackers.com/linux-kernel-cve-2026-72018-flaw/",
+  "The420 Cyber News India:https://the420.in/iit-madras-study-cyber-fraud-psychological-vulnerabilities/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/09/30/air-force-members-sentenced-bec-phishing/"
 ]
