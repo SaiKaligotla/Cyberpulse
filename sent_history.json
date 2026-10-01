@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
-  "The Hacker News:https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-  "Security Affairs:https://securityaffairs.com/199933/ai/ai-accounts-are-becoming-the-new-target-for-infostealers.html",
-  "Dark Reading:https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
-  "Dark Reading:https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
   "Dark Reading:https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
   "The Hacker News:https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
   "The Register Security:https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
   "The Hacker News:https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
   "The Hacker News:https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access"
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
+  "Dark Reading:https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
+  "The Register Security:https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465",
+  "SecurityWeek:https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
+  "SecurityWeek:https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
+  "SecurityWeek:https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/",
+  "Security Affairs:https://securityaffairs.com/200187/uncategorized/inside-gemini-4-argon-the-model-google-is-testing-on-its-own-infrastructure-first.html"
 ]
