@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
-  "The Hacker News:https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-02",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33376",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
   "The Hacker News:https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
   "SecurityWeek:https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
   "SecurityWeek:https://www.securityweek.com/kevin-mandias-armadin-raises-255-million-at-2-5-billion-valuation/",
-  "Security Affairs:https://securityaffairs.com/200187/uncategorized/inside-gemini-4-argon-the-model-google-is-testing-on-its-own-infrastructure-first.html"
+  "Security Affairs:https://securityaffairs.com/200187/uncategorized/inside-gemini-4-argon-the-model-google-is-testing-on-its-own-infrastructure-first.html",
+  "The Hacker News:https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-built-a-windows-backdoor/",
+  "The Register Security:https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+  "The Hacker News:https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+  "Dark Reading:https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+  "Microsoft Security Blog:https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/"
 ]
