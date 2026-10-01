@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/199891/hacking/u-s-cisa-adds-citrix-netscaler-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-  "Dark Reading:https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
-  "Dark Reading:https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-  "SecurityWeek:https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/",
-  "The Register Security:https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/php-fixed-a-bug/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/citrix-netscaler-0-day-rce-vulnerabilities-exploited/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/kiteworks-warned-customers-over-zero-day-attack/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/kpsc-paper-leak-bengaluru-resort-training-ed-investigation-2026/",
   "The420 Cyber News India:https://the420.in/cpt-launches-31-day-cybersecurity-awareness-month-initiative-2026/",
   "The Hacker News:https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/blackfog-adx-vision-2-0/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/blackfog-adx-vision-2-0/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/cisco-sd-wan-manager-0-day-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/critical-cisco-sd-wan-vulnerability/",
+  "SecurityWeek:https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/",
+  "The420 Cyber News India:https://the420.in/delhi-school-forged-disability-certificates-nursery-admissions-cwsn/",
+  "The420 Cyber News India:https://the420.in/haier-godrej-blue-star-e-waste-tax-credit-claims/",
+  "The420 Cyber News India:https://the420.in/delhi-court-pmla-charges-yasin-malik-terror-funding-case/"
 ]
