@@ -1,8 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
-  "SecurityWeek:https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33364",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/python-maas-infostealer/",
   "GBHackers InfoSec:https://gbhackers.com/infostealer-malware-3/",
   "The420 Cyber News India:https://the420.in/pooja-singhal-supreme-court-money-laundering-trial-sanction/",
   "GBHackers InfoSec:https://gbhackers.com/670-jev-domains-registered/",
@@ -498,5 +494,9 @@
   "Security Affairs:https://securityaffairs.com/200126/hacking/ai-agent-chains-zammad-zero-days-to-take-over-divd-systems-in-seconds.html",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/543699-unique-credentials-exposed/",
   "The Hacker News:https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/thales-sentinel-envelope-plus/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/thales-sentinel-envelope-plus/",
+  "Security Affairs:https://securityaffairs.com/200152/security/u-s-cisa-adds-cisco-catalyst-sd-wan-manager-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+  "The Hacker News:https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+  "The Hacker News:https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+  "The Register Security:https://www.theregister.com/security/2026/10/01/fewer-women-than-ever-in-uks-old-boys-club-cyber-industry/5300064"
 ]
