@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-  "The Hacker News:https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-  "The Hacker News:https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-  "SecurityWeek:https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-sharepoint-code-injection/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/fake-jev-ai-stores/",
   "GBHackers InfoSec:https://gbhackers.com/ai-tools-for-attack/",
   "The Register Security:https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33366",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
   "The Register Security:https://www.theregister.com/security/2026/10/01/uk-privacy-watchdog-starts-over-with-new-board-and-manchester-hq/5300439",
   "The420 Cyber News India:https://the420.in/ed-arrests-two-unique-exports-ponzi-scam/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/armadin-raises-255-5-million-funding/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/armadin-raises-255-5-million-funding/",
+  "The420 Cyber News India:https://the420.in/fake-customer-care-numbers-cyber-fraud/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-zimbra-mail-servers/",
+  "GBHackers InfoSec:https://gbhackers.com/axios-flaws-let-attackers-bypass-proxy-controls-and-trigger-ssrf-attacks/",
+  "GBHackers InfoSec:https://gbhackers.com/multiple-teamviewer-vulnerabilities/",
+  "GBHackers InfoSec:https://gbhackers.com/antino-backdoor/",
+  "GBHackers InfoSec:https://gbhackers.com/cloudsyncd-backdoor/"
 ]
