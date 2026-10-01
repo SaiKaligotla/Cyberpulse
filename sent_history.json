@@ -1,6 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
-  "GBHackers InfoSec:https://gbhackers.com/apple-fixes-ios-zero-day/",
   "GBHackers InfoSec:https://gbhackers.com/trusted-rmm-abuse/",
   "The420 Cyber News India:https://the420.in/anthropic-ai-shutdown-existential-risk/",
   "The420 Cyber News India:https://the420.in/navi-mumbai-share-market-investment-fraud/",
@@ -498,5 +496,7 @@
   "Krebs on Security:https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440",
   "Dark Reading:https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "The Register Security:https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652"
 ]
