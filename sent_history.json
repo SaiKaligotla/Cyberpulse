@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-  "The Hacker News:https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-  "SecurityWeek:https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
   "SecurityWeek:https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
   "SecurityWeek:https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33364",
@@ -498,5 +495,8 @@
   "SecurityWeek:https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/teamviewer-vulnerabilities/",
   "GBHackers InfoSec:https://gbhackers.com/multiple-modsecurity-vulnerabilities/",
-  "Security Affairs:https://securityaffairs.com/200126/hacking/ai-agent-chains-zammad-zero-days-to-take-over-divd-systems-in-seconds.html"
+  "Security Affairs:https://securityaffairs.com/200126/hacking/ai-agent-chains-zammad-zero-days-to-take-over-divd-systems-in-seconds.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/543699-unique-credentials-exposed/",
+  "The Hacker News:https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/thales-sentinel-envelope-plus/"
 ]
