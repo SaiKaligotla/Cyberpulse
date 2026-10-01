@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/considerations-critical-infrastructure-operators-working-third-party-ics-integrators",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-globalprotect-flaw/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-adaptive-authentication/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-authentication-as-a-service/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-cloud-directory-services/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/linkedin-profile-verification-features/",
   "The Register Security:https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659",
   "The Hacker News:https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/28/us-army-soldier-snowflake-breaches-extortion/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
   "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-1-october-2026-ai-policing-digital-arrest/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33388",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/ai-soc-entry-jobs/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/ai-soc-entry-jobs/",
+  "The420 Cyber News India:https://the420.in/supreme-court-slams-up-police-bulandshahr-fir/",
+  "GBHackers InfoSec:https://gbhackers.com/microsoft-defender-exclusions/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/google-ai-discovered-vulnerabilities-remote-code-execution/",
+  "GBHackers InfoSec:https://gbhackers.com/fbis-operation-blackout/",
+  "The Hacker News:https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+  "The Register Security:https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369"
 ]
