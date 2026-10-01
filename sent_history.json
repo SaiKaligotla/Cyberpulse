@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369",
-  "The Hacker News:https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
-  "The Register Security:https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
   "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/considerations-critical-infrastructure-operators-working-third-party-ics-integrators",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-globalprotect-flaw/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-adaptive-authentication/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/internet-society-launches-global-online-trust-and-safety-hub-as-part-of-its-safer-internet-initiative/",
   "GBHackers InfoSec:https://gbhackers.com/ai-agents-expose-13000-developer-screenshots/",
   "GBHackers InfoSec:https://gbhackers.com/2cloader-malware/",
-  "The420 Cyber News India:https://the420.in/whatsapp-business-service-message-charges-india-october-1-2026/"
+  "The420 Cyber News India:https://the420.in/whatsapp-business-service-message-charges-india-october-1-2026/",
+  "GBHackers InfoSec:https://gbhackers.com/zimbra-vulnerability-exploited/",
+  "The420 Cyber News India:https://the420.in/agentic-ai-security-ai-agents-cybersecurity-digital-forensics/",
+  "The Hacker News:https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+  "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-1-october-2026-ai-policing-digital-arrest/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33388",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/ai-soc-entry-jobs/"
 ]
