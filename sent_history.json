@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33376",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-  "The Hacker News:https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
-  "The Register Security:https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33378",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
   "The420 Cyber News India:https://the420.in/up-pcs-officer-harish-chandra-dismissed-noida-land-scam/",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
   "The Hacker News:https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
   "Dark Reading:https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
-  "Microsoft Security Blog:https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/"
+  "Microsoft Security Blog:https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-01",
+  "The Hacker News:https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-02",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-04",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-06",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-03"
 ]
