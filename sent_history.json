@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33382",
-  "Cloudflare Security:https://blog.cloudflare.com/cloudflare-certificate-authority/",
-  "Cloudflare Security:https://blog.cloudflare.com/pq-ca-with-mtcs/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/how-us-socs-and-mssps-can-use-threat-intelligence-to-detect-phishing-infrastructure-earlier/",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
   "The Hacker News:https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-  "Cloudflare Security:https://blog.cloudflare.com/ai-driven-cryptography-discovery/"
+  "Cloudflare Security:https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
+  "The420 Cyber News India:https://the420.in/moradabad-cyber-fraud-108-bank-accounts-five-states/",
+  "Hackaday Security Hacks:https://hackaday.com/2026/10/02/this-week-in-security-shinyhunters-wont-dox-the-fbi-pentagon-data-stolen-and-obs-vulnerable/",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
+  "Cloudflare Security:https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+  "Cloudflare Security:https://blog.cloudflare.com/protected-quick-tunnels/"
 ]
