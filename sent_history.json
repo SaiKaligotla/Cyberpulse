@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/alleged-shinyhunters-leader-arrested/",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
-  "The420 Cyber News India:https://the420.in/fake-detective-agency-website-fraud-ghaziabad-arrests/",
-  "The420 Cyber News India:https://the420.in/deoghar-cyber-fraud-five-arrested-malicious-apk-files/",
   "The420 Cyber News India:https://the420.in/rampur-uk-study-visa-fraud-21-lakh-seven-booked/",
   "The420 Cyber News India:https://the420.in/dhanbad-job-fraud-pankaj-gupta-arrested-56-lakh/",
   "The420 Cyber News India:https://the420.in/bihar-illegal-sim-pos-operators-cyber-fraud-network-investigation/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/openai-fires-three-researchers-sensitive-information-investigation/",
   "SecurityWeek:https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
   "The420 Cyber News India:https://the420.in/noida-usdt-fraud-farhan-bank-accounts-frozen-case/",
-  "The420 Cyber News India:https://the420.in/hyderabad-mbbs-student-arrested-tirupati-marriage-fraud-blackmail/"
+  "The420 Cyber News India:https://the420.in/hyderabad-mbbs-student-arrested-tirupati-marriage-fraud-blackmail/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33382"
 ]
