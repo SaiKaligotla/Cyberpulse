@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-  "SecurityWeek:https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03",
-  "The420 Cyber News India:https://the420.in/uprnn-130-crore-uttarakhand-projects-chargesheet-three-officials/",
-  "The Hacker News:https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-05",
   "The Hacker News:https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
   "Hackaday Security Hacks:https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/",
   "The Hacker News:https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
@@ -498,5 +492,11 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
   "Security Affairs:https://securityaffairs.com/200234/ai/ai-agents-attempt-sql-injection-while-searching-government-data.html",
   "The Register Security:https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
-  "Cloudflare Security:https://blog.cloudflare.com/cloudflare-certificate-authority/"
+  "Cloudflare Security:https://blog.cloudflare.com/cloudflare-certificate-authority/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/red-hat-satellite-vulnerability/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/multiple-cpanel-whm-vulnerabilities/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/exposed-wordpress-backups/",
+  "GBHackers InfoSec:https://gbhackers.com/zammad-vulnerabilities/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-poison-trusted-software-updates/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/openclaw-free-enterprise-platform/"
 ]
