@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-  "SecurityWeek:https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
-  "SecurityWeek:https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640",
-  "Security Affairs:https://securityaffairs.com/200017/uncategorized/three-million-affected-in-pentagon-personnel-agency-data-breach.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33382",
   "Cloudflare Security:https://blog.cloudflare.com/cloudflare-certificate-authority/",
   "Cloudflare Security:https://blog.cloudflare.com/pq-ca-with-mtcs/",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/02/ai-cybersecurity-threats-microsoft-report/",
   "The Hacker News:https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-  "SecurityWeek:https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/"
+  "SecurityWeek:https://www.securityweek.com/in-rare-move-iranian-hacker-accused-of-working-for-irgc-extradited-to-us/",
+  "The420 Cyber News India:https://the420.in/haryana-bank-fraud-investigation-cbi-ed/",
+  "The420 Cyber News India:https://the420.in/jaunpur-government-loan-fraud-eow-varanasi-agent-arrested/",
+  "SecurityWeek:https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
+  "The Hacker News:https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+  "Cloudflare Security:https://blog.cloudflare.com/ai-driven-cryptography-discovery/"
 ]
