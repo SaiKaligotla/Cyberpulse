@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-07",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/how-us-socs-and-mssps-can-use-threat-intelligence-to-detect-phishing-infrastructure-earlier/",
-  "The420 Cyber News India:https://the420.in/ed-murshidabad-raid-punjab-8-crore-cyber-fraud-probe/",
-  "The420 Cyber News India:https://the420.in/surat-dubai-cyber-fraud-mule-accounts-fake-dsc-icegate-escrip/",
-  "The420 Cyber News India:https://the420.in/sebi-growpital-192-crore-refund-5208-investors-collective-investment-scheme/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/alleged-shinyhunters-leader-arrested/",
   "Dark Reading:https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -498,5 +492,11 @@
   "Hackaday Security Hacks:https://hackaday.com/2026/10/02/this-week-in-security-shinyhunters-wont-dox-the-fbi-pentagon-data-stolen-and-obs-vulnerable/",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
   "Cloudflare Security:https://blog.cloudflare.com/account-abuse-protection-dashboard/",
-  "Cloudflare Security:https://blog.cloudflare.com/protected-quick-tunnels/"
+  "Cloudflare Security:https://blog.cloudflare.com/protected-quick-tunnels/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
+  "The420 Cyber News India:https://the420.in/openai-fires-three-researchers-sensitive-information-investigation/",
+  "SecurityWeek:https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
+  "The420 Cyber News India:https://the420.in/noida-usdt-fraud-farhan-bank-accounts-frozen-case/",
+  "The420 Cyber News India:https://the420.in/hyderabad-mbbs-student-arrested-tirupati-marriage-fraud-blackmail/"
 ]
