@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743",
-  "SecurityWeek:https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/postman-fabric-gateway/",
-  "The Register Security:https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/ethereum-secret-messaging-system/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/chatgpt-custom-gpt-malware/",
   "GBHackers InfoSec:https://gbhackers.com/openai-cancels-gpt-6-1-astra-release/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/silverfox-hackers/",
   "GBHackers InfoSec:https://gbhackers.com/anthropic-mcp-python-sdk-flaw/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/passwordless-impersonation/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/safari-history-tags-reveal-browsing-on-macos/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/milk-dragon-aitm-kit/",
-  "GBHackers InfoSec:https://gbhackers.com/best-iga-compared/"
+  "GBHackers InfoSec:https://gbhackers.com/best-iga-compared/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/session-cookie-vulnerability/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-capacitor-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/multiple-cpanel-whm-vulnerabilities/",
+  "GBHackers InfoSec:https://gbhackers.com/capacitor-vulnerability/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/ps5-security-update/",
+  "GBHackers InfoSec:https://gbhackers.com/openai-blocks-15000-requests/"
 ]
