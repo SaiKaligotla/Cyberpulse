@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/storage/2026/09/25/sponsored/5299080",
-  "The Hacker News:https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-  "Cloudflare Security:https://blog.cloudflare.com/turnstile-spin/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
   "The Register Security:https://www.theregister.com/security/2026/09/29/fbi-to-shinyhunters-we-know-how-to-find-you/5299901",
   "The Register Security:https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264",
   "SecurityWeek:https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
   "Dark Reading:https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
   "The Hacker News:https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-05"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-05",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
+  "The420 Cyber News India:https://the420.in/dehradun-credit-card-call-centre-stf-raid-uttarakhand-bank/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03",
+  "GBHackers InfoSec:https://gbhackers.com/tiktouk-wordpress-toolkit/",
+  "The Hacker News:https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+  "Dark Reading:https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web"
 ]
