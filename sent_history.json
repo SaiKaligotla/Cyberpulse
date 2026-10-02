@@ -1,10 +1,4 @@
 [
-  "Cloudflare Security:https://blog.cloudflare.com/post-quantum-visibility/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/lastpass-ai-monitoring-and-protect/",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250",
-  "The Register Security:https://www.theregister.com/security/2026/09/25/crooks-use-fake-desktop-apps-to-fool-hr-staff-into-giving-them-remote-access/5299226",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218",
   "The Register Security:https://www.theregister.com/storage/2026/09/25/sponsored/5299080",
   "The Hacker News:https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
   "Cloudflare Security:https://blog.cloudflare.com/turnstile-spin/",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-turned-a-microsoft-sql-server/",
   "GBHackers InfoSec:https://gbhackers.com/safari-history-database-tags-can-reveal-users-browsing-themes/",
   "GBHackers InfoSec:https://gbhackers.com/viva-aerobus-intrusion/",
-  "The Register Security:https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867"
+  "The Register Security:https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
+  "Dark Reading:https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+  "The Hacker News:https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities",
+  "The Hacker News:https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-05"
 ]
