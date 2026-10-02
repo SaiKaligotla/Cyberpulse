@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
-  "The420 Cyber News India:https://the420.in/ed-insolvency-fraud-ibc-corporate-resolution-probes/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/palo-alto-networks-nvidia-ai-agent-security/",
-  "The Hacker News:https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33368",
   "The Hacker News:https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
   "GBHackers InfoSec:https://gbhackers.com/wolfssl-5-9-4-patches-11-security-flaws/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/agtabackup-rat/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/apache-http-server-flaws/",
   "GBHackers InfoSec:https://gbhackers.com/python-based-infostealer/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/u-s-arrests-tech-company-owner/",
-  "GBHackers InfoSec:https://gbhackers.com/u-s-arrests-company-owner-accused-of-shipping/"
+  "GBHackers InfoSec:https://gbhackers.com/u-s-arrests-company-owner-accused-of-shipping/",
+  "GBHackers InfoSec:https://gbhackers.com/16-year-old-suspected-killsec-ransomware-leader-arrested/",
+  "The Hacker News:https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+  "Security Affairs:https://securityaffairs.com/200224/security/u-s-cisa-adds-fortinet-fortimail-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+  "The420 Cyber News India:https://the420.in/former-hsbc-banker-joseph-molloy-train-fare-fraud-ban/",
+  "GBHackers InfoSec:https://gbhackers.com/atm-jackpotting-network/",
+  "GBHackers InfoSec:https://gbhackers.com/ftc-investigates-openai-and-anthropic/"
 ]
