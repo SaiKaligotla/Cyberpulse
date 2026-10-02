@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/openai-cancels-gpt-6-1-astra-release/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/silverfox-hackers/",
-  "GBHackers InfoSec:https://gbhackers.com/anthropic-mcp-python-sdk-flaw/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/malware-inside-7-zip-installers/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-built-a-botnet/",
-  "Security Affairs:https://securityaffairs.com/200001/hacking/apple-patches-coregraphics-zero-day-linked-to-sophisticated-targeted-attacks.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/",
   "The420 Cyber News India:https://the420.in/bhilai-steel-plant-scrap-theft-cbi-probe-arrests/",
   "The420 Cyber News India:https://the420.in/karnataka-high-court-fake-lawyer-fir-widow-fraud/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/multiple-cpanel-whm-vulnerabilities/",
   "GBHackers InfoSec:https://gbhackers.com/capacitor-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/ps5-security-update/",
-  "GBHackers InfoSec:https://gbhackers.com/openai-blocks-15000-requests/"
+  "GBHackers InfoSec:https://gbhackers.com/openai-blocks-15000-requests/",
+  "The Register Security:https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721",
+  "The Hacker News:https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+  "Cloudflare Security:https://blog.cloudflare.com/threat-signals/",
+  "Cloudflare Security:https://blog.cloudflare.com/application-profiles/",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743",
+  "SecurityWeek:https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/"
 ]
