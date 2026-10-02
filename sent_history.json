@@ -1,5 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/openssl-high-severity-flaw/",
   "GBHackers InfoSec:https://gbhackers.com/gemini-powered-malware/",
   "GBHackers InfoSec:https://gbhackers.com/sectoprat-malware/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/mcp-python-sdk-oauth-flaw/",
@@ -498,5 +497,6 @@
   "Cloudflare Security:https://blog.cloudflare.com/post-quantum-visibility/",
   "The Register Security:https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264",
   "Krebs on Security:https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail"
 ]
