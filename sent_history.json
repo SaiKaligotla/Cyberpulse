@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-  "Hackaday Security Hacks:https://hackaday.com/2026/09/25/this-week-in-security-fbi-gets-hacked-muse-vulnerable-to-clickfix-popular-rust-developers-at-risk-and-new-attacks-against-rsa/",
-  "The Hacker News:https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
-  "The Hacker News:https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-  "Dark Reading:https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
-  "SecurityWeek:https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
   "Cloudflare Security:https://blog.cloudflare.com/post-quantum-visibility/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/09/29/lastpass-ai-monitoring-and-protect/",
   "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/exposed-wordpress-backups/",
   "GBHackers InfoSec:https://gbhackers.com/zammad-vulnerabilities/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-poison-trusted-software-updates/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/openclaw-free-enterprise-platform/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/openclaw-free-enterprise-platform/",
+  "GBHackers InfoSec:https://gbhackers.com/sony-ps5-relapse-jailbreak-exploit-uses/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-turned-a-microsoft-sql-server/",
+  "GBHackers InfoSec:https://gbhackers.com/safari-history-database-tags-can-reveal-users-browsing-themes/",
+  "GBHackers InfoSec:https://gbhackers.com/viva-aerobus-intrusion/",
+  "The Register Security:https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867"
 ]
