@@ -1,7 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/msp360-and-rmm-abuse/",
-  "The Register Security:https://www.theregister.com/security/2026/09/30/more-than-half-of-uk-businesses-lack-confidence-in-basic-cyber-skills/5299991",
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
   "The Hacker News:https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
   "The Hacker News:https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
   "SecurityWeek:https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
@@ -498,5 +495,8 @@
   "The Hacker News:https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
   "SecurityWeek:https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
   "SecurityWeek:https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/"
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
+  "The420 Cyber News India:https://the420.in/faridabad-ashutosh-dubey-source-code-client-data-bail-case/",
+  "The420 Cyber News India:https://the420.in/kanpur-maswanpur-government-land-ashok-mishra-ashutosh-pradhan-probe/",
+  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html"
 ]
