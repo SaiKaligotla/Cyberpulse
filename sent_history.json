@@ -1,8 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/200079/ai/attackers-abuse-chatgpt-custom-gpts-to-deploy-a-full-featured-rat.html",
-  "GBHackers InfoSec:https://gbhackers.com/hackers-exploit-citrix-netscaler-zero-day/",
-  "GBHackers InfoSec:https://gbhackers.com/papercut-rce-chain/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/rsa-agent-id/",
   "GBHackers InfoSec:https://gbhackers.com/rsa-agent-id-secures-ai-agents-and-mcp-servers/",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
   "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
@@ -498,5 +494,9 @@
   "The420 Cyber News India:https://the420.in/lucknow-pension-card-cyber-fraud-36-lakh/",
   "The420 Cyber News India:https://the420.in/google-restricts-gemini-4-argon-cybersecurity-concerns/",
   "The Register Security:https://www.theregister.com/security/2026/09/30/uk-rail-cops-320k-face-scanning-spree-nets-zero-matches/5299793",
-  "Security Affairs:https://securityaffairs.com/200264/apt/antino-backdoor-uses-your-inbox-as-its-control-panel.html"
+  "Security Affairs:https://securityaffairs.com/200264/apt/antino-backdoor-uses-your-inbox-as-its-control-panel.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/rethinking-automotive-cyber-risk-for-the-age-of-accelerated-vulnerability-discovery/",
+  "Security Affairs:https://securityaffairs.com/200283/hacking/cve-2026-90970-critical-gitlab-ai-gateway-flaw-fixed.html",
+  "The420 Cyber News India:https://the420.in/up-ats-aqis-module-bank-accounts-digital-probe/",
+  "The Hacker News:https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html"
 ]
