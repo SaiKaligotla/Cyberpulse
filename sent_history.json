@@ -1,5 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
   "GBHackers InfoSec:https://gbhackers.com/msp360-and-rmm-abuse/",
   "The Register Security:https://www.theregister.com/security/2026/09/30/more-than-half-of-uk-businesses-lack-confidence-in-basic-cyber-skills/5299991",
   "The Hacker News:https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
@@ -498,5 +497,6 @@
   "The420 Cyber News India:https://the420.in/up-ats-aqis-module-bank-accounts-digital-probe/",
   "The Hacker News:https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
   "SecurityWeek:https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
-  "SecurityWeek:https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/"
+  "SecurityWeek:https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/"
 ]
