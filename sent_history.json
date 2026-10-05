@@ -1,9 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/thales-sentinel-envelope-plus/",
-  "Security Affairs:https://securityaffairs.com/200152/security/u-s-cisa-adds-cisco-catalyst-sd-wan-manager-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-  "The Hacker News:https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-  "The Hacker News:https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
   "The Register Security:https://www.theregister.com/security/2026/10/01/fewer-women-than-ever-in-uks-old-boys-club-cyber-industry/5300064",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/modsecurity-vulnerabilities-bypass/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/critical-mikrotik-routeros-flaw/",
@@ -498,5 +493,10 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/googles-ai-hacker/",
   "The Hacker News:https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
   "Security Affairs:https://securityaffairs.com/200396/intelligence/mi5-raises-alarm-over-chinese-funding-of-uk-academic-research.html",
-  "GBHackers InfoSec:https://gbhackers.com/south-korea-orders-investigation/"
+  "GBHackers InfoSec:https://gbhackers.com/south-korea-orders-investigation/",
+  "GBHackers InfoSec:https://gbhackers.com/mediatek-fixes-31-security-flaws/",
+  "GBHackers InfoSec:https://gbhackers.com/google-tightens-open-source-bug-bounty-rules/",
+  "GBHackers InfoSec:https://gbhackers.com/aws-fixes-ai-agent-flaws/",
+  "Security Affairs:https://securityaffairs.com/200387/security/iranian-hacker-accused-of-draining-31tb-from-university-inboxes-extradited-to-the-us.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/05/makerphone-2-diy-4g-phone/"
 ]
