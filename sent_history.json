@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/new-2cloader-malware/",
-  "SecurityWeek:https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/teamviewer-vulnerabilities/",
-  "GBHackers InfoSec:https://gbhackers.com/multiple-modsecurity-vulnerabilities/",
-  "Security Affairs:https://securityaffairs.com/200126/hacking/ai-agent-chains-zammad-zero-days-to-take-over-divd-systems-in-seconds.html",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/543699-unique-credentials-exposed/",
   "The Hacker News:https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/thales-sentinel-envelope-plus/",
   "Security Affairs:https://securityaffairs.com/200152/security/u-s-cisa-adds-cisco-catalyst-sd-wan-manager-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/05/macos-full-disk-access-updates/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33388",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/05/doxx-net-agentic-defined-networking-platform/",
-  "The Hacker News:https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html"
+  "The Hacker News:https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fortinet-fortimail-0-day-vulnerability-exploitation/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/zammad-divd-vulnerabilities-exploited/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/googles-ai-hacker/",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+  "Security Affairs:https://securityaffairs.com/200396/intelligence/mi5-raises-alarm-over-chinese-funding-of-uk-academic-research.html",
+  "GBHackers InfoSec:https://gbhackers.com/south-korea-orders-investigation/"
 ]
