@@ -1,6 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
   "The420 Cyber News India:https://the420.in/gujarat-health-liquor-permit-racket-ahmedabad/",
   "The420 Cyber News India:https://the420.in/us-revokes-250000-visas-trump-administration/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33386",
@@ -498,5 +496,7 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/30/cisa-adds-one-known-exploited-vulnerability-catalog",
   "Dark Reading:https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/"
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
+  "The Register Security:https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord"
 ]
