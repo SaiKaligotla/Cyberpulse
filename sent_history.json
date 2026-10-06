@@ -1,8 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-05",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
-  "The420 Cyber News India:https://the420.in/dehradun-credit-card-call-centre-stf-raid-uttarakhand-bank/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03",
   "GBHackers InfoSec:https://gbhackers.com/tiktouk-wordpress-toolkit/",
   "The Hacker News:https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
@@ -498,5 +494,9 @@
   "The420 Cyber News India:https://the420.in/trentar-maharashtra-30000-crore-500mw-ai-data-centre/",
   "The420 Cyber News India:https://the420.in/karnataka-elevenlabs-ai-voice-restoration-deepfake-safety/",
   "The420 Cyber News India:https://the420.in/micron-netlist-600-million-ai-memory-hbm-patent-settlement/",
-  "The420 Cyber News India:https://the420.in/patna-shridhar-pathak-4-crore-investment-fraud-arrest/"
+  "The420 Cyber News India:https://the420.in/patna-shridhar-pathak-4-crore-investment-fraud-arrest/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
+  "Dark Reading:https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures"
 ]
