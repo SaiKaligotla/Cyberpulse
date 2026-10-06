@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/openai-blocks-15000-requests/",
-  "The Register Security:https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721",
-  "The Hacker News:https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-  "Cloudflare Security:https://blog.cloudflare.com/threat-signals/",
-  "Cloudflare Security:https://blog.cloudflare.com/application-profiles/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743",
   "SecurityWeek:https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
   "The420 Cyber News India:https://the420.in/mes-drdo-fake-attendance-fraud-cbi-dehradun-officers-case/",
   "The420 Cyber News India:https://the420.in/pancard-clubs-ed-properties-money-laundering-investors-attachment-case/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/jayanagar-voter-deletion-form7-bengaluru-bla-fir-case/",
   "SecurityWeek:https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
   "The Register Security:https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206"
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-exposed-industrial-controllers/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/dell-system-update-tool-vulnerability/",
+  "GBHackers InfoSec:https://gbhackers.com/ransomware-affiliate-operations/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-agents-editing-wikis/",
+  "The420 Cyber News India:https://the420.in/chhattisgarh-coal-levy-eow-chargesheet-12-accused-case/",
+  "GBHackers InfoSec:https://gbhackers.com/shelbyloader-v2-malware/"
 ]
