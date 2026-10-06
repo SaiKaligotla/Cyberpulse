@@ -1,10 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/sophos-ciso-advantage/",
-  "The Hacker News:https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-  "The Hacker News:https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/pentagon-dmdc-data-breach-3-million-people/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33378",
-  "Krebs on Security:https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440",
   "Dark Reading:https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/cybersecurity-jobs-available-right-now-october-6-2026/",
   "GBHackers InfoSec:https://gbhackers.com/researcher-infiltrates-chinese-crime-syndicate-laundering-crypto/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/product-showcase-webroot-mobile-security/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-254-01"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-254-01",
+  "GBHackers InfoSec:https://gbhackers.com/clingstun-malware/",
+  "The420 Cyber News India:https://the420.in/mainpuri-false-promise-marriage-case/",
+  "The420 Cyber News India:https://the420.in/facebook-honey-trap-38-lakh-fraud/",
+  "GBHackers InfoSec:https://gbhackers.com/weekly-cybersecurity-newsletter-september-28-october-2-2026/",
+  "The Hacker News:https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/reflections-beam-trails-top-open-models-on-coding-tests-but-claims-lower-inference-compute/"
 ]
