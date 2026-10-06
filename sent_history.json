@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/securing-the-keys-to-the-kingdom-announcing-executive-threat-detection/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33368",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/tren-de-aragua-atm-jackpotting/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/02/intel-471-insider-threat-recruitment-report/",
-  "Security Affairs:https://securityaffairs.com/200187/ai/inside-gemini-4-argon-the-model-google-is-testing-on-its-own-infrastructure-first.html",
   "The Hacker News:https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
   "The Register Security:https://www.theregister.com/security/2026/09/29/former-x-force-hackers-chase-the-offensive-cyber-gold-rush/5299662",
   "GBHackers InfoSec:https://gbhackers.com/best-iam-compared/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/github-reviewbench-ai-code-review-benchmark/",
   "The Register Security:https://www.theregister.com/security/2026/10/06/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/denmark-central-population-register-cpr-data-breach/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/denmark-central-population-register-cpr-data-breach/",
+  "GBHackers InfoSec:https://gbhackers.com/ibm-patches-multiple-langflow-oss-flaws/",
+  "GBHackers InfoSec:https://gbhackers.com/best-aaas-compared/",
+  "GBHackers InfoSec:https://gbhackers.com/best-cloud-directory-compared/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/transcend-rails-brings-policy-enforcement-and-spending-controls-to-ai-agents/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/hack-the-box-ai-range-enterprise-edition/",
+  "The Hacker News:https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html"
 ]
