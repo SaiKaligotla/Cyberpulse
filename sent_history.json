@@ -1,6 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03",
-  "GBHackers InfoSec:https://gbhackers.com/tiktouk-wordpress-toolkit/",
   "The Hacker News:https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
   "Dark Reading:https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
   "The420 Cyber News India:https://the420.in/ed-arrests-two-734-crore-fake-gst-itc-fraud/",
@@ -498,5 +496,7 @@
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
-  "Dark Reading:https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures"
+  "Dark Reading:https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+  "The420 Cyber News India:https://the420.in/fbi-accenture-contractor-missed-oracle-peoplesoft-patch-shinyhunters-breach/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response"
 ]
