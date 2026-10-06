@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33382",
-  "The420 Cyber News India:https://the420.in/fodder-scam-dipesh-chandak-jharkhand-government-seized-money-court/",
-  "The420 Cyber News India:https://the420.in/noida-canada-work-visa-fraud-three-arrested-victims/",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
-  "Security Affairs:https://securityaffairs.com/200234/ai/ai-agents-attempt-sql-injection-while-searching-government-data.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
   "Cloudflare Security:https://blog.cloudflare.com/cloudflare-certificate-authority/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/red-hat-satellite-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/multiple-cpanel-whm-vulnerabilities/",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-05",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-06",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+  "GBHackers InfoSec:https://gbhackers.com/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/anaconda-platform/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/intellias-agentic-serviceops/",
+  "Cloudflare Security:https://blog.cloudflare.com/account-abuse-protection-dashboard/"
 ]
