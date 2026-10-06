@@ -1,8 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/exposed-wordpress-backups/",
-  "GBHackers InfoSec:https://gbhackers.com/zammad-vulnerabilities/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-poison-trusted-software-updates/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/openclaw-free-enterprise-platform/",
   "GBHackers InfoSec:https://gbhackers.com/sony-ps5-relapse-jailbreak-exploit-uses/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-turned-a-microsoft-sql-server/",
@@ -498,5 +494,9 @@
   "Cloudflare Security:https://blog.cloudflare.com/account-abuse-protection-dashboard/",
   "The420 Cyber News India:https://the420.in/ed-arrests-former-kpsc-chief-sahukar-member-geeta-recruitment-scam/",
   "The Register Security:https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
-  "Cloudflare Security:https://blog.cloudflare.com/protected-quick-tunnels/"
+  "Cloudflare Security:https://blog.cloudflare.com/protected-quick-tunnels/",
+  "Dark Reading:https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
+  "The420 Cyber News India:https://the420.in/karnataka-prison-dig-somashekar-arrested-fake-supreme-court-order/",
+  "PortSwigger Web Security Research:https://portswigger.net/research/the-model-isnt-cooperating"
 ]
