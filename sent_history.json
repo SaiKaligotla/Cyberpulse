@@ -1,8 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/ed-arrests-two-1417-crore-export-investment-fraud-case/",
-  "GBHackers InfoSec:https://gbhackers.com/fortinet-fortimail-path-traversal-flaw/",
-  "GBHackers InfoSec:https://gbhackers.com/apache-http-server-flaws/",
-  "GBHackers InfoSec:https://gbhackers.com/python-based-infostealer/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/u-s-arrests-tech-company-owner/",
   "GBHackers InfoSec:https://gbhackers.com/u-s-arrests-company-owner-accused-of-shipping/",
   "GBHackers InfoSec:https://gbhackers.com/16-year-old-suspected-killsec-ransomware-leader-arrested/",
@@ -498,5 +494,9 @@
   "The Hacker News:https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
   "The Hacker News:https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
   "Security Affairs:https://securityaffairs.com/200458/security/dell-urges-customers-to-patch-critical-dsu-flaw-that-can-give-attackers-root-access.html",
-  "Security Affairs:https://securityaffairs.com/200450/uncategorized/clingstun-linux-backdoor-abuses-public-stun-infrastructure.html"
+  "Security Affairs:https://securityaffairs.com/200450/uncategorized/clingstun-linux-backdoor-abuses-public-stun-infrastructure.html",
+  "GBHackers InfoSec:https://gbhackers.com/critical-watchguard-endpoint-security-flaw-exposes-kernel-and-process-memory/",
+  "The420 Cyber News India:https://the420.in/ai-malware-analysis-cybercrime-investigation/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-sast-tools-2/",
+  "GBHackers InfoSec:https://gbhackers.com/best-secrets-management-compared/"
 ]
