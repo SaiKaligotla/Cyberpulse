@@ -1,9 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440",
-  "Dark Reading:https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "The Register Security:https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
   "The Register Security:https://www.theregister.com/security/2026/09/25/crook-used-three-open-source-agents-to-break-into-a-fortune-500-hospitality-company-a-major-us-airline-and-25-other-orgs/5299012",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33390",
@@ -498,5 +493,10 @@
   "The420 Cyber News India:https://the420.in/facebook-honey-trap-38-lakh-fraud/",
   "GBHackers InfoSec:https://gbhackers.com/weekly-cybersecurity-newsletter-september-28-october-2-2026/",
   "The Hacker News:https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/reflections-beam-trails-top-open-models-on-coding-tests-but-claims-lower-inference-compute/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/reflections-beam-trails-top-open-models-on-coding-tests-but-claims-lower-inference-compute/",
+  "The420 Cyber News India:https://the420.in/dsci-be-cyber-street-smart-campaign/",
+  "The420 Cyber News India:https://the420.in/cpt-algoritha-daily-cyber-briefing-october-6-2026/",
+  "The420 Cyber News India:https://the420.in/jammu-samba-1-22-crore-investment-fraud-chargesheet/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/passwork-nis2-credential-security/",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/"
 ]
