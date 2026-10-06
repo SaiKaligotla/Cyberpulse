@@ -1,10 +1,4 @@
 [
-  "Cloudflare Security:https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
-  "The420 Cyber News India:https://the420.in/moradabad-cyber-fraud-108-bank-accounts-five-states/",
-  "Hackaday Security Hacks:https://hackaday.com/2026/10/02/this-week-in-security-shinyhunters-wont-dox-the-fbi-pentagon-data-stolen-and-obs-vulnerable/",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
-  "Cloudflare Security:https://blog.cloudflare.com/account-abuse-protection-dashboard/",
   "Cloudflare Security:https://blog.cloudflare.com/protected-quick-tunnels/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
@@ -498,5 +492,11 @@
   "Cyber Security News (India & Global):https://cybersecuritynews.com/iranian-hackers/",
   "GBHackers InfoSec:https://gbhackers.com/aembit-extends-access-controls-to-personal-ai-agents/",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-  "The Hacker News:https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html"
+  "The Hacker News:https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+  "The420 Cyber News India:https://the420.in/kanpur-thai-woman-marriage-fraud-irfan-60-lakh/",
+  "The Register Security:https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
+  "The Register Security:https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332",
+  "The Register Security:https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307",
+  "SecurityWeek:https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33402"
 ]
