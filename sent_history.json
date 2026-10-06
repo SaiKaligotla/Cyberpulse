@@ -1,7 +1,4 @@
 [
-  "Cloudflare Security:https://blog.cloudflare.com/cloudflare-certificate-authority/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/red-hat-satellite-vulnerability/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/multiple-cpanel-whm-vulnerabilities/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/exposed-wordpress-backups/",
   "GBHackers InfoSec:https://gbhackers.com/zammad-vulnerabilities/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-poison-trusted-software-updates/",
@@ -498,5 +495,8 @@
   "GBHackers InfoSec:https://gbhackers.com/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/anaconda-platform/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/intellias-agentic-serviceops/",
-  "Cloudflare Security:https://blog.cloudflare.com/account-abuse-protection-dashboard/"
+  "Cloudflare Security:https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+  "The420 Cyber News India:https://the420.in/ed-arrests-former-kpsc-chief-sahukar-member-geeta-recruitment-scam/",
+  "The Register Security:https://www.theregister.com/security/2026/10/02/californian-accused-of-shipping-300m-worth-of-nvidia-chips-to-china-without-uncle-sams-approval/5300856",
+  "Cloudflare Security:https://blog.cloudflare.com/protected-quick-tunnels/"
 ]
