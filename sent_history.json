@@ -1,9 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
-  "SecurityWeek:https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-254-01",
-  "The420 Cyber News India:https://the420.in/samantha-ruth-prabhu-deepfake-ai-personality-rights-bombay-high-court/",
-  "The420 Cyber News India:https://the420.in/fssai-suspends-tcf-chocolates-shivam-agro-food-safety-violations/",
   "The Hacker News:https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/01/radarfirst-ai-incident-management/",
@@ -498,5 +493,10 @@
   "The Register Security:https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-to-they-found-kvm-guest-host-escape-flaw/5301267",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/trump-mobile-data-breach/",
   "The420 Cyber News India:https://the420.in/engineered-brain-freeze-cyber-fraud-scams/",
-  "The Register Security:https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267"
+  "The Register Security:https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
+  "The420 Cyber News India:https://the420.in/digital-fraud-mobile-app-security-threats/",
+  "The Register Security:https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284",
+  "The420 Cyber News India:https://the420.in/prayagraj-digital-arrest-gang-busted-64-lakh-recovered/",
+  "The420 Cyber News India:https://the420.in/sbi-ordered-refund-5-lakh-cyber-fraud-nagpur-consumer-commission/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/cybersecurity-jobs-available-right-now-october-6-2026/"
 ]
