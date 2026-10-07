@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-  "The420 Cyber News India:https://the420.in/churu-cyber-fraud-bank-accounts-subsidy-mule-network/",
-  "The420 Cyber News India:https://the420.in/hanjer-biotech-pnb-bank-fraud-cbi-loan-diversion-case/",
-  "The420 Cyber News India:https://the420.in/bhubaneswar-fake-engineer-identity-60-lakh-fraud-arrests-case/",
-  "The420 Cyber News India:https://the420.in/assam-gst-fraud-data-analytics-fake-itc-monitoring-system/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33392",
   "The Hacker News:https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
   "Security Affairs:https://securityaffairs.com/200293/malware/fake-zoom-installer-hides-macos-backdoor-cloudsyncd.html",
   "The Hacker News:https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/openssh-10-6-fixes-security-flaws/",
   "GBHackers InfoSec:https://gbhackers.com/elastic-patches-14-security-flaws/",
   "GBHackers InfoSec:https://gbhackers.com/critical-veeam-backup-replication-flaw/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-sandbox-escape-vulnerability/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-sandbox-escape-vulnerability/",
+  "GBHackers InfoSec:https://gbhackers.com/erp-web-shell-breach/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/07/sonicwall-fixes-pre-auth-ssrf-flaw-in-sma-1000-appliances-cve-2026-102255/",
+  "The420 Cyber News India:https://the420.in/ahmedabad-block-aura-tbac-coin-crypto-investment-fraud-case/",
+  "The420 Cyber News India:https://the420.in/telangana-cyber-bureau-interstate-fraud-arrests/",
+  "GBHackers InfoSec:https://gbhackers.com/lunexstealer-gives-hackers-remote-control-of-browsers-through-malicious-chrome-extension/",
+  "The Register Security:https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585"
 ]
