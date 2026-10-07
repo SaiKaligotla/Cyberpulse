@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
-  "The420 Cyber News India:https://the420.in/faridabad-ashutosh-dubey-source-code-client-data-bail-case/",
-  "The420 Cyber News India:https://the420.in/kanpur-maswanpur-government-land-ashok-mishra-ashutosh-pradhan-probe/",
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-  "The Register Security:https://www.theregister.com/security/2026/09/30/more-than-half-of-uk-businesses-lack-confidence-in-basic-cyber-skills/5299991",
   "The Hacker News:https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
   "The420 Cyber News India:https://the420.in/churu-cyber-fraud-bank-accounts-subsidy-mule-network/",
   "The420 Cyber News India:https://the420.in/hanjer-biotech-pnb-bank-fraud-cbi-loan-diversion-case/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/07/windows-app-remote-pc-access/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/cybersecurity-awareness-month-2026/",
   "GBHackers InfoSec:https://gbhackers.com/best-machine-identity-compared/",
-  "The Hacker News:https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
+  "The Hacker News:https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/anthropic-mythos-ai-finds-rejetto-hfs-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/progress-datadirect-genai-flaw/",
+  "GBHackers InfoSec:https://gbhackers.com/openssh-10-6-fixes-security-flaws/",
+  "GBHackers InfoSec:https://gbhackers.com/elastic-patches-14-security-flaws/",
+  "GBHackers InfoSec:https://gbhackers.com/critical-veeam-backup-replication-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-sandbox-escape-vulnerability/"
 ]
