@@ -1,7 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "The Register Security:https://www.theregister.com/security/2026/10/02/openai-alerts-100-orgs-that-its-misaligned-models-attempted-to-break-in-or-worse/5300891",
-  "The Register Security:https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33384",
   "The Register Security:https://www.theregister.com/security/2026/09/29/fbi-to-shinyhunters-we-know-how-to-find-you/5299901",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/dover-airmen-cyber-fraud-scheme/",
   "The Hacker News:https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
   "The Hacker News:https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-  "The Hacker News:https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
+  "The Hacker News:https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/ey-data-breach-exposed/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/07/software-security-vulnerability-management-survey/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/07/ot-network-visibility-challenges/"
 ]
