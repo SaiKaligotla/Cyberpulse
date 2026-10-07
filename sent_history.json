@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/09/30/16-year-old-researcher-found-a-microsoft-bug-got-admin-access-to-databases-with-173-trillion-rows/5300240",
-  "The Hacker News:https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33374",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33396",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/citrix-netscaler-saml-0-day-vulnerability/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/cybersecurity-newsletter-weekly-october-2/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33398",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/09/30/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/advantest-ransomware-data-breach-personal-information-stolen/",
   "The420 Cyber News India:https://the420.in/biohub-1-8-billion-ai-biology-google-meta-us-government/",
   "The420 Cyber News India:https://the420.in/amd-samsung-foundry-partnership-lisa-su-ai-chips/",
-  "The420 Cyber News India:https://the420.in/south-korea-megachurch-ai-cyberattack-data-breach/"
+  "The420 Cyber News India:https://the420.in/south-korea-megachurch-ai-cyberattack-data-breach/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/alert-overload-tool-sprawl-and-evasive-phishing-the-5-bottlenecks-slowing-down-us-socs/",
+  "The Hacker News:https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+  "The420 Cyber News India:https://the420.in/core-stack-green-arrow-italy-1-billion-data-centre-project/",
+  "The420 Cyber News India:https://the420.in/rbi-sanjay-malhotra-upi-mdr-volumes-october-15/",
+  "The420 Cyber News India:https://the420.in/faridabad-adani-gas-apk-fraud-deepak-mandal-arrest/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/discord-users-data-exposed/"
 ]
