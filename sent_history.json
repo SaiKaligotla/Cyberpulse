@@ -1,8 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/telangana-cyber-fraud-warning/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350",
-  "The420 Cyber News India:https://the420.in/ai-powered-soc-police-cybersecurity/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33386",
   "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-5-october-2026/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/05/remote-monitoring-and-management-rmm-abuse/",
   "SecurityWeek:https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
@@ -498,5 +494,9 @@
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33398",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33396"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33396",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+  "The Register Security:https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord"
 ]
