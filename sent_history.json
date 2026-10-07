@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-  "Security Affairs:https://securityaffairs.com/200293/malware/fake-zoom-installer-hides-macos-backdoor-cloudsyncd.html",
-  "The Hacker News:https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/microsoft-reissues-exchange-server-update/",
-  "The420 Cyber News India:https://the420.in/reliance-communications-lic-cbi-chargesheet-rcom-fraud-investment-case/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/shinyhunters-hacker-helping-fbi/",
   "The420 Cyber News India:https://the420.in/noida-supernova-airbnb-short-term-rentals-security-guest-death/",
   "The420 Cyber News India:https://the420.in/delhi-high-court-digital-arrest-mule-account-money-trail/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/ahmedabad-block-aura-tbac-coin-crypto-investment-fraud-case/",
   "The420 Cyber News India:https://the420.in/telangana-cyber-bureau-interstate-fraud-arrests/",
   "GBHackers InfoSec:https://gbhackers.com/lunexstealer-gives-hackers-remote-control-of-browsers-through-malicious-chrome-extension/",
-  "The Register Security:https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585"
+  "The Register Security:https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
+  "Security Affairs:https://securityaffairs.com/200521/ai/anthropic-creates-three-tiers-for-claude-cyber-access.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/07/anthropic-expands-cyber-verification-program/",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
+  "SecurityWeek:https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
+  "SecurityWeek:https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
+  "SecurityWeek:https://www.securityweek.com/asos-confirms-cyberattack-data-breach/"
 ]
