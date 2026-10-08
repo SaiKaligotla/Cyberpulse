@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-06",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-03",
-  "Dark Reading:https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-04",
-  "The Hacker News:https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
   "Microsoft Security Blog:https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
   "The420 Cyber News India:https://the420.in/ram-mandir-offering-theft-charge-sheet-ayodhya-court-hearing/",
   "The420 Cyber News India:https://the420.in/moradabad-fake-passport-racket-forged-documents-telegram-arrests/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/fake-firefox-wallet-extensions/"
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fake-firefox-wallet-extensions/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hikvision-camera-vulnerability-2/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/tensorlake-npm-package/",
+  "The Register Security:https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232",
+  "The Hacker News:https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+  "The Hacker News:https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+  "Security Affairs:https://securityaffairs.com/200621/cyber-crime/monstercloud-owner-charged-with-secretly-paying-ransomware-demands.html"
 ]
