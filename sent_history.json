@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178",
-  "Security Affairs:https://securityaffairs.com/200444/ai/anthropic-mythos-found-a-bug-in-rejetto-hfs-attackers-are-now-exploiting-it.html",
-  "The Hacker News:https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-  "The420 Cyber News India:https://the420.in/sanchar-saathi-30-crore-visits-5000-crore-cyber-fraud-prevented/",
-  "The420 Cyber News India:https://the420.in/meta-tiktok-x-ofcom-online-safety-data-demands-uk-court/",
-  "The420 Cyber News India:https://the420.in/ai-existential-risk-superintelligence-human-extinction-debate/",
   "The420 Cyber News India:https://the420.in/giorgia-meloni-eu-voice-trademark-ai-deepfake/",
   "The420 Cyber News India:https://the420.in/cftc-federal-crypto-rules-leveraged-trading-us/",
   "The420 Cyber News India:https://the420.in/denmark-cpr-data-breach-8-8-million-personal-records/",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124",
   "The Hacker News:https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
   "The Hacker News:https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/poc-released-for-zammad-session-leak-flaw/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-use-web3/",
+  "SecurityWeek:https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
+  "The420 Cyber News India:https://the420.in/noida-sbi-loan-fraud-fake-salary-documents-case/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-selling-virustotal-api-keys/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fbi-dismantles-ghana-scam-center/"
 ]
