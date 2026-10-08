@@ -1,10 +1,4 @@
 [
-  "PortSwigger Web Security Research:https://portswigger.net/research/smashing-the-token-limit",
-  "Dark Reading:https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-  "Security Affairs:https://securityaffairs.com/200437/data-breach/denmark-s-population-registry-breached-8-8-million-affected.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/05/milk-dragon-phishing-fake-discounts/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/05/stellar-cyber-7-0/",
-  "The420 Cyber News India:https://the420.in/everest-cumin-powder-fssai-recall-pesticides/",
   "The420 Cyber News India:https://the420.in/cbi-arrests-dgca-official-bribery-case/",
   "The Register Security:https://www.theregister.com/security/2026/10/01/mi5-warns-uk-academics-their-research-may-have-helped-chinese-spies/5300502",
   "The Hacker News:https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
   "The Register Security:https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914",
-  "SecurityWeek:https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/"
+  "SecurityWeek:https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/citrix-netscaler-flaw/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/08/nudeleaksteens-seized-fbi-france/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/ghostaction-supply-chain-campaign/",
+  "SecurityWeek:https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
+  "The Hacker News:https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+  "Cloudflare Security:https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/"
 ]
