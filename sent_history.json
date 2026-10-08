@@ -1,10 +1,4 @@
 [
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
-  "Microsoft Security Blog:https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
-  "The Register Security:https://www.theregister.com/security/2026/10/01/eus-hodgepodge-tech-policy-exposes-members-to-chinese-vendor-risks-says-think-tank/5300599",
-  "The Register Security:https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595",
-  "The Register Security:https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-to-they-found-kvm-guest-host-escape-flaw/5301267",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/trump-mobile-data-breach/",
   "The420 Cyber News India:https://the420.in/engineered-brain-freeze-cyber-fraud-scams/",
   "The Register Security:https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232",
   "The Hacker News:https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
   "The Hacker News:https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-  "Security Affairs:https://securityaffairs.com/200621/cyber-crime/monstercloud-owner-charged-with-secretly-paying-ransomware-demands.html"
+  "Security Affairs:https://securityaffairs.com/200621/cyber-crime/monstercloud-owner-charged-with-secretly-paying-ransomware-demands.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-03",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02",
+  "Dark Reading:https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
+  "The Hacker News:https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+  "The Hacker News:https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html"
 ]
