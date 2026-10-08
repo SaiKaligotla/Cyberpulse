@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
-  "The Hacker News:https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-  "The Hacker News:https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/ann-barron-dicamillo-collective-cyber-defense/",
-  "The420 Cyber News India:https://the420.in/firozabad-radiologist-arrested-200-crore-fraud-telangana/",
-  "The420 Cyber News India:https://the420.in/wall-street-investment-indian-hospitals-sparks-cost-clash-2026/",
   "The420 Cyber News India:https://the420.in/sbi-transaction-alert-refund/",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33390",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
   "Security Affairs:https://securityaffairs.com/200634/cyber-crime/hunt-io-finds-new-brazetsu-infrastructure-months-before-disclosure.html",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/making-sure-the-checks-get-printed/"
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
+  "The Hacker News:https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+  "The Hacker News:https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+  "The Register Security:https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
+  "The Register Security:https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178"
 ]
