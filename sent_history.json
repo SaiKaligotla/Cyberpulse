@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/openai-rogue-agents-wikimedia-wikipedia/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/new-relic-ground-truth-cli/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/ransomware-hacker/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/appviewx-adds-shadow-ai-visibility-and-a-runtime-kill-switch-to-agent-identity-security/",
-  "GBHackers InfoSec:https://gbhackers.com/appviewx-adds-shadow-ai-visibility-and-a-runtime-kill-switch-to-agent-identity-security/",
   "Security Affairs:https://securityaffairs.com/200476/security/cve-2026-96940-microsoft-fixes-high-severity-exchange-server-flaw.html",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/sailpoint-agentic-fabric-innovation/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/09/fbi-flax-typhoon-microscan-fishhub-domains/",
   "GBHackers InfoSec:https://gbhackers.com/best-supply-chain-security-compared/",
-  "GBHackers InfoSec:https://gbhackers.com/best-api-security-compared/"
+  "GBHackers InfoSec:https://gbhackers.com/best-api-security-compared/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/matchboil-malware/",
+  "SecurityWeek:https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
+  "Security Affairs:https://securityaffairs.com/200670/security/cve-2026-107406-citrix-fixes-critical-netscaler-adc-and-gateway-vulnerability.html",
+  "Security Affairs:https://securityaffairs.com/200661/hacking/ai-driven-tool-artex-used-in-attacks-against-south-korean-banks.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/09/anthropic-oss-scanner-ai-security-scans/",
+  "The Hacker News:https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html"
 ]
