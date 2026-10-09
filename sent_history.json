@@ -1,6 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/mfa-fatigue-exploited/",
-  "SecurityWeek:https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
   "The420 Cyber News India:https://the420.in/delhi-high-court-cbi-officials-criminal-complaint/",
   "SecurityWeek:https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
   "The420 Cyber News India:https://the420.in/assam-cid-canara-bank-vehicle-loan-fraud/",
@@ -498,5 +496,7 @@
   "Security Affairs:https://securityaffairs.com/200695/uncategorized/germany-arrests-suspected-qilin-ransomware-leader-after-japan-detention.html",
   "The Register Security:https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
   "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-  "The Hacker News:https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
+  "The Hacker News:https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+  "SecurityWeek:https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas"
 ]
