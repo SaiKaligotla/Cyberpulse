@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/micron-netlist-600-million-ai-memory-hbm-patent-settlement/",
-  "The420 Cyber News India:https://the420.in/patna-shridhar-pathak-4-crore-investment-fraud-arrest/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
-  "Dark Reading:https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
   "The420 Cyber News India:https://the420.in/fbi-accenture-contractor-missed-oracle-peoplesoft-patch-shinyhunters-breach/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
   "The Hacker News:https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
@@ -498,5 +492,11 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
   "PortSwigger Web Security Research:https://portswigger.net/research/the-model-isnt-cooperating",
   "The Register Security:https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433",
-  "The Register Security:https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307"
+  "The Register Security:https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+  "The420 Cyber News India:https://the420.in/ai-cybersecurity-enterprise-technology-delhi-october-16/",
+  "The420 Cyber News India:https://the420.in/hapur-demonetised-currency-racket-lucknow-ghaziabad-1-44-crore/",
+  "The Hacker News:https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+  "Security Affairs:https://securityaffairs.com/200685/ai/claude-helps-secure-open-source-as-anthropic-offers-free-vulnerability-scanning.html",
+  "The Hacker News:https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html"
 ]
