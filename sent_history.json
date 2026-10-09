@@ -1,6 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/07/hcl-software-ai-endpoint-management/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
   "The420 Cyber News India:https://the420.in/rbi-raises-fy27-gdp-growth-forecast-to-7-1-percent/",
   "GBHackers InfoSec:https://gbhackers.com/mfa-fatigue-exploited/",
@@ -498,5 +496,7 @@
   "The420 Cyber News India:https://the420.in/rajasthan-gurgaon-22-lakh-overseas-job-fraud-arrest/",
   "The420 Cyber News India:https://the420.in/surat-27-lakh-share-trading-fraud-mule-account-8-93-crore/",
   "The420 Cyber News India:https://the420.in/udupi-fake-stock-trading-scam-14-lakh-ipo-fraud/",
-  "The Hacker News:https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html"
+  "The Hacker News:https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+  "Security Affairs:https://securityaffairs.com/200695/uncategorized/germany-arrests-suspected-qilin-ransomware-leader-after-japan-detention.html",
+  "The Register Security:https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436"
 ]
