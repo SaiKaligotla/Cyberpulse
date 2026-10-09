@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-06",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
-  "GBHackers InfoSec:https://gbhackers.com/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/anaconda-platform/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/06/intellias-agentic-serviceops/",
   "Cloudflare Security:https://blog.cloudflare.com/account-abuse-protection-dashboard/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/nia-madhubani-smuggling-network-hira-mahaseth-250-crore-assets/",
   "SecurityWeek:https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
   "The Register Security:https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
-  "The Hacker News:https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html"
+  "The Hacker News:https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+  "The420 Cyber News India:https://the420.in/bihar-eou-executive-engineer-disproportionate-assets-cash-raid-case/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-01",
+  "The Hacker News:https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+  "The420 Cyber News India:https://the420.in/allahabad-high-court-satyam-verma-nsa-andolanjeevi/",
+  "The420 Cyber News India:https://the420.in/dr-trinath-mishra-ips-tribute-prof-triveni-singh/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-05"
 ]
