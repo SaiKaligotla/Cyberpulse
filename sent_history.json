@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307",
-  "SecurityWeek:https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33402",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/github-copilot-cli-vulnerability/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/former-infrastructure-engineer-sentenced/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/how-soc-and-mssp-leaders-can-build-intelligence-led-threat-monitoring/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/asos-hacked/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
   "Hackaday Security Hacks:https://hackaday.com/2026/10/02/this-week-in-security-shinyhunters-wont-dox-the-fbi-pentagon-data-stolen-and-obs-vulnerable/",
@@ -498,5 +492,11 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33412",
   "The Hacker News:https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33400"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33400",
+  "GBHackers InfoSec:https://gbhackers.com/castlestealer-malware/",
+  "The Register Security:https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212",
+  "The420 Cyber News India:https://the420.in/saharanpur-fake-vermicompost-apple-tonic-fertiliser-raid-seizure/",
+  "The Hacker News:https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
+  "SecurityWeek:https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/"
 ]
