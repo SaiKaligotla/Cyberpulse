@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/aembit-extends-access-controls-to-personal-ai-agents/",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-  "The Hacker News:https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-  "The420 Cyber News India:https://the420.in/kanpur-thai-woman-marriage-fraud-irfan-60-lakh/",
-  "The Register Security:https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
-  "The Register Security:https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332",
   "The Register Security:https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307",
   "SecurityWeek:https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33402",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
   "The Hacker News:https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
   "The Hacker News:https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-  "GBHackers InfoSec:https://gbhackers.com/fbi-disrupts-major-scam-centers-in-ghana/"
+  "GBHackers InfoSec:https://gbhackers.com/fbi-disrupts-major-scam-centers-in-ghana/",
+  "SecurityWeek:https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
+  "Security Affairs:https://securityaffairs.com/200673/security/us-disrupts-china-linked-integrity-tech-cyber-espionage-tools.html",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33412",
+  "The Hacker News:https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33400"
 ]
