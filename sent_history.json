@@ -1,7 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-sast-tools-2/",
-  "GBHackers InfoSec:https://gbhackers.com/best-secrets-management-compared/",
-  "SecurityWeek:https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/clingstun-backdoor/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/fbi-removes-accenture-contractor/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/atlassian-patches-critical-vulnerabilities/",
@@ -498,5 +495,8 @@
   "Dark Reading:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
   "The Hacker News:https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
   "The Register Security:https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/"
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/fbi-seized-chinese-hacking-tools/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-rce/",
+  "The420 Cyber News India:https://the420.in/mobile-forensics-digital-evidence-recovery-police-investigation/"
 ]
