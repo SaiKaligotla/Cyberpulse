@@ -1,10 +1,4 @@
 [
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/asos-hacked/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
-  "Hackaday Security Hacks:https://hackaday.com/2026/10/02/this-week-in-security-shinyhunters-wont-dox-the-fbi-pentagon-data-stolen-and-obs-vulnerable/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/apache-struts-vulnerabilities/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-05",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-04",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-02",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/saharanpur-fake-vermicompost-apple-tonic-fertiliser-raid-seizure/",
   "The Hacker News:https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-  "SecurityWeek:https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/"
+  "SecurityWeek:https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
+  "GBHackers InfoSec:https://gbhackers.com/react-server-components-vulnerability/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/09/nvidia-dcgm-exporter-vulnerability-cve-2026-47483/",
+  "The420 Cyber News India:https://the420.in/nia-madhubani-smuggling-network-hira-mahaseth-250-crore-assets/",
+  "SecurityWeek:https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+  "The Register Security:https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
+  "The Hacker News:https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html"
 ]
