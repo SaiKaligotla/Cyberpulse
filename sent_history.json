@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
-  "The Register Security:https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/hackers-exploit-exposed-industrial-controllers/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/dell-system-update-tool-vulnerability/",
-  "GBHackers InfoSec:https://gbhackers.com/ransomware-affiliate-operations/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/openai-agents-editing-wikis/",
   "The420 Cyber News India:https://the420.in/chhattisgarh-coal-levy-eow-chargesheet-12-accused-case/",
   "GBHackers InfoSec:https://gbhackers.com/shelbyloader-v2-malware/",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/warden-stealer-malware/",
   "Cyber Security News (India & Global):https://cybersecuritynews.com/best-bug-bounty-platforms/",
   "GBHackers InfoSec:https://gbhackers.com/hackers-target-hikvision-cameras-in-ukraine/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/09/product-showcase-simplelogin/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/09/product-showcase-simplelogin/",
+  "The420 Cyber News India:https://the420.in/meta-bans-tiktok-bytedance-ads-facebook-instagram-seven-countries/",
+  "The420 Cyber News India:https://the420.in/microsoft-h1b-visa-allegations-perm-suspension/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-container-image-scanning-tools/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/lets-encrypt-tls-certificate-lifetime-64-days/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/best-iac-security-tools/",
+  "Cyber Security News (India & Global):https://cybersecuritynews.com/post-quantum-authentication/"
 ]
