@@ -1,6 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33396",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
   "The Hacker News:https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
   "The Register Security:https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
   "Dark Reading:https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
@@ -498,5 +496,7 @@
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/07/aws-launches-open-source-ai-agent-sandbox-to-prevent-yolo-mode-disasters/5301687",
   "The Hacker News:https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/12/lets-encrypt-64-day-certificate-lifetime/",
-  "The Register Security:https://www.theregister.com/security/2026/10/07/us-states-sue-popular-kitmaker-tp-link-over-china-risks/5301653"
+  "The Register Security:https://www.theregister.com/security/2026/10/07/us-states-sue-popular-kitmaker-tp-link-over-china-risks/5301653",
+  "The Hacker News:https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+  "SecurityWeek:https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/"
 ]
