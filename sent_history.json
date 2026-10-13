@@ -1,6 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-  "The Hacker News:https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
   "The420 Cyber News India:https://the420.in/rdi-fund-panel-conflict-of-interest/",
   "The Register Security:https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33410",
@@ -498,5 +496,7 @@
   "The Hacker News:https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02"
 ]
