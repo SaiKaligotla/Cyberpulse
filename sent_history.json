@@ -1,10 +1,4 @@
 [
-  "GBHackers InfoSec:https://gbhackers.com/u-s-offers-10-million-reward-for-chinese-hacker-behind-alleged/",
-  "The Hacker News:https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/08/cheapskates-wouldnt-pay-for-security-help-got-hit-by-ransomware-and-went-bust-months-later/5301757",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
-  "GBHackers InfoSec:https://gbhackers.com/poc-exploit-released-for-critical-vmware-vulnerability/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/",
   "GBHackers InfoSec:https://gbhackers.com/critical-cisco-nexus-switch-vulnerabilities/",
   "SecurityWeek:https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
   "The420 Cyber News India:https://the420.in/kanhaiya-gulati-canviz-fraud-bareilly-100th-fir/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/rbi-forex-rules-rupee-hedging-restrictions/",
   "The420 Cyber News India:https://the420.in/china-chemistry-professor-drug-racket-arrests/",
   "Security Affairs:https://securityaffairs.com/200863/hacking/hackers-cranked-french-supermarkets-freezers-up-to-50-degrees-causing-hundreds-of-stores-to-lose-their-stock.html",
-  "SecurityWeek:https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/"
+  "SecurityWeek:https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
+  "The Hacker News:https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/13/gitlab-ci-cd-regular-expression-compiler-vulnerability-cve-2026-97229/",
+  "The Hacker News:https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/13/slugfest-npm-trusted-publishing-flaw/",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/uat-11985/",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html"
 ]
