@@ -1,7 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33410",
-  "The Register Security:https://www.theregister.com/security/2026/10/08/sponsored-fighting-genai-with-genai-the-new-email-security-landscape/5301063",
   "SecurityWeek:https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
   "The420 Cyber News India:https://the420.in/cisco-critical-vulnerabilities-nxos-meraki-apic-october-2026/",
@@ -498,5 +495,8 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02",
-  "The Hacker News:https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+  "The Hacker News:https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+  "SecurityWeek:https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+  "SecurityWeek:https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+  "SecurityWeek:https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/"
 ]
