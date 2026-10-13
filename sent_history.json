@@ -1,7 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/200621/cyber-crime/monstercloud-owner-charged-with-secretly-paying-ransomware-demands.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02",
   "Dark Reading:https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
   "The Hacker News:https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
@@ -498,5 +495,8 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33422",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
-  "Dark Reading:https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms"
+  "Dark Reading:https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
+  "The Hacker News:https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel"
 ]
