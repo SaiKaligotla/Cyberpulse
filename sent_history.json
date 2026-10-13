@@ -1,8 +1,4 @@
 [
-  "Cloudflare Security:https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
-  "GBHackers InfoSec:https://gbhackers.com/poc-exploit-released-for-zammad-vulnerability/",
-  "GBHackers InfoSec:https://gbhackers.com/critical-lmcache-rce-vulnerability/",
-  "PortSwigger Web Security Research:https://portswigger.net/research/smashing-the-token-limit",
   "SecurityWeek:https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
   "Security Affairs:https://securityaffairs.com/200608/intelligence/u-s-offers-10-million-reward-for-alleged-hafnium-hacker-zhang-yu.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/08/scams-targeting-youtube-creators-sponsorship/",
@@ -498,5 +494,9 @@
   "The420 Cyber News India:https://the420.in/top-court-orders-inquiry-against-3-ips-officers-as-mau-minor-remains-untraced/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/13/lattice-sentry-5-0-solution-stack/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/13/ninjaone-katana-ai-mcp/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/13/ukraine-drone-strikes-yandex-data-centers/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/13/ukraine-drone-strikes-yandex-data-centers/",
+  "The420 Cyber News India:https://the420.in/tvs-family-property-dispute-venu-srinivasan/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/13/trellix-wise-for-private-cloud-delivers-auditable-ai-investigations-for-security-teams/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+  "The Register Security:https://www.theregister.com/security/2026/10/08/uk-and-germany-team-up-against-russian-cyberattacks-as-brexit-rethink-looms/5301914"
 ]
