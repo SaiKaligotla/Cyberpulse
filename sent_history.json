@@ -1,5 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
   "Security Affairs:https://securityaffairs.com/200621/cyber-crime/monstercloud-owner-charged-with-secretly-paying-ransomware-demands.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-03",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01",
@@ -498,5 +497,6 @@
   "The Hacker News:https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33422",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/"
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
+  "Dark Reading:https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms"
 ]
