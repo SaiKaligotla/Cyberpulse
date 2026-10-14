@@ -1,10 +1,4 @@
 [
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
-  "The Hacker News:https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-  "The Hacker News:https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-  "The Register Security:https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
   "The Register Security:https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
   "The Register Security:https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/germany-robot-teenage-girl-harassment-investigation/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/14/ciso-ai-agent-insider-risk/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/14/ciso-ai-agent-insider-risk/",
+  "The420 Cyber News India:https://the420.in/fssai-quick-commerce-food-safety-rules-expiry-dates/",
+  "The420 Cyber News India:https://the420.in/jpmorgan-ai-agents-banking-security/",
+  "The420 Cyber News India:https://the420.in/hyderabad-5-crore-cyber-fraud-digital-arrest-whatsapp-trading-scam/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/14/meshery-open-source-cloud-native-manager-kubernetes/",
+  "The Register Security:https://www.theregister.com/security/2026/10/08/high-severity-nvidia-bug-could-crash-gpu-monitoring-on-exposed-servers/5302077",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift"
 ]
