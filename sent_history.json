@@ -1,9 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/give-yourself-room-to-be-human/",
-  "The420 Cyber News India:https://the420.in/cisco-critical-vulnerabilities-nxos-meraki-apic-october-2026/",
-  "The420 Cyber News India:https://the420.in/manus-500-million-funding-meta-china-blocked-acquisition/",
-  "The Hacker News:https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
   "The420 Cyber News India:https://the420.in/us-suspends-it-firms-green-card-perm-program/",
   "The420 Cyber News India:https://the420.in/google-gemini-work-agent-enterprise-ai-launch/",
   "The420 Cyber News India:https://the420.in/deloitte-6-million-fine-go-ahead-audit-failures-public-money/",
@@ -498,5 +493,10 @@
   "The Hacker News:https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
   "SecurityWeek:https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
   "SecurityWeek:https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
-  "SecurityWeek:https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/"
+  "SecurityWeek:https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
+  "Krebs on Security:https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
+  "The Register Security:https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33410",
+  "The Register Security:https://www.theregister.com/security/2026/10/08/sponsored-fighting-genai-with-genai-the-new-email-security-landscape/5301063"
 ]
