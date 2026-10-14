@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-  "SecurityWeek:https://www.securityweek.com/google-domains-impacted-by-recent-cctld-domain-hijacks/",
-  "GBHackers InfoSec:https://gbhackers.com/react-server-components-vulnerability/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/09/nvidia-dcgm-exporter-vulnerability-cve-2026-47483/",
-  "The420 Cyber News India:https://the420.in/nia-madhubani-smuggling-network-hira-mahaseth-250-crore-assets/",
-  "SecurityWeek:https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
   "The Register Security:https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
   "The Hacker News:https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
   "The420 Cyber News India:https://the420.in/bihar-eou-executive-engineer-disproportionate-assets-cash-raid-case/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/google-deepmind-hassabis-ai-hacks-early-warning-security/",
   "The Hacker News:https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
   "The Hacker News:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-  "The420 Cyber News India:https://the420.in/japan-privacy-law-fines-50-percent-self-reporting/"
+  "The420 Cyber News India:https://the420.in/japan-privacy-law-fines-50-percent-self-reporting/",
+  "The420 Cyber News India:https://the420.in/mexico-digital-platforms-minors-harmful-content-rules/",
+  "The420 Cyber News India:https://the420.in/hyderabad-police-whatsapp-no-bank-scam-warning/",
+  "The Register Security:https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
+  "The Register Security:https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212",
+  "The Hacker News:https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+  "The Hacker News:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html"
 ]
