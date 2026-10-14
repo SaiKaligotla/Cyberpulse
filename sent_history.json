@@ -1,10 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/09/fbi-flax-typhoon-microscan-fishhub-domains/",
-  "GBHackers InfoSec:https://gbhackers.com/best-supply-chain-security-compared/",
-  "GBHackers InfoSec:https://gbhackers.com/best-api-security-compared/",
-  "Cyber Security News (India & Global):https://cybersecuritynews.com/matchboil-malware/",
-  "SecurityWeek:https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
-  "Security Affairs:https://securityaffairs.com/200670/security/cve-2026-107406-citrix-fixes-critical-netscaler-adc-and-gateway-vulnerability.html",
   "Security Affairs:https://securityaffairs.com/200661/hacking/ai-driven-tool-artex-used-in-attacks-against-south-korean-banks.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/09/anthropic-oss-scanner-ai-security-scans/",
   "The Hacker News:https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/200953/security/microsoft-patch-tuesday-sets-new-record-with-1415-cves-in-october-2026-updates.html",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
   "The420 Cyber News India:https://the420.in/santosh-yadav-anjali-group-investment-fraud-ghazipur-arrest/",
-  "Krebs on Security:https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/"
+  "Krebs on Security:https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+  "SecurityWeek:https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
+  "The420 Cyber News India:https://the420.in/greater-noida-hospital-kidney-failure-dialysis-fir/",
+  "The420 Cyber News India:https://the420.in/upsidco-prayagraj-hospital-contractor-blacklisted-engineers-action/",
+  "The420 Cyber News India:https://the420.in/israel-airline-crew-restrictions-flydubai-air-france-rules/",
+  "The Hacker News:https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+  "The Hacker News:https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html"
 ]
