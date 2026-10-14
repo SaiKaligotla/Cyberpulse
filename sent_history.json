@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/05/fbi-confirms-multiple-arrests-related-to-shinyhunters-hack/5301178",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
-  "The Register Security:https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
-  "The Hacker News:https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-  "The Hacker News:https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
   "Security Affairs:https://securityaffairs.com/200650/cyber-warfare-2/italys-foreign-ministry-under-cyberattack-as-embassy-sites-come-under-review.html",
   "The Hacker News:https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
   "Dark Reading:https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/hyderabad-5-crore-cyber-fraud-digital-arrest-whatsapp-trading-scam/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/14/meshery-open-source-cloud-native-manager-kubernetes/",
   "The Register Security:https://www.theregister.com/security/2026/10/08/high-severity-nvidia-bug-could-crash-gpu-monitoring-on-exposed-servers/5302077",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
+  "The420 Cyber News India:https://the420.in/banking-regulators-ai-cybersecurity-risks/",
+  "The420 Cyber News India:https://the420.in/australia-cba-ai-regulation-economic-benefits/",
+  "The Hacker News:https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+  "The Hacker News:https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/14/kunal-modasiya-qualys-vulnerability-remediation/",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/making-sure-the-checks-get-printed/"
 ]
