@@ -1,9 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
-  "The Hacker News:https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-  "The420 Cyber News India:https://the420.in/mahakumbh-documentary-fraud-indrajeet-nattoji-eow-arrest-lucknow/",
-  "The420 Cyber News India:https://the420.in/lucknow-missing-doctor-job-fraud/",
-  "The Hacker News:https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
   "The Hacker News:https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
   "Dark Reading:https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
@@ -498,5 +493,10 @@
   "The Hacker News:https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/15/jev-and-other-decision-models-can-still-be-tricked-with-prompt-injection/5303184",
   "Security Affairs:https://securityaffairs.com/200970/malware/hirudo-android-trojan-replaces-banking-apps-to-steal-credentials.html",
-  "The Hacker News:https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html"
+  "The Hacker News:https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+  "SecurityWeek:https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+  "The Hacker News:https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+  "SecurityWeek:https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+  "The420 Cyber News India:https://the420.in/ai-agent-deletion-backup-failure-production-delay/",
+  "Dark Reading:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware"
 ]
