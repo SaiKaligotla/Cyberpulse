@@ -1,7 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/12/lets-encrypt-64-day-certificate-lifetime/",
-  "The Register Security:https://www.theregister.com/security/2026/10/07/us-states-sue-popular-kitmaker-tp-link-over-china-risks/5301653",
-  "The Hacker News:https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
   "SecurityWeek:https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/12/microsoft-windows-update-certificate-rotation/",
@@ -498,5 +495,8 @@
   "SecurityWeek:https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
   "Security Affairs:https://securityaffairs.com/201106/security/f5-addressed-critical-rce-flaws-in-nginx.html",
   "The420 Cyber News India:https://the420.in/poonam-jezzler-german-citizenship-fraud-delhi-arrest/",
-  "Security Affairs:https://securityaffairs.com/201119/security/burger-king-japan-data-breach-impacted-11-million-customers.html"
+  "Security Affairs:https://securityaffairs.com/201119/security/burger-king-japan-data-breach-impacted-11-million-customers.html",
+  "The420 Cyber News India:https://the420.in/karnataka-cid-prosecution-sanction-gyanendra-gangwar-paper-leak/",
+  "The420 Cyber News India:https://the420.in/microsoft-chinese-phishing-kits-domain-takedown-cybercrime/",
+  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials"
 ]
