@@ -1,5 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
   "The Register Security:https://www.theregister.com/security/2026/10/07/poetry-is-the-new-ai-security-threat-as-poellm-malware-infects-3k-servers/5301672",
   "Cloudflare Security:https://blog.cloudflare.com/agentic-security-operations/",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
@@ -498,5 +497,6 @@
   "SecurityWeek:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/16/arch-linux-aur-malware-yay-paru/",
   "SecurityWeek:https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
-  "SecurityWeek:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/"
+  "SecurityWeek:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+  "Security Affairs:https://securityaffairs.com/201086/hacking/u-s-cisa-adds-atlassian-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
 ]
