@@ -1,6 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
-  "Krebs on Security:https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
   "The Register Security:https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33410",
@@ -498,5 +496,7 @@
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-  "The420 Cyber News India:https://the420.in/elon-musk-ai-robots-us-national-debt/"
+  "The420 Cyber News India:https://the420.in/elon-musk-ai-robots-us-national-debt/",
+  "The420 Cyber News India:https://the420.in/citizen-lab-india-discover-tech-zero-click-spyware/",
+  "Security Affairs:https://securityaffairs.com/201251/ai/security-affairs-ai-cybersecurity-newsletter-round-4.html"
 ]
