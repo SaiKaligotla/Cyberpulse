@@ -1,8 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-  "The Hacker News:https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-  "The Hacker News:https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-  "The Hacker News:https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33422",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
@@ -498,5 +494,9 @@
   "SecurityWeek:https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
   "The420 Cyber News India:https://the420.in/allahabad-high-court-up-teachers-verification-stf/",
   "The420 Cyber News India:https://the420.in/odisha-dhenkanal-forest-office-funds-fraud-arrests/",
-  "The Register Security:https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842"
+  "The Register Security:https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842",
+  "The420 Cyber News India:https://the420.in/dri-seizes-three-crore-cash-hidden-car-doors-pilkhuwa/",
+  "The420 Cyber News India:https://the420.in/delhi-epfo-job-fraud-retired-police-officer/",
+  "The420 Cyber News India:https://the420.in/sfio-deputy-director-cbi-custody-bribery-case/",
+  "Security Affairs:https://securityaffairs.com/201210/security/rust-based-cikabika-bot-turns-discord-into-a-command-center.html"
 ]
