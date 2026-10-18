@@ -1,7 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02",
-  "The Hacker News:https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-  "SecurityWeek:https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
   "SecurityWeek:https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
   "SecurityWeek:https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
   "Krebs on Security:https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
@@ -498,5 +495,8 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
   "Dark Reading:https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33434"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33434",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel"
 ]
