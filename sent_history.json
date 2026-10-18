@@ -1,7 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
-  "The Register Security:https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33410",
   "The Register Security:https://www.theregister.com/security/2026/10/08/sponsored-fighting-genai-with-genai-the-new-email-security-landscape/5301063",
   "The Hacker News:https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
   "The420 Cyber News India:https://the420.in/br-shetty-bank-of-baroda-damages-lawsuit/",
@@ -498,5 +495,8 @@
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
   "The420 Cyber News India:https://the420.in/elon-musk-ai-robots-us-national-debt/",
   "The420 Cyber News India:https://the420.in/citizen-lab-india-discover-tech-zero-click-spyware/",
-  "Security Affairs:https://securityaffairs.com/201251/ai/security-affairs-ai-cybersecurity-newsletter-round-4.html"
+  "Security Affairs:https://securityaffairs.com/201251/ai/security-affairs-ai-cybersecurity-newsletter-round-4.html",
+  "The420 Cyber News India:https://the420.in/claude-opus-mythos-price-access-capability-comparison/",
+  "The420 Cyber News India:https://the420.in/dhruv-rathee-defamation-case-saket-court-warrant/",
+  "Krebs on Security:https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
 ]
