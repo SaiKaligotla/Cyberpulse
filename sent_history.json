@@ -1,7 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212",
-  "The Hacker News:https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-  "The Hacker News:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
   "The Hacker News:https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33412",
@@ -498,5 +495,8 @@
   "The Hacker News:https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
   "The Hacker News:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
   "The Hacker News:https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-  "Security Affairs:https://securityaffairs.com/201324/hacking/plex2shell-exploit-used-to-turn-vulnerable-plex-servers-into-crypto-miners.html"
+  "Security Affairs:https://securityaffairs.com/201324/hacking/plex2shell-exploit-used-to-turn-vulnerable-plex-servers-into-crypto-miners.html",
+  "Dark Reading:https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+  "The Register Security:https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
+  "The Register Security:https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134"
 ]
