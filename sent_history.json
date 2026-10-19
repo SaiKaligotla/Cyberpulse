@@ -1,6 +1,4 @@
 [
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-  "The420 Cyber News India:https://the420.in/ssb-honey-trap-apk-cyber-fraud-warning/",
   "The420 Cyber News India:https://the420.in/india-ewaste-crisis-informal-recycling-pollution/",
   "SecurityWeek:https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
   "The420 Cyber News India:https://the420.in/bank-of-india-future-enterprises-fraud/",
@@ -498,5 +496,7 @@
   "The Hacker News:https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
   "The Hacker News:https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
   "The Hacker News:https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-  "SecurityWeek:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
+  "SecurityWeek:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+  "Security Affairs:https://securityaffairs.com/201258/security/japans-siteguard-waf-flaw-cve-2026-106931-is-already-being-exploited.html",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33420"
 ]
