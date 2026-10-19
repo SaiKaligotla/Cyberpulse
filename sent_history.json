@@ -1,6 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33412",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
   "Security Affairs:https://securityaffairs.com/200965/hacking/u-s-cisa-adds-microsoft-windows-shell-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
@@ -498,5 +496,7 @@
   "Dark Reading:https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
   "The Register Security:https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
   "The Register Security:https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
-  "The Hacker News:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html"
+  "The Hacker News:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+  "Dark Reading:https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog"
 ]
