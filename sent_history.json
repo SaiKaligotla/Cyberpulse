@@ -1,7 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a",
-  "SecurityWeek:https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
-  "SecurityWeek:https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/14/microsoft-patch-tuesday-cve-2026-96951-motw-bypass/",
   "The420 Cyber News India:https://the420.in/surat-businessman-mumbai-textile-fraud-arrest/",
   "The420 Cyber News India:https://the420.in/harvard-scholars-india-constitutional-institutions-warning/",
@@ -498,5 +495,8 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33420",
   "The420 Cyber News India:https://the420.in/uk-ppe-fraud-jogesh-bhandari-eight-year-prison-sentence/",
   "SecurityWeek:https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/19/check-point-brand-impersonation-scams-q3-2026-report/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/19/check-point-brand-impersonation-scams-q3-2026-report/",
+  "The420 Cyber News India:https://the420.in/dri-seizes-ganja-truck-gorakhpur-nepal-bihar/",
+  "The420 Cyber News India:https://the420.in/aiims-rishikesh-recruitment-fraud-biometric-arrest/",
+  "Security Affairs:https://securityaffairs.com/201236/hacking/attackers-abuse-stolen-connectwise-application-credentials-to-target-microsoft-365.html"
 ]
