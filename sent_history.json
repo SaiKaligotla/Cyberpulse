@@ -1,5 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
   "Security Affairs:https://securityaffairs.com/200965/hacking/u-s-cisa-adds-microsoft-windows-shell-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
@@ -498,5 +497,6 @@
   "The Register Security:https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
   "The Hacker News:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
   "Dark Reading:https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation"
 ]
