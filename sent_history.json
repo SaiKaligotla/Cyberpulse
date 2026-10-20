@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33414",
-  "The420 Cyber News India:https://the420.in/sue-mi-terry-south-korea-foreign-agent-case/",
-  "The420 Cyber News India:https://the420.in/ed-chargesheet-fiitjee-fee-misuse/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-  "The Hacker News:https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-  "The Hacker News:https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/abstract-links-automated-response-actions-directly-to-siem-detection-rules/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/threatmodeler-nexusai/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/appgate-session-governance/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/appgate-session-governance/",
+  "The Hacker News:https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
+  "The Hacker News:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html"
 ]
