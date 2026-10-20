@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
-  "The Hacker News:https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33430",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33432",
   "The420 Cyber News India:https://the420.in/cert-in-ai-agents-security-breach/",
   "The420 Cyber News India:https://the420.in/patna-cyber-fraud-gang-busted/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/china-national-data-group-state-owned-ai-digital-economy/",
   "The420 Cyber News India:https://the420.in/pakistan-arrest-us-postal-counterfeit-fraud/",
   "The420 Cyber News India:https://the420.in/trai-standard-otp-sms-format-cyber-fraud/",
-  "The420 Cyber News India:https://the420.in/california-23andme-data-breach-settlement-6-million/"
+  "The420 Cyber News India:https://the420.in/california-23andme-data-breach-settlement-6-million/",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a",
+  "The Hacker News:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "The Register Security:https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425",
+  "The Hacker News:https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html"
 ]
