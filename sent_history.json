@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-  "The Hacker News:https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-  "The420 Cyber News India:https://the420.in/punjab-cbi-ed-corruption-bureaucracy-probe/",
-  "The Register Security:https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864",
-  "SecurityWeek:https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
-  "SecurityWeek:https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
   "The420 Cyber News India:https://the420.in/allahabad-hc-slams-up-police-illegal-detention-gautam-buddh-nagar/",
   "The420 Cyber News India:https://the420.in/whatsapp-guest-calling-feature-browser-join-no-account/",
   "The420 Cyber News India:https://the420.in/government-finalises-airfare-regulation-rules-supreme-court-indigo/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/malicious-calendar-invites/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33432",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks"
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+  "The Hacker News:https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+  "The Hacker News:https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+  "The Register Security:https://www.theregister.com/security/2026/10/15/spyware-vendors-found-a-way-to-make-targeted-ads-even-worse/5303334",
+  "The Register Security:https://www.theregister.com/security/2026/10/15/bank-of-america-had-to-bring-in-1000-contractors-to-patch-all-the-bugs-mythos-identified/5303275"
 ]
