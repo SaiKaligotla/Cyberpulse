@@ -1,5 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/16/thief-snatches-school-snappers-sd-cards-in-smash-grab/5303379",
   "SecurityWeek:https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/16/arch-linux-aur-malware-yay-paru/",
   "SecurityWeek:https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
@@ -498,5 +497,6 @@
   "The Register Security:https://www.theregister.com/security/2026/10/15/legal-aid-agency-hackers-made-off-with-records-dating-back-to-1978/5303243",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
   "Dark Reading:https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281"
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
+  "Cloudflare Security:https://blog.cloudflare.com/emudhra-certificate-compromise/"
 ]
