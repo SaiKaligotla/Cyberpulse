@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
-  "The420 Cyber News India:https://the420.in/palo-alto-pan-os-cve-2026-0322-rce-firewall/",
   "The420 Cyber News India:https://the420.in/fssai-quick-commerce-food-compliance-jefferies/",
   "The420 Cyber News India:https://the420.in/navi-mumbai-police-arrest-two-in-alleged-%e2%82%b915-crore-ponzi-scheme/",
   "The420 Cyber News India:https://the420.in/uk-legal-aid-agency-cyberattack-records-1978-probation-data/",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
-  "The Hacker News:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html"
+  "The Hacker News:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+  "The Register Security:https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
+  "Dark Reading:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+  "The Hacker News:https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
+  "The Hacker News:https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+  "Security Affairs:https://securityaffairs.com/201358/breaking-news/google-cloud-outage-in-london-disrupts-revolut-banking-services.html"
 ]
