@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
-  "The Hacker News:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-  "Security Affairs:https://securityaffairs.com/201041/security/u-s-cisa-adds-palo-alto-networks-pan-os-ahsay-ahsaycbs-and-cisco-secure-email-gateway-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "The Register Security:https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425",
-  "Security Affairs:https://securityaffairs.com/201003/apt/silent-lynx-kazakhstan-linked-hackers-target-russian-refinery-and-government.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
   "The Hacker News:https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/google-chrome-enhanced-protection-updates/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-02",
-  "The Hacker News:https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html"
+  "The Hacker News:https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+  "The420 Cyber News India:https://the420.in/microsoft-expands-sovereign-cloud-ai-infrastructure/",
+  "The420 Cyber News India:https://the420.in/world-bank-first-digital-strategy-ai-jobs-connectivity/",
+  "The420 Cyber News India:https://the420.in/china-national-data-group-state-owned-ai-digital-economy/",
+  "The420 Cyber News India:https://the420.in/pakistan-arrest-us-postal-counterfeit-fraud/",
+  "The420 Cyber News India:https://the420.in/trai-standard-otp-sms-format-cyber-fraud/",
+  "The420 Cyber News India:https://the420.in/california-23andme-data-breach-settlement-6-million/"
 ]
