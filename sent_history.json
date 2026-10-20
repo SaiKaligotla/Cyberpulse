@@ -1,8 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-  "SecurityWeek:https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
-  "The420 Cyber News India:https://the420.in/ai-agent-deletion-backup-failure-production-delay/",
-  "Dark Reading:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
   "The Register Security:https://www.theregister.com/security/2026/10/15/metropolitan-polices-unchecked-use-of-shoplifting-platform-lands-force-in-trouble-with-data-watchdog/5303061",
   "The Hacker News:https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/15/optro-grc-intelligence-platform/",
@@ -498,5 +494,9 @@
   "The Hacker News:https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/15/jev-and-other-decision-models-can-still-be-tricked-with-prompt-injection/5303184",
   "The Register Security:https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601",
-  "Security Affairs:https://securityaffairs.com/201336/ai/microsoft-treats-ai-agents-as-insider-threats-in-new-security-framework.html"
+  "Security Affairs:https://securityaffairs.com/201336/ai/microsoft-treats-ai-agents-as-insider-threats-in-new-security-framework.html",
+  "The Hacker News:https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/microsofts-ai-agents-threats-guardian-agents/",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
+  "SecurityWeek:https://www.securityweek.com/970000-medi-cal-members-affected-by-paradigm-healthcare-data-breach/"
 ]
