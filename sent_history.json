@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33418",
-  "Security Affairs:https://securityaffairs.com/201166/security/bae-systems-cyber-incident-takes-us-bankruptcy-noticing-center-offline-for-a-week.html",
-  "SecurityWeek:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-  "Security Affairs:https://securityaffairs.com/201178/security/u-s-cisa-adds-fortinet-multiple-products-and-beyondtrust-remote-support-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-  "The420 Cyber News India:https://the420.in/oxygen-forensics-ceo-arrest/",
-  "The Hacker News:https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
   "The Register Security:https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
   "The420 Cyber News India:https://the420.in/kanpur-fake-cement-racket-panki-warehouse-seizure/",
   "The Register Security:https://www.theregister.com/virtualization/2026/10/13/vmware-is-pushing-so-many-patches-it-thinks-users-need-new-tools-to-manage-the-flood-1/5302172",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/201417/ai/us-government-orders-deepseek-out-of-federal-civilian-systems.html",
   "The420 Cyber News India:https://the420.in/supreme-court-stays-pinarayi-vijayan-cmrl-probe/",
   "The420 Cyber News India:https://the420.in/ahold-delhaize-cyberattack-us-europe-disruption/",
-  "SecurityWeek:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/"
+  "SecurityWeek:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+  "The420 Cyber News India:https://the420.in/cisa-orders-remediation-plex-siemens-siteguard-flaws/",
+  "The420 Cyber News India:https://the420.in/claude-designs-scorpion-neurotoxin-binders/",
+  "SecurityWeek:https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
+  "The420 Cyber News India:https://the420.in/critical-php-vulnerabilities-cyber-agencies-warn-patches/",
+  "The420 Cyber News India:https://the420.in/kkr-faces-eu-antitrust-charges-telecom-italia-deal/",
+  "The420 Cyber News India:https://the420.in/microsoft-windows-refs-usb-drive-block-january-2027/"
 ]
