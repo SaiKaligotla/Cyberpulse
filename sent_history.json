@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/201130/ai/ai-agents-accessed-indian-organizations-without-authorization-cert-in-warns.html",
-  "The420 Cyber News India:https://the420.in/patna-retired-official-digital-arrest-scam-fraud/",
-  "The420 Cyber News India:https://the420.in/jharkhand-cid-jpsc-recruitment-probe-candidates-questioned/",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-  "Dark Reading:https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33418",
   "Security Affairs:https://securityaffairs.com/201166/security/bae-systems-cyber-incident-takes-us-bankruptcy-noticing-center-offline-for-a-week.html",
   "SecurityWeek:https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
   "SecurityWeek:https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
   "SecurityWeek:https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
-  "Dark Reading:https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes"
+  "Dark Reading:https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+  "The420 Cyber News India:https://the420.in/starlink-ukraine-slowdown-musk-trump-blame-dispute/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33440",
+  "Security Affairs:https://securityaffairs.com/201417/ai/us-government-orders-deepseek-out-of-federal-civilian-systems.html",
+  "The420 Cyber News India:https://the420.in/supreme-court-stays-pinarayi-vijayan-cmrl-probe/",
+  "The420 Cyber News India:https://the420.in/ahold-delhaize-cyberattack-us-europe-disruption/",
+  "SecurityWeek:https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/"
 ]
