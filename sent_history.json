@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-  "Dark Reading:https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-  "The420 Cyber News India:https://the420.in/meerut-staged-snakebite-husband-murder-death-penalty/",
-  "The420 Cyber News India:https://the420.in/cert-in-warns-ai-agents-breach-indian-systems/",
   "The420 Cyber News India:https://the420.in/cybercrime-lawyer-9-crore-bank-fraud/",
   "The420 Cyber News India:https://the420.in/mcoca-86-lakh-cyber-fraud/",
   "The420 Cyber News India:https://the420.in/bengaluru-adcl-bank-fraud-ed-chargesheet/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/apple-safari-tracking-protection/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/ovhcloud-cli-github-malware/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/threatlocker-zero-trust-ai-control-ztaic/",
-  "The Hacker News:https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html"
+  "The Hacker News:https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
+  "The Hacker News:https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/grafana-labs-knowledge-graph/",
+  "Dark Reading:https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise"
 ]
