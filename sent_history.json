@@ -1,5 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
   "SecurityWeek:https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
   "Security Affairs:https://securityaffairs.com/201086/hacking/u-s-cisa-adds-atlassian-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
   "The420 Cyber News India:https://the420.in/ai-agents-socialise-new-york-dinner-party/",
@@ -498,5 +497,6 @@
   "The Register Security:https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
   "Cloudflare Security:https://blog.cloudflare.com/emudhra-certificate-compromise/",
   "The Register Security:https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
-  "The Register Security:https://www.theregister.com/security/2026/10/16/thief-snatches-school-snappers-sd-cards-in-smash-grab/5303379"
+  "The Register Security:https://www.theregister.com/security/2026/10/16/thief-snatches-school-snappers-sd-cards-in-smash-grab/5303379",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33438"
 ]
