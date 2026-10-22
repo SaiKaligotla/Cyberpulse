@@ -1,9 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
-  "Security Affairs:https://securityaffairs.com/201307/uncategorized/deepfakes-and-election-manipulation-uk-watchdog-seeks-faster-detection.html",
-  "The420 Cyber News India:https://the420.in/broadcom-wps-router-flaw-wifi-passwordless-attack/",
-  "SecurityWeek:https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
-  "Cloudflare Security:https://blog.cloudflare.com/protect-your-netscaler-gateway/",
   "The420 Cyber News India:https://the420.in/cbi-chandigarh-manpower-tender-fraud-probe/",
   "The420 Cyber News India:https://the420.in/ahmedabad-garba-pass-fraud-arrests/",
   "The420 Cyber News India:https://the420.in/swapan-sharma-bhagwant-mann-video-ed-probe/",
@@ -498,5 +493,10 @@
   "Cloudflare Security:https://blog.cloudflare.com/k-isms/",
   "The Hacker News:https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
   "The420 Cyber News India:https://the420.in/pune-aradhya-jewellers-heist-delhi-goldsmith-arrested/",
-  "The420 Cyber News India:https://the420.in/surat-chemical-pilferage-racket-tanker-drivers-arrested/"
+  "The420 Cyber News India:https://the420.in/surat-chemical-pilferage-racket-tanker-drivers-arrested/",
+  "The420 Cyber News India:https://the420.in/noida-woman-duped-old-currency-scam/",
+  "The Hacker News:https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
+  "The Register Security:https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913",
+  "SecurityWeek:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/"
 ]
