@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-  "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-top-10-cybercrime-ai-cybersecurity-19-october-2026/",
-  "The420 Cyber News India:https://the420.in/day-19-dark-web-investigations-hidden-cybercrime/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
   "The420 Cyber News India:https://the420.in/delhi-police-digital-arrest-fraud/",
@@ -498,5 +495,8 @@
   "The Hacker News:https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source/",
   "SecurityWeek:https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
-  "The Register Security:https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592"
+  "The Register Security:https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/22/php2shell-vulnerability-fortinet-cisco-palo-alto-networks/",
+  "The Register Security:https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+  "SecurityWeek:https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/"
 ]
