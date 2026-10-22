@@ -1,9 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-  "The Hacker News:https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-  "The Hacker News:https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-  "SecurityWeek:https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
-  "Security Affairs:https://securityaffairs.com/201258/security/japans-siteguard-waf-flaw-cve-2026-106931-is-already-being-exploited.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33420",
   "The420 Cyber News India:https://the420.in/uk-ppe-fraud-jogesh-bhandari-eight-year-prison-sentence/",
   "SecurityWeek:https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
@@ -498,5 +493,10 @@
   "The Register Security:https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
   "The420 Cyber News India:https://the420.in/dri-vijayawada-gold-smuggling-five-arrested/",
   "SecurityWeek:https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
-  "The Register Security:https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758"
+  "The Register Security:https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
+  "SecurityWeek:https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+  "The420 Cyber News India:https://the420.in/anil-pandit-tiger-shroff-firing-digital-evidence/",
+  "The420 Cyber News India:https://the420.in/jpsc-exam-scam-chargesheet-khiangte/",
+  "The420 Cyber News India:https://the420.in/ncb-ranchi-jamshedpur-drug-network-busted/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/22/openai-agents-disabled-safety-monitoring/"
 ]
