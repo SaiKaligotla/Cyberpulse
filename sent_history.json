@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/jammu-kashmir-crime-branch-cyber-slavery-human-trafficking/",
-  "The420 Cyber News India:https://the420.in/durg-forex-trading-investment-fraud-minal-chauhan-arrest/",
-  "The Hacker News:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-  "The Register Security:https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
-  "The Register Security:https://www.theregister.com/security/2026/10/14/ivanti-patches-connect-secure-zero-day-after-researchers-confirm-in-the-wild-attacks/5303095",
-  "The Hacker News:https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
   "The Hacker News:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
   "The Hacker News:https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
   "Security Affairs:https://securityaffairs.com/201324/hacking/plex2shell-exploit-used-to-turn-vulnerable-plex-servers-into-crypto-miners.html",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
   "The Hacker News:https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
   "The Hacker News:https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
+  "Security Affairs:https://securityaffairs.com/201501/apt/microsoft-links-connectwise-breach-to-china-linked-group-using-ai-pentesting-tool-artex.html",
+  "Dark Reading:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+  "The Register Security:https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
+  "Dark Reading:https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09"
 ]
