@@ -1,9 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-  "The Hacker News:https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-  "Security Affairs:https://securityaffairs.com/201324/hacking/plex2shell-exploit-used-to-turn-vulnerable-plex-servers-into-crypto-miners.html",
-  "Dark Reading:https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
-  "The Register Security:https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
   "The Register Security:https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
   "The Hacker News:https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
   "Dark Reading:https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
@@ -498,5 +493,10 @@
   "The Register Security:https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
   "Dark Reading:https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
+  "The Hacker News:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+  "The Register Security:https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927"
 ]
