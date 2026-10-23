@@ -1,8 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a",
-  "The Hacker News:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
   "The Register Security:https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425",
   "The Hacker News:https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
   "The Hacker News:https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
@@ -498,5 +494,9 @@
   "The Hacker News:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
-  "The Hacker News:https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html"
+  "The Hacker News:https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+  "Dark Reading:https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+  "The Register Security:https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208",
+  "The Hacker News:https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html"
 ]
