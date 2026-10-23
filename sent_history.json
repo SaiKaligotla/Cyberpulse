@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/google-chrome-enhanced-protection-updates/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-02",
-  "The Hacker News:https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
   "The420 Cyber News India:https://the420.in/microsoft-expands-sovereign-cloud-ai-infrastructure/",
   "The420 Cyber News India:https://the420.in/world-bank-first-digital-strategy-ai-jobs-connectivity/",
   "The420 Cyber News India:https://the420.in/china-national-data-group-state-owned-ai-digital-economy/",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
   "The420 Cyber News India:https://the420.in/aurangabad-jeweller-duped-fake-cid-officers-gold-theft/",
   "The420 Cyber News India:https://the420.in/capcom-data-breach-11-7-million-capcom-id-accounts/",
-  "The420 Cyber News India:https://the420.in/ukraine-russia-digital-infrastructure-data-centres-ai-cyberattacks/"
+  "The420 Cyber News India:https://the420.in/ukraine-russia-digital-infrastructure-data-centres-ai-cyberattacks/",
+  "Dark Reading:https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33452",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+  "The420 Cyber News India:https://the420.in/pwc-cyber-incident-employee-learning-records-everest/",
+  "The420 Cyber News India:https://the420.in/delhi-police-7-36-crore-cyber-fraud-bank-insiders-mule-accounts/",
+  "The Register Security:https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198"
 ]
