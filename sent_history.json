@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/microsoft-expands-sovereign-cloud-ai-infrastructure/",
-  "The420 Cyber News India:https://the420.in/world-bank-first-digital-strategy-ai-jobs-connectivity/",
-  "The420 Cyber News India:https://the420.in/china-national-data-group-state-owned-ai-digital-economy/",
-  "The420 Cyber News India:https://the420.in/pakistan-arrest-us-postal-counterfeit-fraud/",
-  "The420 Cyber News India:https://the420.in/trai-standard-otp-sms-format-cyber-fraud/",
-  "The420 Cyber News India:https://the420.in/california-23andme-data-breach-settlement-6-million/",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
   "CISA Advisories (US):https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a",
   "The Hacker News:https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
   "The420 Cyber News India:https://the420.in/pwc-cyber-incident-employee-learning-records-everest/",
   "The420 Cyber News India:https://the420.in/delhi-police-7-36-crore-cyber-fraud-bank-insiders-mule-accounts/",
-  "The Register Security:https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198"
+  "The Register Security:https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
+  "The Hacker News:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+  "The Hacker News:https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html"
 ]
