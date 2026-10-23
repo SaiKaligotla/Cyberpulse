@@ -69,8 +69,6 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "").strip().strip("'\"")
 CHAT_ID = clean_chat_id(os.environ.get("TELEGRAM_CHAT_ID", ""))
 FILTER_MODE = os.environ.get("FILTER_MODE", "all").strip().lower() # 'all', 'zerodays_only', 'india_only'
 MAX_SEND = int(os.environ.get("MAX_SEND", "6")) # Number of articles to send per run
-DISPATCH_INTERVAL_MINUTES = int(os.environ.get("DISPATCH_INTERVAL_MINUTES", "60")) # Default: 1 hour (60 mins)
-FORCE_RUN = os.environ.get("FORCE_RUN", "false").strip().lower() in ("1", "true", "yes")
 
 # File to remember already sent articles (prevents duplicate spam)
 HISTORY_FILE = "sent_history.json"
@@ -583,46 +581,6 @@ def send_telegram(item):
 # SECTION 8: MAIN EXECUTION ENGINE
 # =============================================================================
 
-def load_history(path=HISTORY_FILE):
-    """Loads sent article history and last dispatch timestamp (backward-compatible)."""
-    if not os.path.exists(path):
-        return [], 0
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            raw = json.load(f)
-        if isinstance(raw, dict):
-            return list(raw.get("sent_ids", [])), int(raw.get("last_dispatch_ts", 0) or 0)
-        if isinstance(raw, list):
-            return raw, 0
-    except Exception:
-        pass
-    return [], 0
-
-def save_history(history, dispatch_ts, path=HISTORY_FILE):
-    """Persists latest 500 sent article IDs alongside the last dispatch timestamp."""
-    if len(history) > 500:
-        history = history[-500:]
-    payload = {
-        "last_dispatch_ts": int(dispatch_ts),
-        "sent_ids": history
-    }
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, indent=2)
-
-def should_run_dispatch(now_utc, last_dispatch_ts, interval_minutes=DISPATCH_INTERVAL_MINUTES, force_run=FORCE_RUN):
-    """
-    Enforces the configured dispatch interval (default: 60 minutes / 1 hour).
-    Applies a 10-minute grace window for intervals > 15m (50m gate for 60m schedule)
-    so slight cron timing drift never misses an hourly slot while skipping 30-min triggers.
-    """
-    if force_run or interval_minutes <= 0 or not last_dispatch_ts:
-        return True, 0
-    min_gap_seconds = max(60, (interval_minutes - 10) * 60) if interval_minutes > 15 else interval_minutes * 60
-    elapsed = int(now_utc.timestamp()) - int(last_dispatch_ts)
-    if elapsed < min_gap_seconds:
-        return False, min_gap_seconds - elapsed
-    return True, 0
-
 def main():
     now_utc = datetime.now(timezone.utc)
     cutoff_7_days = now_utc - timedelta(days=LOOKBACK_DAYS)
@@ -633,34 +591,30 @@ def main():
     print("===================================================================")
     print("🛡️  CyberPulse • 7-Day Threat Intel & Telegram Broadcaster")
     print(f"⏰ Execution Time: {now_utc.isoformat()} UTC")
-    print(f"⏱️  Trigger Interval: Every {DISPATCH_INTERVAL_MINUTES} Minutes")
     print(f"📅 Lookback Window: Past {LOOKBACK_DAYS} Days (Since {cutoff_7_days.strftime('%Y-%m-%d')})")
     print(f"📡 Peak Hours Active: {'YES (Throttled Pacing)' if is_peak_time else 'NO (Normal Speed)'}")
     print(f"🌐 Monitored Feeds: {len(FEEDS)} Global & Indian Sources")
     print("===================================================================")
-
-    # 1. Load already-sent article history & check 1-hour interval guard
-    history, last_dispatch_ts = load_history(HISTORY_FILE)
-    allowed, wait_seconds = should_run_dispatch(now_utc, last_dispatch_ts)
-    if not allowed:
-        elapsed_mins = (int(now_utc.timestamp()) - last_dispatch_ts) / 60.0
-        print(
-            f"[⏳] Hourly trigger guard active: Last run was {elapsed_mins:.1f}m ago "
-            f"(next window opens in {wait_seconds / 60.0:.1f}m). Skipping run. "
-            f"(Set FORCE_RUN=true to run immediately.)"
-        )
-        sys.exit(0)
 
     if not BOT_TOKEN or not CHAT_ID:
         print("[!] Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID in GitHub Repository Secrets.")
         print("[!] Please add them under: Settings -> Secrets and variables -> Actions")
         sys.exit(0)
 
-    # 2. Randomized startup jitter (3 to 10 seconds) to avoid rigid execution spikes
+    # 1. Randomized startup jitter (3 to 10 seconds) to avoid rigid execution spikes
     jitter = random.uniform(3.0, 10.0)
     print(f"[+] Initial randomized startup jitter: {jitter:.1f}s...")
     time.sleep(jitter)
 
+    # 2. Load already-sent article history
+    history = []
+    if os.path.exists(HISTORY_FILE):
+        try:
+            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
+                raw_history = json.load(f)
+            history = list(raw_history.get("sent_ids", [])) if isinstance(raw_history, dict) else raw_history
+        except Exception:
+            history = []
     seen_ids = set(history)
     print(f"[+] Loaded {len(seen_ids)} previously dispatched article IDs from history.")
 
@@ -704,8 +658,11 @@ def main():
 
     print(f"[✓] Successfully dispatched {sent_count} major/trending articles to Telegram!")
 
-    # 8. Save updated history & last dispatch timestamp (keep latest 500 entries)
-    save_history(history, int(now_utc.timestamp()), HISTORY_FILE)
+    # 8. Save updated history (keep latest 500 entries)
+    if len(history) > 500:
+        history = history[-500:]
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(history, f, indent=2)
 
 if __name__ == "__main__":
     main()

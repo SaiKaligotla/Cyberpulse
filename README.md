@@ -139,7 +139,6 @@ You can customize your feed by adding optional variables under **Settings ➔ Se
 |---|---|---|
 | **`FILTER_MODE`** | `all` | • `all` — Dispatches all news, tools, and research.<br>• `india_only` — Dispatches **only India & CERT-In** news.<br>• `zerodays_only` — Dispatches only Zero-Days & Critical CVEs. |
 | **`MAX_SEND`** | `6` | Maximum number of new articles sent per hourly run (prevents Telegram rate limits). |
-| **`DISPATCH_INTERVAL_MINUTES`** | `60` | Minimum interval in minutes between automated Telegram broadcast batches (`60` = 1 hour). Set `FORCE_RUN=true` to bypass for manual testing. |
 
 ---
 
