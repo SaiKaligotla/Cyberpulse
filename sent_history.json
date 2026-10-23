@@ -1,7 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/abstract-links-automated-response-actions-directly-to-siem-detection-rules/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/threatmodeler-nexusai/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/20/appgate-session-governance/",
   "The Hacker News:https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03",
@@ -498,5 +495,8 @@
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
   "The Register Security:https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
-  "The Hacker News:https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html"
+  "The Hacker News:https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+  "The420 Cyber News India:https://the420.in/barclays-job-cuts-ai-automation-india-impact/",
+  "The420 Cyber News India:https://the420.in/bengaluru-whitefield-sim-box-network-digital-arrest-cyber-fraud/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost"
 ]
