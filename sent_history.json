@@ -1,8 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
-  "The420 Cyber News India:https://the420.in/jaipur-police-bust-fake-call-centre-us-citizens-targeted/",
-  "The420 Cyber News India:https://the420.in/ed-freezes-trading-accounts-stock-manipulation-case/",
-  "The420 Cyber News India:https://the420.in/ed-arrests-rtgs-agent-417-crore-digital-arrest-case/",
   "The420 Cyber News India:https://the420.in/tripura-ias-abhishek-chandra-family-financial-fraud-investigation/",
   "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-top-10-cybercrime-ai-national-security-20-october-2026/",
   "The420 Cyber News India:https://the420.in/space-warfare-satellite-threat-banking-aviation/",
@@ -498,5 +494,9 @@
   "The420 Cyber News India:https://the420.in/nclat-ibbi-insolvency-professional-registration-cancellation/",
   "The Hacker News:https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
   "The Hacker News:https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078"
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
+  "SecurityWeek:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+  "SecurityWeek:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/23/llmjacking-agent-hijacks-exposed-ai-models/",
+  "SecurityWeek:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/"
 ]
