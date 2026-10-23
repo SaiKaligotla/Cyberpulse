@@ -526,8 +526,7 @@ def send_telegram(item):
     date_formatted = item["pub_dt"].strftime("%b %d, %Y")
 
     message_text = (
-        f"🚨 <b>CYBERPULSE INTEL ALERT</b> 🚨\n\n"
-        f"<b>{safe_title}</b>\n\n"
+        f"🚨 <b>{safe_title}</b> 🚨\n\n"
         f"📁 <b>Category:</b> {safe_cat}\n"
         f"🌍 <b>Region:</b> {safe_region}\n"
         f"📡 <b>Source:</b> {item['icon']} {safe_source} • {date_formatted}{cve_str}\n\n"
