@@ -53,7 +53,7 @@ CyberPulse tracks across 5 core cybersecurity pillars:
 ## ✨ Features
 
 - **🚀 100% Serverless & Free**: Runs automatically via **GitHub Actions**. No hosting, VPS, or maintenance required.
-- **⏱️ Automated 24/7 Monitoring**: Scrapes every **30 minutes** with guaranteed on-time execution.
+- **⏱️ Automated 24/7 Monitoring**: Scrapes every **1 hour** with guaranteed on-time execution.
 - **📅 7-Day Lookback & Priority Scoring**: Ranks and prioritizes the most critical Zero-Days, breaches, and major research from the past week.
 - **🌍 Regional Flag Badging**: Automatically tags posts with country flags (`🇮🇳 India`, `🇺🇸 United States`, `🇬🇧 United Kingdom`, `🇪🇺 Europe`, `🌏 Asia-Pacific`, `🌐 Global`).
 - **🔴 Automatic CVE Tagging**: Automatically detects and tags CVE identifiers (e.g. `CVE-2024-38856`).
@@ -121,7 +121,7 @@ To ensure your workflow runs on the exact minute without any delays from GitHub'
 2. Go to **[cron-job.org](https://cron-job.org)** (free) ➔ click **Create Cronjob**.
 3. **URL**: `https://api.github.com/repos/YOUR_USERNAME/YOUR_REPO/actions/workflows/scraper.yml/dispatches`
 4. **Method**: `POST`
-5. **Schedule**: `Every 30 minutes`
+5. **Schedule**: `Every hour`
 6. **Headers**:
    - `Authorization`: `Bearer YOUR_GITHUB_TOKEN`
    - `Accept`: `application/vnd.github+json`
@@ -138,7 +138,8 @@ You can customize your feed by adding optional variables under **Settings ➔ Se
 | Variable Name | Default | Options / Description |
 |---|---|---|
 | **`FILTER_MODE`** | `all` | • `all` — Dispatches all news, tools, and research.<br>• `india_only` — Dispatches **only India & CERT-In** news.<br>• `zerodays_only` — Dispatches only Zero-Days & Critical CVEs. |
-| **`MAX_SEND`** | `6` | Maximum number of new articles sent per 30-minute run (prevents Telegram rate limits). |
+| **`MAX_SEND`** | `6` | Maximum number of new articles sent per hourly run (prevents Telegram rate limits). |
+| **`DISPATCH_INTERVAL_MINUTES`** | `60` | Minimum interval in minutes between automated Telegram broadcast batches (`60` = 1 hour). Set `FORCE_RUN=true` to bypass for manual testing. |
 
 ---
 
