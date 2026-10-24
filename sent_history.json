@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/apple-safari-tracking-protection/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/ovhcloud-cli-github-malware/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/threatlocker-zero-trust-ai-control-ztaic/",
-  "The Hacker News:https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-  "The Hacker News:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
   "The Hacker News:https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/grafana-labs-knowledge-graph/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/spain-election-deepfake-pp-ai-political-ad-legal-complaint/",
   "The420 Cyber News India:https://the420.in/uk-600-million-ai-security-biosecurity-cyber-defence/",
   "The420 Cyber News India:https://the420.in/moonshot-kimi-k3-1-pro-ai-hacking-cyber-safety/",
-  "The420 Cyber News India:https://the420.in/blackx-uefi-bootkit-baton-drop-secure-boot-windows/"
+  "The420 Cyber News India:https://the420.in/blackx-uefi-bootkit-baton-drop-secure-boot-windows/",
+  "The420 Cyber News India:https://the420.in/philip-lustre-arrested-philippines-cyberlibel-paolo-duterte/",
+  "The420 Cyber News India:https://the420.in/amazon-thane-ai-data-centre-aaditya-thackeray-kakodkar-panel/",
+  "The420 Cyber News India:https://the420.in/cbi-ilfs-energy-canara-bank-212-crore-loan-fraud/",
+  "The Hacker News:https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+  "The Hacker News:https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+  "The Hacker News:https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html"
 ]
