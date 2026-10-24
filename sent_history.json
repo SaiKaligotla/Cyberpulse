@@ -1,9 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
-  "The Hacker News:https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/gitguardian-securing-credential-layer/",
-  "The Register Security:https://www.theregister.com/security/2026/10/16/attack-on-bae-managed-system-disrupts-us-bankruptcy-courts/5303487",
-  "Cloudflare Security:https://blog.cloudflare.com/verified-bots-accountability/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/21/devguard-open-source-vulnerability-management/",
   "Dark Reading:https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
   "Hackaday Security Hacks:https://hackaday.com/2026/10/16/this-week-in-security-critical-dns-keys-rotated-hacking-freezers-isnt-cool-openai-spies-on-itself-and-advanced-hardware-wallet-hacks/",
@@ -498,5 +493,10 @@
   "The420 Cyber News India:https://the420.in/sebi-stock-market-rules-overhaul-ai-trading-cybersecurity/",
   "The Hacker News:https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
   "The Hacker News:https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-  "Cloudflare Security:https://blog.cloudflare.com/emudhra-certificate-compromise/"
+  "Cloudflare Security:https://blog.cloudflare.com/emudhra-certificate-compromise/",
+  "The420 Cyber News India:https://the420.in/microsoft-closes-the-garage-innovation-programme/",
+  "The420 Cyber News India:https://the420.in/navigate360-school-tip-data-breach-student-records/",
+  "The420 Cyber News India:https://the420.in/ahmedabad-doctor-fake-gas-bill-apk-fraud/",
+  "The420 Cyber News India:https://the420.in/betul-bank-fraud-living-customers-declared-dead/",
+  "The420 Cyber News India:https://the420.in/central-bank-of-india-rbi-settlement-account-cyber-fraud/"
 ]
