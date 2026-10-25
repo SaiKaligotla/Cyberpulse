@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
-  "Krebs on Security:https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-  "The420 Cyber News India:https://the420.in/ravindra-singh-digital-arrest-fraud-rajasthan-police/",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
-  "The Hacker News:https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-  "The420 Cyber News India:https://the420.in/eu-investigates-booking-com-scams-dsa/",
   "The420 Cyber News India:https://the420.in/gujarat-pharma-cyberattack-ransom-investigation/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
   "The Register Security:https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
@@ -498,5 +492,11 @@
   "Cloudflare Security:https://blog.cloudflare.com/full-transaction-waf/",
   "Security Affairs:https://securityaffairs.com/201709/security/security-affairs-malware-newsletter-round-120.html",
   "The Hacker News:https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-  "Security Affairs:https://securityaffairs.com/201698/breaking-news/security-affairs-newsletter-round-601-by-pierluigi-paganini-international-edition.html"
+  "Security Affairs:https://securityaffairs.com/201698/breaking-news/security-affairs-newsletter-round-601-by-pierluigi-paganini-international-edition.html",
+  "The420 Cyber News India:https://the420.in/india-startup-funding-ai-1747-crore/",
+  "The420 Cyber News India:https://the420.in/us-semiconductor-fusion-ai-rd-funding/",
+  "The Register Security:https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+  "The Hacker News:https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+  "The Hacker News:https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html"
 ]
