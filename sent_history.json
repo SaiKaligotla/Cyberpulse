@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
-  "Krebs on Security:https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-  "The Register Security:https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
   "The Hacker News:https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
   "The Register Security:https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
   "The Hacker News:https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+  "The Register Security:https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
+  "SecurityWeek:https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+  "Security Affairs:https://securityaffairs.com/201795/malware/magento-campaign-infects-953-online-stores-across-five-domains.html",
+  "The Register Security:https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+  "The Register Security:https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363"
 ]
