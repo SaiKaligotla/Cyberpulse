@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
-  "The420 Cyber News India:https://the420.in/ed-areca-nut-smuggling-gst-cgst-officials-probe/",
-  "The420 Cyber News India:https://the420.in/tech-mahindra-spacexsi-grok-build-ai-software-engineering/",
   "The420 Cyber News India:https://the420.in/russia-hackers-yggdrasil-ukraine-grain-cyberattack-eset/",
   "Security Affairs:https://securityaffairs.com/201490/security/signal-vulnerability-could-keep-calls-alive-after-users-hang-up.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/201795/malware/magento-campaign-infects-953-online-stores-across-five-domains.html",
   "The Register Security:https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
-  "The Register Security:https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363"
+  "The Register Security:https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
+  "Dark Reading:https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+  "SecurityWeek:https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/"
 ]
