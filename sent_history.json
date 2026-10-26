@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/interpol-operation-serengeti-cybercrime-crackdown/",
-  "The420 Cyber News India:https://the420.in/ankita-sharma-ak47-firing-show-cause-notice/",
-  "The420 Cyber News India:https://the420.in/meta-25-billion-new-mexico-penalty-appeal/",
-  "The420 Cyber News India:https://the420.in/fisher-paykel-healthcare-cyber-breach-employee-email-data/",
-  "The420 Cyber News India:https://the420.in/emudhra-exits-global-tls-certificate-business-security-flaw/",
-  "The420 Cyber News India:https://the420.in/jason-samuel-arrested-finance-influencer-harish-death-tamil-nadu/",
   "The420 Cyber News India:https://the420.in/jio-ipo-retail-investors-fully-subscribed-demand/",
   "The420 Cyber News India:https://the420.in/sebi-proposes-easing-approval-rules-for-stock-exchange-investments/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
-  "The Register Security:https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570"
+  "The Register Security:https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33458",
+  "Cloudflare Security:https://blog.cloudflare.com/kv-cache-exposure-remediation/"
 ]
