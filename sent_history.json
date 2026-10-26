@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33434",
-  "The420 Cyber News India:https://the420.in/supreme-court-ed-cmrl-exalogic-kerala-case-pinarayi-vijayan/",
-  "The420 Cyber News India:https://the420.in/mumbai-police-notices-sabeer-bhatia-documentary-x-accounts/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/22/interpol-africa-cybercrime-crackdown-operation-serengeti-iii/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/22/signal-ringrtc-vulnerability-cve-2026-113380/",
-  "The Hacker News:https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
   "The Hacker News:https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
   "The Hacker News:https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
   "The Hacker News:https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
   "SecurityWeek:https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33442",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/26/product-showcase-stellar-cyber-isoc-platform/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/26/product-showcase-stellar-cyber-isoc-platform/",
+  "The420 Cyber News India:https://the420.in/india-online-shopping-scams-report/",
+  "The420 Cyber News India:https://the420.in/telangana-tg-ipass-ransomware-data-recovery/",
+  "SecurityWeek:https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+  "Security Affairs:https://securityaffairs.com/201748/hacking/php2shell-suspected-north-korean-campaign-targets-216-vulnerable-php-hosts.html",
+  "The420 Cyber News India:https://the420.in/delhi-police-bust-cyber-fraud-network-instagram-scam/",
+  "The420 Cyber News India:https://the420.in/bengaluru-blinkit-refund-cyber-fraud-scam/"
 ]
