@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
   "The Hacker News:https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
   "Dark Reading:https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
   "Security Affairs:https://securityaffairs.com/201435/ai/openai-reports-two-incidents-of-ai-agents-disabling-their-own-oversight.html",
@@ -498,5 +495,8 @@
   "The Hacker News:https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
   "The Hacker News:https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33454",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/",
+  "The420 Cyber News India:https://the420.in/mumbai-digital-arrest-fraud-elderly-widow-cyber-police-arrest/",
+  "The420 Cyber News India:https://the420.in/operation-trident-narcotics-crackdown-northeast-india/",
+  "The420 Cyber News India:https://the420.in/cbi-court-bail-rejected-digital-arrest-fraud-money-trail/"
 ]
