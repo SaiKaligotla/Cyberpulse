@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840",
-  "The420 Cyber News India:https://the420.in/uae-led-global-cyber-fraud-crackdown-operation-confrontation-ghost/",
-  "The420 Cyber News India:https://the420.in/sebi-warns-investors-fake-whatsapp-stock-trading-groups/",
-  "The Register Security:https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848",
-  "The420 Cyber News India:https://the420.in/rhode-island-sues-meta-over-alleged-scam-ads/",
-  "The Hacker News:https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
   "The Hacker News:https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
   "Krebs on Security:https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/divya-mittal-jan-neeti-bharat-403-seats-up-election-2027/",
   "The420 Cyber News India:https://the420.in/fast-ds-2026-foreign-assets-disclosure-scheme/",
   "The420 Cyber News India:https://the420.in/supreme-court-cancels-bengaluru-land-acquisition-fraud/",
-  "The Hacker News:https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html"
+  "The Hacker News:https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+  "Security Affairs:https://securityaffairs.com/201764/malware/researchers-uncover-rentable-android-spyware-ucreater-targeting-wechat-and-telegram.html",
+  "The Hacker News:https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+  "The Register Security:https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+  "The Hacker News:https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets"
 ]
