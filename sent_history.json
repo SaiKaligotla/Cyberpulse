@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-  "The420 Cyber News India:https://the420.in/pwc-cyber-incident-employee-learning-records-everest/",
-  "The420 Cyber News India:https://the420.in/delhi-police-7-36-crore-cyber-fraud-bank-insiders-mule-accounts/",
-  "The Register Security:https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
   "The Hacker News:https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
   "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/firemon-agentic-ai/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/university-of-new-mexico-hospitals-cyberattack/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/cisa-2030-cyber-resilience-strategy/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/threataware-dimension-governed-workspace/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/threataware-dimension-governed-workspace/",
+  "Dark Reading:https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33452",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost"
 ]
