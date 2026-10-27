@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-  "The Hacker News:https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-  "The Hacker News:https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-  "The Hacker News:https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-  "The420 Cyber News India:https://the420.in/hyderabad-nbfc-api-cyberattack-3-crore-fraud/",
-  "The420 Cyber News India:https://the420.in/norway-scammers-target-elderly-forest-gold-scam/",
   "The420 Cyber News India:https://the420.in/digital-arrest-fraud-supreme-court-mha-i4c/",
   "The Hacker News:https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
   "The420 Cyber News India:https://the420.in/infosys-ai-cybersecurity-threats-opportunity-salil-parekh/",
@@ -498,5 +492,11 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33450",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/exeon-expands-threat-detection-to-shadow-ai-and-autonomous-agents/",
   "The Hacker News:https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681",
+  "The Hacker News:https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+  "The Hacker News:https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
+  "PortSwigger Web Security Research:https://portswigger.net/research/scalable-vector-grief",
+  "Cloudflare Security:https://blog.cloudflare.com/php-ctf/"
 ]
