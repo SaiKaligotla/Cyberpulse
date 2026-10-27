@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
-  "Dark Reading:https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-  "The Hacker News:https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
   "The Register Security:https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
   "The Hacker News:https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/i-had-plans-for-that-second/",
-  "The Register Security:https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610"
+  "The Register Security:https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
+  "The420 Cyber News India:https://the420.in/indore-cyber-fraud-mule-account-arrests/",
+  "Dark Reading:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33462",
+  "The Register Security:https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913",
+  "Cloudflare Security:https://blog.cloudflare.com/k-isms/"
 ]
