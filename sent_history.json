@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
-  "The Hacker News:https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-  "The Hacker News:https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
-  "Security Affairs:https://securityaffairs.com/201501/apt/microsoft-links-connectwise-breach-to-china-linked-group-using-ai-pentesting-tool-artex.html",
-  "Dark Reading:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
   "The Register Security:https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
   "Dark Reading:https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
-  "The Register Security:https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840"
+  "The Register Security:https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840",
+  "SecurityWeek:https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+  "The Hacker News:https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+  "The Hacker News:https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+  "The Hacker News:https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/i-had-plans-for-that-second/",
+  "The Register Security:https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610"
 ]
