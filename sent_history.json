@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-  "The Hacker News:https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
-  "SecurityWeek:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
-  "SecurityWeek:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/23/llmjacking-agent-hijacks-exposed-ai-models/",
   "SecurityWeek:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
   "The420 Cyber News India:https://the420.in/sbi-fake-customer-care-number-cyber-fraud-warning/",
   "SecurityWeek:https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/mumbai-fake-doctor-188-crore-csr-fraud-probe/",
   "The Hacker News:https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
   "The Hacker News:https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/microsoft-authenticator-vulnerability-patchedcve-2026-80097/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/microsoft-authenticator-vulnerability-patchedcve-2026-80097/",
+  "The Hacker News:https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+  "SecurityWeek:https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
+  "Security Affairs:https://securityaffairs.com/201810/ai/cohere-finds-qwen-ai-model-contacting-a-server-in-china.html"
 ]
