@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-  "The Register Security:https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
-  "Dark Reading:https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
-  "The Register Security:https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
   "Dark Reading:https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
   "The420 Cyber News India:https://the420.in/rbi-banks-ai-cybersecurity-advisory/",
   "The420 Cyber News India:https://the420.in/keyword-slug-upi-failed-payment-refund-compensation/",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33462",
   "The Register Security:https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913",
-  "Cloudflare Security:https://blog.cloudflare.com/k-isms/"
+  "Cloudflare Security:https://blog.cloudflare.com/k-isms/",
+  "The420 Cyber News India:https://the420.in/ed-arrests-delhi-travel-agent-donkey-route-investigation/",
+  "The420 Cyber News India:https://the420.in/anthropic-ai-security-breaches-training-pause/",
+  "The420 Cyber News India:https://the420.in/delhi-kurti-scam-cyberfraud-network-arrests/",
+  "The420 Cyber News India:https://the420.in/south-korea-artex-ai-hacking-data-theft/",
+  "The420 Cyber News India:https://the420.in/odisha-police-ai-cybercrime-coordination-centre/",
+  "The420 Cyber News India:https://the420.in/telangana-fake-escort-service-cyberfraud-arrest/"
 ]
