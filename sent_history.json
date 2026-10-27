@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/jio-ipo-retail-investors-fully-subscribed-demand/",
-  "The420 Cyber News India:https://the420.in/sebi-proposes-easing-approval-rules-for-stock-exchange-investments/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
   "The Hacker News:https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33458",
-  "Cloudflare Security:https://blog.cloudflare.com/kv-cache-exposure-remediation/"
+  "Cloudflare Security:https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+  "SecurityWeek:https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+  "Security Affairs:https://securityaffairs.com/201786/cyber-crime/ai-generated-fake-bank-calls-and-nfc-app-enabled-e380000-fraud-dutch-police-say.html",
+  "SecurityWeek:https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/26/ai-coding-agents-malware-openai-codex/",
+  "The Hacker News:https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+  "The Register Security:https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854"
 ]
