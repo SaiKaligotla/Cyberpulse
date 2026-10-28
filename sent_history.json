@@ -1,9 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
-  "Security Affairs:https://securityaffairs.com/201626/data-breach/capcom-data-breach-exposes-11-7-million-email-addresses.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33438",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
   "The420 Cyber News India:https://the420.in/claude-mythos-github-malware-incident/",
   "The420 Cyber News India:https://the420.in/india-cyber-tech-brief-24-october-2026-nbfc-fraud-ai-security/",
   "The420 Cyber News India:https://the420.in/sebi-stock-market-rules-overhaul-ai-trading-cybersecurity/",
@@ -498,5 +493,10 @@
   "The Register Security:https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
   "SecurityWeek:https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/tailscale-fixes-tailworm-ssh-flaws/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/doj-ukrainian-ransomware-hacker-sentenced/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/doj-ukrainian-ransomware-hacker-sentenced/",
+  "The Hacker News:https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/upwind-400-million-series-c-funding/",
+  "SecurityWeek:https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+  "SecurityWeek:https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+  "SecurityWeek:https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/"
 ]
