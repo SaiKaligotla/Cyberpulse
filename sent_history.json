@@ -1,7 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/arif-patel-dubai-tax-fraud-fugitive/",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-  "The Hacker News:https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
   "The Hacker News:https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
   "The Register Security:https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
   "Security Affairs:https://securityaffairs.com/201626/data-breach/capcom-data-breach-exposes-11-7-million-email-addresses.html",
@@ -498,5 +495,8 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/fbi-seizure-virtualine-bulletproof-hosting-domain/",
   "The Register Security:https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
   "The Hacker News:https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936"
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936",
+  "SecurityWeek:https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/tailscale-fixes-tailworm-ssh-flaws/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/doj-ukrainian-ransomware-hacker-sentenced/"
 ]
