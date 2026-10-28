@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/201662/hacking/pierluigi-paganini-answers-questions-about-the-php2shell-flaws.html",
-  "The Hacker News:https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
-  "The Hacker News:https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-  "The420 Cyber News India:https://the420.in/ed-advocate-arrest-28000-crore-cyber-fraud/",
-  "The420 Cyber News India:https://the420.in/openai-php-vulnerabilities-ai-cybersecurity/",
   "The420 Cyber News India:https://the420.in/surat-dubai-cyber-fraud-racket-410-crore/",
   "The420 Cyber News India:https://the420.in/rajasthan-police-database-breach-claim-investigation/",
   "The420 Cyber News India:https://the420.in/ed-supreme-court-newsclick-money-laundering-case-2/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/tech-talk/e2e-networks-nvidia-blackwell-ai-computing-india-expansion/",
   "The Register Security:https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
   "The420 Cyber News India:https://the420.in/economic-fraud/pune-saree-shop-owner-alleges-159-crore-embezzlement-gst-misuse/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/github-package-firewall-npm/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/github-package-firewall-npm/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "Security Affairs:https://securityaffairs.com/201960/cyber-crime/hive-and-nefilim-ransomware-affiliate-gets-70-months-in-jail.html",
+  "The Hacker News:https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+  "The Hacker News:https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+  "The Hacker News:https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+  "The Hacker News:https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html"
 ]
