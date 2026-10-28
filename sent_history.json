@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-  "The Register Security:https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100",
-  "The420 Cyber News India:https://the420.in/kangra-online-gaming-racket-busted-birta-police-raid/",
-  "The420 Cyber News India:https://the420.in/blinkit-bhiwandi-warehouse-licence-suspended-fda/",
-  "The420 Cyber News India:https://the420.in/ed-hyderabad-kanakadhara-ventures-bank-fraud/",
-  "The420 Cyber News India:https://the420.in/jk-high-court-postal-receipt-summons/",
   "The420 Cyber News India:https://the420.in/arif-patel-dubai-tax-fraud-fugitive/",
   "Dark Reading:https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
   "The Hacker News:https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/201922/security/u-s-cisa-adds-google-brotli-and-adobe-commerce-and-magento-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
   "SecurityWeek:https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
   "SecurityWeek:https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/sony-network-communications-data-breach-so-net/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/sony-network-communications-data-breach-so-net/",
+  "The Hacker News:https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+  "Security Affairs:https://securityaffairs.com/201928/security/cve-2026-97631-16-year-old-uefi-flaw-threatens-servers.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/fbi-seizure-virtualine-bulletproof-hosting-domain/",
+  "The Register Security:https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
+  "The Hacker News:https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936"
 ]
