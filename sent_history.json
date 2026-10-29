@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33454",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/",
-  "The420 Cyber News India:https://the420.in/mumbai-digital-arrest-fraud-elderly-widow-cyber-police-arrest/",
-  "The420 Cyber News India:https://the420.in/operation-trident-narcotics-crackdown-northeast-india/",
-  "The420 Cyber News India:https://the420.in/cbi-court-bail-rejected-digital-arrest-fraud-money-trail/",
   "The420 Cyber News India:https://the420.in/how-fake-credit-card-kyc-scams-work/",
   "The420 Cyber News India:https://the420.in/nalasopara-fake-investment-call-centre-busted/",
   "The420 Cyber News India:https://the420.in/japan-cyberattacks-customer-compensation-data-breaches/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/ir-trends-q3-2026/"
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/ir-trends-q3-2026/",
+  "The Hacker News:https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+  "The Hacker News:https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+  "The Hacker News:https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+  "The Register Security:https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409",
+  "The Register Security:https://www.theregister.com/security/2026/10/29/shortlist-of-age-checks-for-the-uks-under-16-social-media-ban-is-out-some-adults-will-need-verifying/5306282",
+  "SecurityWeek:https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/"
 ]
