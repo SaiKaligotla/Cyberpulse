@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
-  "The Hacker News:https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
-  "The420 Cyber News India:https://the420.in/nikhil-kamath-ai-bubble-warning-funding-crunch-2027/",
-  "Security Affairs:https://securityaffairs.com/201718/ai/security-affairs-ai-cybersecurity-newsletter-round-5.html",
-  "The Hacker News:https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
   "The Hacker News:https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33454",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
   "The Hacker News:https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-  "The420 Cyber News India:https://the420.in/economic-fraud/bombay-hc-vinayak-shrivastav-clippings-fraud-assets/"
+  "The420 Cyber News India:https://the420.in/economic-fraud/bombay-hc-vinayak-shrivastav-clippings-fraud-assets/",
+  "The420 Cyber News India:https://the420.in/legal/jharkhand-high-court-police-station-cctv-delay/",
+  "SecurityWeek:https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/ir-trends-q3-2026/"
 ]
