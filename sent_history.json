@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/cyber-fraud-account-freeze-legitimate-business-funds-release-framework/",
-  "The Register Security:https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
-  "Dark Reading:https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/compromised-intermediate-certificates/",
-  "The Register Security:https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33456",
   "The420 Cyber News India:https://the420.in/ahmedabad-bca-student-loses-task-scam/",
   "The420 Cyber News India:https://the420.in/claude-ai-bypasses-paywall-georgia-voter-data/",
   "The420 Cyber News India:https://the420.in/government-ai-investor-refund-fraud-detection/",
@@ -498,5 +492,11 @@
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
   "Dark Reading:https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
   "SecurityWeek:https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/"
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
+  "SecurityWeek:https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
+  "SecurityWeek:https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
+  "SecurityWeek:https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
+  "SecurityWeek:https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/"
 ]
