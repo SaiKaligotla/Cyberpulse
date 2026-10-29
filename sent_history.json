@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
-  "The Hacker News:https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-  "The Hacker News:https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-  "The420 Cyber News India:https://the420.in/india-ai-chip-defence-capex-16-lakh-crore/",
-  "The420 Cyber News India:https://the420.in/ramky-infrastructure-rvnl-contract-588-crore/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
   "Krebs on Security:https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
   "The Hacker News:https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/google-gemini-4-carbon-model/",
   "The420 Cyber News India:https://the420.in/cyber-crime/japan-airlines-amadeus-data-breach-customer-records/",
-  "The420 Cyber News India:https://the420.in/corruption/sealed-hospital-bribery-sting-investigation/"
+  "The420 Cyber News India:https://the420.in/corruption/sealed-hospital-bribery-sting-investigation/",
+  "SecurityWeek:https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/oracle-e-business-suite-cve-2026-101767-exploitation/",
+  "The420 Cyber News India:https://the420.in/cyber-crime/task-review-scam-small-payments-losses/",
+  "The420 Cyber News India:https://the420.in/cyber-crime/uk-software-liability-cyber-breaches-ai-security-policy/",
+  "Cloudflare Security:https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+  "The Hacker News:https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html"
 ]
