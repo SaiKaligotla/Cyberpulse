@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
-  "Dark Reading:https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
-  "SecurityWeek:https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerability-catalog",
   "The Hacker News:https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
   "The420 Cyber News India:https://the420.in/tech-talk/polymarket-crypto-breach-wallet-draining-script-debugbear/",
   "The420 Cyber News India:https://the420.in/cyber-crime/tafcop-check-mobile-numbers-registered-name/",
-  "The420 Cyber News India:https://the420.in/legal/fake-degree-racket-19-ayurvedic-doctors-barred-from-medical-practice-in-up/"
+  "The420 Cyber News India:https://the420.in/legal/fake-degree-racket-19-ayurvedic-doctors-barred-from-medical-practice-in-up/",
+  "SecurityWeek:https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
+  "The Register Security:https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+  "The Hacker News:https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+  "The Hacker News:https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian"
 ]
