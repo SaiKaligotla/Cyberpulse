@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
-  "Security Affairs:https://securityaffairs.com/201786/cyber-crime/ai-generated-fake-bank-calls-and-nfc-app-enabled-e380000-fraud-dutch-police-say.html",
-  "SecurityWeek:https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/26/ai-coding-agents-malware-openai-codex/",
-  "The Hacker News:https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
   "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
@@ -498,5 +492,11 @@
   "Cloudflare Security:https://blog.cloudflare.com/emudhra-patching/",
   "The420 Cyber News India:https://the420.in/legal/uk-high-court-rejects-meta-tiktok-and-x-challenge-to-ofcom-data-demands/",
   "The420 Cyber News India:https://the420.in/policy-initiative/centre-forms-six-month-banking-committee-for-viksit-bharat-reforms/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/jamshedpur-online-gaming-cyber-fraud-arrests/"
+  "The420 Cyber News India:https://the420.in/cyber-crime/jamshedpur-online-gaming-cyber-fraud-arrests/",
+  "The420 Cyber News India:https://the420.in/cyber-crime/fbi-seizes-virtualine-domain-as-dutch-police-target-3000-customers/",
+  "The420 Cyber News India:https://the420.in/cyber-crime/malicious-claude-code-extension-reached-cursor-marketplace-exposing-up-to-5000-users/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "The420 Cyber News India:https://the420.in/cyber-crime/japan-reports-260-million-data-exposure-entries-amid-fresh-breaches/",
+  "The420 Cyber News India:https://the420.in/cyber-crime/trezor-warns-cryptobilis-buyers-after-report-of-suspected-hardware-implant/",
+  "The420 Cyber News India:https://the420.in/legal/maharashtra-tax-officials-search-diageos-india-unit-in-scotch-import-probe/"
 ]
