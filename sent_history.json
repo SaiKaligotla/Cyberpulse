@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerability-catalog",
-  "The Hacker News:https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
-  "The Register Security:https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
   "The Hacker News:https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
   "The Hacker News:https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian"
+  "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
+  "The420 Cyber News India:https://the420.in/opinion-research/nearly-2800-internet-facing-gitlab-servers-at-risk-from-critical-zero-day-flaw/",
+  "The Hacker News:https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+  "The Hacker News:https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+  "The420 Cyber News India:https://the420.in/legal/finnish-police-launch-criminal-inquiry-into-google-data-centre-construction-in-muhos/",
+  "The420 Cyber News India:https://the420.in/opinion-research/sanchar-saathi-tafcop-chakshu-ceir-guide/",
+  "The420 Cyber News India:https://the420.in/economic-fraud/high-court-directs-postal-department-to-process-refunds-in-%e2%82%b936-4-lakh-bina-post-office-fraud/"
 ]
