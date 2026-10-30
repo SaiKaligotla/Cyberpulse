@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33458",
-  "Cloudflare Security:https://blog.cloudflare.com/kv-cache-exposure-remediation/",
   "SecurityWeek:https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
   "Security Affairs:https://securityaffairs.com/201786/cyber-crime/ai-generated-fake-bank-calls-and-nfc-app-enabled-e380000-fraud-dutch-police-say.html",
   "SecurityWeek:https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
   "The420 Cyber News India:https://the420.in/legal/finnish-police-launch-criminal-inquiry-into-google-data-centre-construction-in-muhos/",
   "The420 Cyber News India:https://the420.in/opinion-research/sanchar-saathi-tafcop-chakshu-ceir-guide/",
-  "The420 Cyber News India:https://the420.in/economic-fraud/high-court-directs-postal-department-to-process-refunds-in-%e2%82%b936-4-lakh-bina-post-office-fraud/"
+  "The420 Cyber News India:https://the420.in/economic-fraud/high-court-directs-postal-department-to-process-refunds-in-%e2%82%b936-4-lakh-bina-post-office-fraud/",
+  "The420 Cyber News India:https://the420.in/policy-initiative/rbi-seeks-proof-of-cybersecurity-compliance-from-banks-after-recent-hacks/",
+  "The420 Cyber News India:https://the420.in/policy-initiative/trai-proposes-risk-based-ai-rules-for-telecom-operators-seeks-public-comments/",
+  "Cloudflare Security:https://blog.cloudflare.com/emudhra-patching/",
+  "The420 Cyber News India:https://the420.in/legal/uk-high-court-rejects-meta-tiktok-and-x-challenge-to-ofcom-data-demands/",
+  "The420 Cyber News India:https://the420.in/policy-initiative/centre-forms-six-month-banking-committee-for-viksit-bharat-reforms/",
+  "The420 Cyber News India:https://the420.in/cyber-crime/jamshedpur-online-gaming-cyber-fraud-arrests/"
 ]
