@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
-  "SecurityWeek:https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
-  "Security Affairs:https://securityaffairs.com/201795/malware/magento-campaign-infects-953-online-stores-across-five-domains.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
-  "The Register Security:https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
   "Dark Reading:https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
   "The Hacker News:https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
   "Hackaday Security Hacks:https://hackaday.com/2026/10/30/this-week-in-security-broken-embargoes-uefi-overflow-wormable-tailscale-starlink-ad-snooping-and-a-dhs-directory-dump/",
-  "The Register Security:https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186"
+  "The Register Security:https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186",
+  "The420 Cyber News India:https://the420.in/economic-fraud/cbi-raids-target-prayagraj-locations-linked-to-210-crore-rupee-fraud-case/",
+  "The420 Cyber News India:https://the420.in/tech-talk/chrome-extensions-search-hijacking-319-addons-13-million/",
+  "SecurityWeek:https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+  "The420 Cyber News India:https://the420.in/tech-talk/polymarket-crypto-breach-wallet-draining-script-debugbear/",
+  "The420 Cyber News India:https://the420.in/cyber-crime/tafcop-check-mobile-numbers-registered-name/",
+  "The420 Cyber News India:https://the420.in/legal/fake-degree-racket-19-ayurvedic-doctors-barred-from-medical-practice-in-up/"
 ]
