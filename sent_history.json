@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-  "Security Affairs:https://securityaffairs.com/201764/malware/researchers-uncover-rentable-android-spyware-ucreater-targeting-wechat-and-telegram.html",
-  "The Hacker News:https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
-  "The Hacker News:https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
   "The Register Security:https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
   "SecurityWeek:https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
   "Security Affairs:https://securityaffairs.com/201795/malware/magento-campaign-infects-953-online-stores-across-five-domains.html",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/30/shufti-know-your-agent-kya/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456"
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
+  "The420 Cyber News India:https://the420.in/economic-fraud/chandra-proteco-bank-fraud-cbi-directors-prayagraj/",
+  "The420 Cyber News India:https://the420.in/economic-fraud/loan-settlement-offer-turns-fraudulent-as-victim-loses-rs-23-lakh-in-varanasi/",
+  "SecurityWeek:https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
+  "The Hacker News:https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+  "Hackaday Security Hacks:https://hackaday.com/2026/10/30/this-week-in-security-broken-embargoes-uefi-overflow-wormable-tailscale-starlink-ad-snooping-and-a-dhs-directory-dump/",
+  "The Register Security:https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186"
 ]
