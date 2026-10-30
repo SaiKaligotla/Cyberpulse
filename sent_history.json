@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
-  "The Hacker News:https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-  "The Hacker News:https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-  "The Hacker News:https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/i-had-plans-for-that-second/",
-  "The Register Security:https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
   "The420 Cyber News India:https://the420.in/indore-cyber-fraud-mule-account-arrests/",
   "Dark Reading:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
   "Dark Reading:https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
   "The Register Security:https://www.theregister.com/security/2026/10/30/gm-cracks-the-petty-cash-box-for-multistate-driver-tracking-settlement/5306721",
-  "Security Affairs:https://securityaffairs.com/202119/cyber-crime/6-3-billion-stolen-from-binance-in-attack-attributed-to-north-korea.html"
+  "Security Affairs:https://securityaffairs.com/202119/cyber-crime/6-3-billion-stolen-from-binance-in-attack-attributed-to-north-korea.html",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+  "The Register Security:https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+  "The Hacker News:https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+  "Dark Reading:https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+  "The Register Security:https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605"
 ]
