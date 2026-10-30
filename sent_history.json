@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/php-windows-security-update-brotli-vulnerability/",
-  "The420 Cyber News India:https://the420.in/sbi-cybersecurity-centre-dark-web-data-exposure/",
-  "The420 Cyber News India:https://the420.in/gujarat-goa-casino-cyberfraud-network/",
-  "The Register Security:https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-  "Dark Reading:https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
   "The420 Cyber News India:https://the420.in/dpdp-act-2023-personal-data-protection-india/",
   "The420 Cyber News India:https://the420.in/ubs-relocation-threatens-swiss-jobs-capital-rules/",
   "The420 Cyber News India:https://the420.in/indonesia-tightens-stock-market-rules-msci-warning/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/",
   "The Register Security:https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33462",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33458"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33458",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+  "The Register Security:https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+  "Cloudflare Security:https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years"
 ]
