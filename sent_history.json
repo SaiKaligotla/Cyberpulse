@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/indore-cyber-fraud-mule-account-arrests/",
-  "Dark Reading:https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33462",
-  "The Register Security:https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913",
-  "Cloudflare Security:https://blog.cloudflare.com/k-isms/",
   "The420 Cyber News India:https://the420.in/ed-arrests-delhi-travel-agent-donkey-route-investigation/",
   "The420 Cyber News India:https://the420.in/anthropic-ai-security-breaches-training-pause/",
   "The420 Cyber News India:https://the420.in/delhi-kurti-scam-cyberfraud-network-arrests/",
@@ -498,5 +492,11 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
   "The Hacker News:https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
   "Dark Reading:https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-  "The Register Security:https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605"
+  "The Register Security:https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605",
+  "Security Affairs:https://securityaffairs.com/202133/security/u-s-cisa-adds-gitlab-and-cisco-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+  "SecurityWeek:https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/30/syrian-hacker-sentenced-42-months-prison/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/10/30/bedrock-data-ai-assisted-remediation/",
+  "SecurityWeek:https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/"
 ]
