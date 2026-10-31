@@ -1,10 +1,4 @@
 [
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-  "The Hacker News:https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-  "SecurityWeek:https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
-  "Security Affairs:https://securityaffairs.com/201810/ai/cohere-finds-qwen-ai-model-contacting-a-server-in-china.html",
-  "SecurityWeek:https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
   "Security Affairs:https://securityaffairs.com/201840/security/u-s-cisa-adds-php-flaws-php2shell-to-its-known-exploited-vulnerabilities-catalog.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/gheist-github-token-abuse/",
   "The Hacker News:https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/legal/supreme-court-directs-action-against-unauthorised-uploads-of-court-videos/",
   "The420 Cyber News India:https://the420.in/opinion-research/telecom-regulator-releases-draft-guidelines-to-govern-artificial-intelligence-risks/",
   "The420 Cyber News India:https://the420.in/legal/mathura-pocso-court-life-imprisonment-cbi/",
-  "The Hacker News:https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+  "The420 Cyber News India:https://the420.in/tech-talk/ai-matching-flags-22-suspects-in-up-pet-as-3-92-lakh-candidates-skip-exam/",
+  "Security Affairs:https://securityaffairs.com/202162/security/attackers-exploit-critical-drupal-commerce-core-vulnerability-cve-2026-118539.html",
+  "The420 Cyber News India:https://the420.in/legal/multi-crore-synthetic-drug-factory-sealed-in-orai-following-joint-agency-raid/",
+  "The420 Cyber News India:https://the420.in/tech-talk/pnb-releases-46-lakh-rupees-to-100-customers-following-jalalabad-embezzlement-probe/",
+  "The Hacker News:https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33476"
 ]
