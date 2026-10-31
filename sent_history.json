@@ -1,5 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
   "The420 Cyber News India:https://the420.in/supreme-court-up-police-investigation-compensation/",
   "The420 Cyber News India:https://the420.in/microsoft-teams-ai-phishing-detection-conversation-analysis/",
@@ -498,5 +497,6 @@
   "The420 Cyber News India:https://the420.in/cyber-crime/%e2%82%b959000-crore-crypto-heist-rocks-the-world-binance-hit-by-biggest-digital-robbery-in-history/",
   "The Register Security:https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
   "The Register Security:https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33442"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33442",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/"
 ]
