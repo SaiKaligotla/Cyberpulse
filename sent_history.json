@@ -1,6 +1,4 @@
 [
-  "PortSwigger Web Security Research:https://portswigger.net/research/scalable-vector-grief",
-  "Cloudflare Security:https://blog.cloudflare.com/php-ctf/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/27/node2shell-broccoli2shell-vulnerability-cve-2026-111497/",
   "The Hacker News:https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
   "The Hacker News:https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
@@ -498,5 +496,7 @@
   "The Hacker News:https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
   "The Hacker News:https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
   "Security Affairs:https://securityaffairs.com/202175/security/u-s-cisa-adds-ivanti-connect-secure-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681"
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/27/cisa-confirms-php2shell-under-attack-as-researchers-clock-successful-exploits/5305681",
+  "The Hacker News:https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants"
 ]
