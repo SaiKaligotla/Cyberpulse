@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
-  "The Register Security:https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
   "The Hacker News:https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
   "The Register Security:https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/tech-talk/uttar-pradesh-quantum-mission-ai-robotics/",
   "The Hacker News:https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
   "The420 Cyber News India:https://the420.in/cyber-crime/bilaspur-instagram-investment-fraud-66-lakh/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33478"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33478",
+  "The420 Cyber News India:https://the420.in/korvio-coin-fraud-atul-sood-ed-arrest/",
+  "The420 Cyber News India:https://the420.in/uttar-pradesh-quantum-mission-ai-robotics/",
+  "The420 Cyber News India:https://the420.in/recover-money-lost-cyber-fraud-india/",
+  "The420 Cyber News India:https://the420.in/urgent-token-dump-leaves-60000-crore-binance-hacker-with-only-6700/",
+  "The420 Cyber News India:https://the420.in/pnb-office-assistant-booked-for-siphoning-10-24-crore-rupees-from-customer-accounts/",
+  "The420 Cyber News India:https://the420.in/bharatpol-portal-to-transmit-fugitive-gangster-records-to-interpol-in-minutes/"
 ]
