@@ -1,8 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
-  "Security Affairs:https://securityaffairs.com/201867/hacking/italys-parliament-under-cyber-pressure-why-the-attack-on-the-chamber-matters.html",
-  "The Hacker News:https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
   "The Hacker News:https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
   "The Hacker News:https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
   "The Register Security:https://www.theregister.com/security/2026/10/27/microsoft-releases-out-of-band-windows-fixes-with-certificate-updates/5305637",
@@ -498,5 +494,9 @@
   "The420 Cyber News India:https://the420.in/tech-talk/india-social-media-restrictions-takedown-rules/",
   "The420 Cyber News India:https://the420.in/policy-initiative/quad-critical-minerals-cybersecurity-supply-chains/",
   "The420 Cyber News India:https://the420.in/cyber-crime/delhi-fake-loan-scholarship-cyber-fraud/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/hyderabad-mule-bank-account-cyber-fraud/"
+  "The420 Cyber News India:https://the420.in/cyber-crime/hyderabad-mule-bank-account-cyber-fraud/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/27/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "The Hacker News:https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690"
 ]
