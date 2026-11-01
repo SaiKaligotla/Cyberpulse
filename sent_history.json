@@ -1,8 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
-  "The Hacker News:https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
@@ -498,5 +494,9 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/",
   "Dark Reading:https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
   "Dark Reading:https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660"
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660",
+  "The420 Cyber News India:https://the420.in/tech-talk/uttar-pradesh-quantum-mission-ai-robotics/",
+  "The Hacker News:https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+  "The420 Cyber News India:https://the420.in/cyber-crime/bilaspur-instagram-investment-fraud-66-lakh/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33478"
 ]
