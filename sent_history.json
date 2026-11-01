@@ -1,7 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
-  "SecurityWeek:https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
-  "SecurityWeek:https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
   "The Hacker News:https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/swimlane-turbine-platform-capabilities/",
   "The Hacker News:https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/lucknow-police-seize-six-more-sim-boxes-as-digital-arrest-network-probe-widens/",
   "Security Affairs:https://securityaffairs.com/202216/ai/security-affairs-ai-cybersecurity-newsletter-round-6.html",
   "Security Affairs:https://securityaffairs.com/202209/malware/security-affairs-malware-newsletter-round-121.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867"
+  "The Register Security:https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
+  "Security Affairs:https://securityaffairs.com/202221/apt/fbi-blames-north-korea-for-6-billion-binance-crypto-theft.html",
+  "The Hacker News:https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/28/123-reg-discloses-ai-cyberattack-on-customer-data-suspects-china-nexus/5305936"
 ]
