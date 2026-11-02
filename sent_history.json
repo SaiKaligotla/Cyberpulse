@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-  "The420 Cyber News India:https://the420.in/uncategorized/hello-world/",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050",
   "SecurityWeek:https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
   "Security Affairs:https://securityaffairs.com/201947/intelligence/ads-or-surveillance-researchers-flag-suspicious-targeting-of-starlink-users.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/28/compromised-camera-management-software-initial-access/",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/attackers-chain-linux-flaw-with-webshells-to-gain-administrative-control/",
   "The420 Cyber News India:https://the420.in/email-breach-triggers-cybersecurity-overhaul-at-bank-of-baroda-tech-spending-to-cross-10-of-operating-profit/",
   "The Hacker News:https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33480"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33480",
+  "The420 Cyber News India:https://the420.in/binance-reopens-phased-withdrawals-following-massive-rs-59900-crore-crypto-theft/",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+  "The Hacker News:https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html"
 ]
