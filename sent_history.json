@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-  "The Hacker News:https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409",
-  "The Register Security:https://www.theregister.com/security/2026/10/29/shortlist-of-age-checks-for-the-uks-under-16-social-media-ban-is-out-some-adults-will-need-verifying/5306282",
-  "SecurityWeek:https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
-  "The420 Cyber News India:https://the420.in/legal/supreme-court-warns-of-harsher-action-if-firecracker-rules-fail-on-ground/",
   "The Hacker News:https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
   "The420 Cyber News India:https://the420.in/economic-fraud/pnb-suspends-12-employees-over-greater-noida-fraud-and-hands-case-to-cbi/",
   "Security Affairs:https://securityaffairs.com/202050/hacking/u-s-cisa-adds-linux-kernel-and-broadcom-vmware-esx-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924"
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924",
+  "The Register Security:https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086",
+  "The Hacker News:https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/ir-trends-q3-2026/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+  "SecurityWeek:https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/"
 ]
