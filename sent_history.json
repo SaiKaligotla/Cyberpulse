@@ -1,10 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/oracle-e-business-suite-cve-2026-101767-exploitation/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/task-review-scam-small-payments-losses/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/uk-software-liability-cyber-breaches-ai-security-policy/",
-  "Cloudflare Security:https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
-  "The Hacker News:https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-  "The420 Cyber News India:https://the420.in/legal/ed-azam-khan-jauhar-university-assets-money-laundering/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
   "The Hacker News:https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
   "The Hacker News:https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/02/xcpe-botnet-android-backdoor/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/02/xcpe-botnet-android-backdoor/",
+  "The Hacker News:https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+  "The Hacker News:https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+  "The Hacker News:https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/nik-c2-new-ai-enabled-framework/"
 ]
