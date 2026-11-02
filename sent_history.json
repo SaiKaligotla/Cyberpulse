@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/fake-chatgpt-claude-apps-github-yoba-malware-cryptominer/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/ir-trends-q3-2026/",
-  "The Hacker News:https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
   "The Hacker News:https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
   "The Hacker News:https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
   "The Register Security:https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409",
@@ -498,5 +492,11 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33470",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
   "The Register Security:https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
-  "The Register Security:https://www.theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901"
+  "The Register Security:https://www.theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+  "The Hacker News:https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924"
 ]
