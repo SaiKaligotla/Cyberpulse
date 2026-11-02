@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-  "The Hacker News:https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/google-gemini-4-carbon-model/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/japan-airlines-amadeus-data-breach-customer-records/",
-  "The420 Cyber News India:https://the420.in/corruption/sealed-hospital-bribery-sting-investigation/",
-  "SecurityWeek:https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/oracle-e-business-suite-cve-2026-101767-exploitation/",
   "The420 Cyber News India:https://the420.in/cyber-crime/task-review-scam-small-payments-losses/",
   "The420 Cyber News India:https://the420.in/cyber-crime/uk-software-liability-cyber-breaches-ai-security-policy/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/putin-orders-a-new-reserve-for-russias-digital-infrastructure/",
   "The Hacker News:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
   "The Register Security:https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
-  "Security Affairs:https://securityaffairs.com/202281/malware/volta-the-infostealer-that-asks-an-ai-which-victims-are-worth-the-effort.html"
+  "Security Affairs:https://securityaffairs.com/202281/malware/volta-the-infostealer-that-asks-an-ai-which-victims-are-worth-the-effort.html",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045",
+  "The Hacker News:https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+  "The Hacker News:https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+  "The Hacker News:https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+  "The Hacker News:https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/02/xcpe-botnet-android-backdoor/"
 ]
