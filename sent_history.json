@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33468",
-  "The420 Cyber News India:https://the420.in/cyber-crime/cyber-compliance-india-laws-regulations-investigation/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/mumbai-fake-ecommerce-call-centre-fraud/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/law-firm-cyberattacks-ai-crowdstrike-report/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/homeland-security-employee-data-leak/",
-  "The420 Cyber News India:https://the420.in/economic-fraud/pune-online-investment-fraud-14-lakh/",
   "The420 Cyber News India:https://the420.in/cyber-crime/supreme-court-digital-arrest-fraud-bail/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/tls-certificate-automation-report/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/itrc-identity-theft-recovery-report/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
   "The Hacker News:https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
   "The Hacker News:https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889"
+  "The Register Security:https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889",
+  "The420 Cyber News India:https://the420.in/critical-langflow-vulnerabilities-unauthenticated-code-execution/",
+  "The420 Cyber News India:https://the420.in/police-probe-41-electoral-complaints-across-20-andhra-pradesh-districts/",
+  "The420 Cyber News India:https://the420.in/bihar-politics-airfares-nitesh-rane-debate/",
+  "SecurityWeek:https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/",
+  "Security Affairs:https://securityaffairs.com/202260/security/another-fridge-cyberattack-hits-european-supermarkets-this-time-in-belgium-luxembourg-sweden-and-estonia.html",
+  "Security Affairs:https://securityaffairs.com/202248/security/hackers-send-fake-nuclear-threat-alerts-to-ukrainian-and-russian-citizens.html"
 ]
