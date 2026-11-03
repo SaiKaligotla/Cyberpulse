@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
-  "The420 Cyber News India:https://the420.in/legal/up-ats-arrests-kanpur-youth-for-supplying-five-lakh-fake-email-ids-overseas/",
-  "The420 Cyber News India:https://the420.in/policy-initiative/dri-and-ats-bust-illegal-mephedrone-factory-running-under-rose-water-cover-in-jalaun/",
-  "The Register Security:https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
-  "The Register Security:https://www.theregister.com/security/2026/10/26/partner-content-no-login-no-app-code-no-warning-what-next/5305336",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/",
   "SecurityWeek:https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
   "Security Affairs:https://securityaffairs.com/202110/hacking/how-to-prioritize-remediation-after-a-pentest-a-practitioner-workflow.html",
   "The420 Cyber News India:https://the420.in/legal/karnataka-hc-digital-arrest-loan-icici-case/",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
   "SecurityWeek:https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/03/ai-powered-cyberattacks-artex-cyberstrikeai/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/03/ai-powered-cyberattacks-artex-cyberstrikeai/",
+  "The420 Cyber News India:https://the420.in/indias-data-centre-capacity-expected-to-grow-fivefold-by-2030/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/03/novee-external-surface-testing/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/03/assured-data-protection-cleanroom-scan/",
+  "The Hacker News:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+  "Dark Reading:https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
+  "The Register Security:https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200"
 ]
