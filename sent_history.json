@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "Dark Reading:https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
-  "The Register Security:https://www.theregister.com/security/2026/10/30/gm-cracks-the-petty-cash-box-for-multistate-driver-tracking-settlement/5306721",
-  "Security Affairs:https://securityaffairs.com/202119/cyber-crime/6-3-billion-stolen-from-binance-in-attack-attributed-to-north-korea.html",
   "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
   "The Register Security:https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
   "The Register Security:https://www.theregister.com/security/2026/11/03/password-manager-msecure-tells-users-to-change-passwords-wont-say-why/5307296",
   "Cloudflare Security:https://blog.cloudflare.com/zero-wire/",
-  "The Hacker News:https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html"
+  "The Hacker News:https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
+  "The Hacker News:https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+  "Dark Reading:https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
+  "The Hacker News:https://thehackernews.com/2026/10/binance-suffers-security-breach.html"
 ]
