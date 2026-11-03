@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-  "The420 Cyber News India:https://the420.in/economic-fraud/pnb-suspends-12-employees-over-greater-noida-fraud-and-hands-case-to-cbi/",
-  "Security Affairs:https://securityaffairs.com/202050/hacking/u-s-cisa-adds-linux-kernel-and-broadcom-vmware-esx-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/php2shell-fragnesia-vmware-esx-zero-day/",
-  "The Hacker News:https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-  "The420 Cyber News India:https://the420.in/cyber-crime/cisco-says-hackers-exploiting-firewall-flaw-to-crash-ssl-vpn-devices/",
   "The420 Cyber News India:https://the420.in/cyber-crime/adobe-veeam-and-juniper-patch-critical-code-execution-and-security-bypass-flaws/",
   "The420 Cyber News India:https://the420.in/cyber-crime/mistral-releases-large-4-open-weight-ai-model-for-cybersecurity-users/",
   "The420 Cyber News India:https://the420.in/cyber-crime/chinese-ai-model-completes-complex-cyberattacks-in-controlled-tests-researchers-say/",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/ir-trends-q3-2026/",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
-  "SecurityWeek:https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/"
+  "SecurityWeek:https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/",
+  "NCSC UK Alerts (UK):https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion",
+  "SecurityWeek:https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/02/european-supermarkets-refrigeration-units-cyberattacks/",
+  "SecurityWeek:https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next",
+  "The Register Security:https://www.theregister.com/security/2026/10/29/belgiums-tax-agency-confirms-cyberattack-pulls-services-offline/5306409"
 ]
