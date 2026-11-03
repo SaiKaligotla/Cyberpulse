@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
-  "SecurityWeek:https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
-  "SecurityWeek:https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
-  "SecurityWeek:https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
-  "SecurityWeek:https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/canonical-ubuntu-core-desktop/",
   "The Register Security:https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
   "Dark Reading:https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
   "The Hacker News:https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/"
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
+  "The420 Cyber News India:https://the420.in/%e2%82%b94-5-crore-worth-of-md-drugs-seized-from-orai-factory-4-kg-destined-for-kanpur-and-11-kg-for-mumbai/",
+  "The420 Cyber News India:https://the420.in/up-lokayukta-probe-confirms-three-allegations-against-former-brd-medical-college-principal/",
+  "The420 Cyber News India:https://the420.in/audit-uncovers-over-three-crore-rupees-embezzled-across-46-deoria-panchayats/",
+  "The420 Cyber News India:https://the420.in/high-security-plates-fail-to-stop-fraud-as-cloned-vehicle-notice-hits-delhi-resident/",
+  "The420 Cyber News India:https://the420.in/pnb-hands-over-workstation-login-breach-evidence-to-cbi/",
+  "The420 Cyber News India:https://the420.in/fraudsters-target-noida-professor-with-fake-dhofar-university-job-promise/"
 ]
