@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-  "The Register Security:https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
-  "The Hacker News:https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-  "Dark Reading:https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-  "The Register Security:https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605",
   "Security Affairs:https://securityaffairs.com/202133/security/u-s-cisa-adds-gitlab-and-cisco-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
   "SecurityWeek:https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
   "The Hacker News:https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
   "Dark Reading:https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-  "The Hacker News:https://thehackernews.com/2026/10/binance-suffers-security-breach.html"
+  "The Hacker News:https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+  "The Hacker News:https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
+  "Dark Reading:https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
+  "The Register Security:https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+  "The Register Security:https://www.theregister.com/security/2026/10/30/gm-cracks-the-petty-cash-box-for-multistate-driver-tracking-settlement/5306721"
 ]
