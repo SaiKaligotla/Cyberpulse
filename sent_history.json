@@ -1,10 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/volt-typhoon-silent-train-relay-network/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/29/canonical-ubuntu-core-desktop/",
-  "The Register Security:https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33456",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33454",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
   "Dark Reading:https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
   "Security Affairs:https://securityaffairs.com/202089/hacking/binance-investigates-suspicious-crypto-transfers-worth-up-to-5-8-billion.html",
   "Security Affairs:https://securityaffairs.com/202073/hacking/us-probes-suspected-hack-behind-military-base-freezer-failures.html",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/audit-uncovers-over-three-crore-rupees-embezzled-across-46-deoria-panchayats/",
   "The420 Cyber News India:https://the420.in/high-security-plates-fail-to-stop-fraud-as-cloned-vehicle-notice-hits-delhi-resident/",
   "The420 Cyber News India:https://the420.in/pnb-hands-over-workstation-login-breach-evidence-to-cbi/",
-  "The420 Cyber News India:https://the420.in/fraudsters-target-noida-professor-with-fake-dhofar-university-job-promise/"
+  "The420 Cyber News India:https://the420.in/fraudsters-target-noida-professor-with-fake-dhofar-university-job-promise/",
+  "The420 Cyber News India:https://the420.in/doha-based-doctor-couple-defrauded-of-rs-2-99-crore-in-cyber-investment-fraud/",
+  "The Register Security:https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/"
 ]
