@@ -1,5 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33462",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33458",
   "Dark Reading:https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
   "The Register Security:https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
@@ -498,5 +497,6 @@
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33472",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/"
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down"
 ]
