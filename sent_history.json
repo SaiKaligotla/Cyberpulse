@@ -1,8 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33458",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-  "The Register Security:https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
   "Cloudflare Security:https://blog.cloudflare.com/kv-cache-exposure-remediation/",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
@@ -498,5 +494,9 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33472",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down"
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+  "The420 Cyber News India:https://the420.in/world-gold-council-reports-1500-percent-surge-in-indias-unofficial-gold-inflows/",
+  "The420 Cyber News India:https://the420.in/chennai-police-detain-two-under-goondas-act-over-rs-100-crore-financial-fraud/",
+  "The420 Cyber News India:https://the420.in/sebi-fines-four-entities-rs-40-lakh-in-axis-mutual-fund-front-running-matter/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach"
 ]
