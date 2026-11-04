@@ -1,10 +1,4 @@
 [
-  "PortSwigger Web Security Research:https://portswigger.net/research/scalable-vector-grief",
-  "Cloudflare Security:https://blog.cloudflare.com/php-ctf/",
-  "The420 Cyber News India:https://the420.in/legal/legal-action-over-spacex-memphis-ai-turbine-emissions-cleared-to-proceed-by-court/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/suspicious-software-update-phonepe-cyber-fraud/",
-  "The420 Cyber News India:https://the420.in/economic-fraud/hyderabad-car-welfare-fund-fraud-arrests/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/fake-mparivahan-apk-whatsapp-credit-card-fraud/",
   "The420 Cyber News India:https://the420.in/legal/rajasthan-high-court-electronic-evidence-sop/",
   "The420 Cyber News India:https://the420.in/legal/kgmu-prepares-action-against-13-doctors-named-in-stf-conversion-report/",
   "The420 Cyber News India:https://the420.in/economic-fraud/nagpur-builder-property-fraud-ed-raids/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/spacex-selects-qualcomm-to-build-starlink-mobiles-nationwide-5g-network/",
   "The Hacker News:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/04/cycurion-habit/",
-  "The Hacker News:https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html"
+  "The Hacker News:https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+  "Security Affairs:https://securityaffairs.com/202431/hacking/cyberattack-hits-french-blood-banks-as-hackers-target-refrigeration-systems-across-europe.html",
+  "The Register Security:https://www.theregister.com/security/2026/11/04/cyberattack-on-french-plasma-stores-is-enough-to-make-your-blood-boil/5307519",
+  "SecurityWeek:https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+  "SecurityWeek:https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
+  "SecurityWeek:https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
+  "SecurityWeek:https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/"
 ]
