@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
-  "The420 Cyber News India:https://the420.in/tech-talk/north-korea-steals-over-%e2%82%b964000-crore-in-cryptocurrency-to-evade-global-sanctions/",
-  "The420 Cyber News India:https://the420.in/legal/hyderabad-egg-donation-racket-busted-eight-arrested-43-women-rescued-from-four-locations/",
-  "The420 Cyber News India:https://the420.in/legal/delhi-consumer-court-rebukes-union-bank-over-missing-locker-jewellery-worth-%e2%82%b947-lakh/",
-  "The420 Cyber News India:https://the420.in/cyber-crime/florida-warns-4-9-million-after-financial-aid-website-data-breach/",
   "The Hacker News:https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
   "The Hacker News:https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
   "Security Affairs:https://securityaffairs.com/202175/security/u-s-cisa-adds-ivanti-connect-secure-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
   "The Register Security:https://www.theregister.com/security/2026/11/04/us-gov-it-worker-pleads-guilty-to-sending-top-secret-files-to-ethiopia/5307595",
-  "SecurityWeek:https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/"
+  "SecurityWeek:https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
+  "The420 Cyber News India:https://the420.in/cert-in-issues-ai-security-audit-guidelines-sets-four-risk-categories/",
+  "The420 Cyber News India:https://the420.in/us-banking-regulator-issues-first-ai-framework-for-bank-examiners/",
+  "The420 Cyber News India:https://the420.in/cabinet-approves-%e2%82%b94371-crore-scheme-to-modernise-indias-data-systems/",
+  "The420 Cyber News India:https://the420.in/npci-launches-new-ai-and-blockchain-subsidiary-appoints-vishal-kanvaty-ceo/",
+  "The Hacker News:https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+  "The Hacker News:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
 ]
