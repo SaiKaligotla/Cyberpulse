@@ -1,8 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-  "Security Affairs:https://securityaffairs.com/202149/malware/yoba-malware-hides-a-crypto-miner-behind-legitimate-openai-and-anthropic-binaries.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/",
-  "The Register Security:https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33462",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33458",
   "Dark Reading:https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
@@ -498,5 +494,9 @@
   "The Hacker News:https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
   "Dark Reading:https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
   "The Register Security:https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605",
-  "The Register Security:https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539"
+  "The Register Security:https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33472",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/"
 ]
