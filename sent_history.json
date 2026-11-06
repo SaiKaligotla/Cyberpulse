@@ -1,7 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/uat-11473-keydrift/",
-  "SecurityWeek:https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
   "The Hacker News:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
   "The Hacker News:https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
   "The Hacker News:https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/aps-wealth-ventures-promoter-arrested-by-ed-over-rs-89-crore-money-laundering-case/",
   "The420 Cyber News India:https://the420.in/apex-court-declines-to-shift-%e2%82%b9250-crore-tirupati-ghee-adulteration-case/",
   "The Register Security:https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33494"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33494",
+  "The420 Cyber News India:https://the420.in/hyderabad-call-centre-fraud-accused-divyangbhai-raval-reportedly-in-us-custody/",
+  "The420 Cyber News India:https://the420.in/maharashtra-fda-cracks-down-ahead-of-diwali-suspends-326-licences-and-seizes-food-stocks-worth-%e2%82%b944-37-crore/",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/"
 ]
