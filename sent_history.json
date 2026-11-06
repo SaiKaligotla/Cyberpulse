@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
-  "Security Affairs:https://securityaffairs.com/202281/malware/volta-the-infostealer-that-asks-an-ai-which-victims-are-worth-the-effort.html",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045",
-  "The Hacker News:https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-  "The Hacker News:https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-  "The Hacker News:https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
   "The Hacker News:https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/02/xcpe-botnet-android-backdoor/",
   "The Hacker News:https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
   "The Hacker News:https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
   "Security Affairs:https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/white-house-residential-proxy-traffic/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/white-house-residential-proxy-traffic/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/openssh-sshole-cve-2026-123158-exploitation/",
+  "The Hacker News:https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+  "The420 Cyber News India:https://the420.in/x-delhi-police-fake-takedown-orders-court/",
+  "The420 Cyber News India:https://the420.in/cbi-raja-bihari-bank-fraud-arrest/",
+  "The Hacker News:https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+  "SecurityWeek:https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/"
 ]
