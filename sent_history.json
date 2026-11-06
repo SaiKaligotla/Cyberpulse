@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-  "The Register Security:https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139",
-  "Krebs on Security:https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-  "The Hacker News:https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-  "Dark Reading:https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-  "The Hacker News:https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
   "The420 Cyber News India:https://the420.in/%e2%82%b94-5-crore-worth-of-md-drugs-seized-from-orai-factory-4-kg-destined-for-kanpur-and-11-kg-for-mumbai/",
   "The420 Cyber News India:https://the420.in/up-lokayukta-probe-confirms-three-allegations-against-former-brd-medical-college-principal/",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
   "Dark Reading:https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
   "The Register Security:https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097",
-  "SecurityWeek:https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/"
+  "SecurityWeek:https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+  "SecurityWeek:https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
+  "SecurityWeek:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
+  "SecurityWeek:https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/sarajevo-cyber-security-summit-2026/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33484"
 ]
