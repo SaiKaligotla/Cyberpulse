@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
-  "The Register Security:https://www.theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
-  "The Hacker News:https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/11/02/frozen-part-ii-hackers-remotely-defrost-produce-in-euro-supermarkets-again/5306924",
   "The Register Security:https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/centre-plans-%e2%82%b99000-crore-asset-monetisation-in-fy28-for-mtnl-and-bsnl-debt/",
   "The420 Cyber News India:https://the420.in/hyderabad-cyber-police-55-arrests-october-crackdown/",
   "The420 Cyber News India:https://the420.in/kishore-biyani-future-retail-bank-fraud-cbi/",
-  "The420 Cyber News India:https://the420.in/surya-kant-cybercrime-bail-supreme-court/"
+  "The420 Cyber News India:https://the420.in/surya-kant-cybercrime-bail-supreme-court/",
+  "The420 Cyber News India:https://the420.in/ed-attaches-properties-worth-rs-6-77-crore-in-trans-arunachal-highway-compensation-scam/",
+  "The420 Cyber News India:https://the420.in/singapore-court-orders-sale-of-tata-power-subsidiaries-for-%e2%82%b96113-crore-award/",
+  "SecurityWeek:https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+  "Cloudflare Security:https://blog.cloudflare.com/vole-mole/",
+  "The Hacker News:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045"
 ]
