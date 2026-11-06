@@ -1,10 +1,4 @@
 [
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
-  "The420 Cyber News India:https://the420.in/%e2%82%b94-5-crore-worth-of-md-drugs-seized-from-orai-factory-4-kg-destined-for-kanpur-and-11-kg-for-mumbai/",
-  "The420 Cyber News India:https://the420.in/up-lokayukta-probe-confirms-three-allegations-against-former-brd-medical-college-principal/",
-  "The420 Cyber News India:https://the420.in/audit-uncovers-over-three-crore-rupees-embezzled-across-46-deoria-panchayats/",
-  "The420 Cyber News India:https://the420.in/high-security-plates-fail-to-stop-fraud-as-cloned-vehicle-notice-hits-delhi-resident/",
-  "The420 Cyber News India:https://the420.in/pnb-hands-over-workstation-login-breach-evidence-to-cbi/",
   "The420 Cyber News India:https://the420.in/fraudsters-target-noida-professor-with-fake-dhofar-university-job-promise/",
   "The420 Cyber News India:https://the420.in/doha-based-doctor-couple-defrauded-of-rs-2-99-crore-in-cyber-investment-fraud/",
   "The Register Security:https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/sarajevo-cyber-security-summit-2026/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33484"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33484",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "Krebs on Security:https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+  "The Register Security:https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
+  "The Register Security:https://www.theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901"
 ]
