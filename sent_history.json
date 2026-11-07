@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/03/ai-powered-cyberattacks-artex-cyberstrikeai/",
-  "The420 Cyber News India:https://the420.in/indias-data-centre-capacity-expected-to-grow-fivefold-by-2030/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/03/novee-external-surface-testing/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/03/assured-data-protection-cleanroom-scan/",
   "The Hacker News:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
   "Dark Reading:https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
   "The Register Security:https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/chandigarh-cyber-fraud-losses-2026-rti-report/",
   "The420 Cyber News India:https://the420.in/nmc-healthcare-scandal-court-sets-rs-50800-crore-as-baseline-for-founders-financial-liability/",
   "The Hacker News:https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-  "The Hacker News:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html"
+  "The Hacker News:https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+  "The420 Cyber News India:https://the420.in/critical-zero-day-vulnerabilities-found-in-d-link-enterprise-gigabit-switches/",
+  "The420 Cyber News India:https://the420.in/irctc-initiates-legal-action-against-unauthorized-food-delivery-platforms/",
+  "The420 Cyber News India:https://the420.in/fbi-and-us-agencies-warn-of-cyberattacks-on-cold-storage-and-industrial-freezers/",
+  "The420 Cyber News India:https://the420.in/cyberattack-on-french-bank-through-third-party-service-provider-nearly-%e2%82%b912000-crore-transferred-into-cryptocurrency/",
+  "The420 Cyber News India:https://the420.in/philippine-tax-agency-investigates-suspected-data-leak-involving-taxpayer-information/",
+  "The420 Cyber News India:https://the420.in/extreme-networks-potential-sale-acquisition-buyer-interest/"
 ]
