@@ -1,6 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-  "Dark Reading:https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
   "The Hacker News:https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
   "The Hacker News:https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
@@ -498,5 +496,7 @@
   "The Hacker News:https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
   "The Hacker News:https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
   "Dark Reading:https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
-  "The Register Security:https://www.theregister.com/security/2026/11/03/password-manager-msecure-tells-users-to-change-passwords-wont-say-why/5307296"
+  "The Register Security:https://www.theregister.com/security/2026/11/03/password-manager-msecure-tells-users-to-change-passwords-wont-say-why/5307296",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "Cloudflare Security:https://blog.cloudflare.com/zero-wire/"
 ]
