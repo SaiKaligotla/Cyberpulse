@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-  "SecurityWeek:https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
-  "SecurityWeek:https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/",
-  "SecurityWeek:https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/04/cyberattack-hits-french-blood-banks/",
-  "SecurityWeek:https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/04/cpguard-update-supply-chain-compromised/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/04/binance-hack-north-korea-fake-job-interview/",
   "The Hacker News:https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/madhya-pradesh-police-hold-%e2%82%b9100-crore-linked-to-cyber-fraud-cases/",
   "The420 Cyber News India:https://the420.in/jharkhand-police-arrest-cyber-fraud-suspect-over-fake-customer-care-and-apk-scams/",
   "The420 Cyber News India:https://the420.in/maharashtra-fmge-fraud-probe-reaches-suspected-technical-operator-five-held/",
-  "The Hacker News:https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html"
+  "The Hacker News:https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+  "The Hacker News:https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+  "The Hacker News:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+  "The Register Security:https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
+  "The Register Security:https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet"
 ]
