@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
-  "Security Affairs:https://securityaffairs.com/202440/security/two-barracuda-esg-flaws-could-be-combined-for-full-root-access-patches-released.html",
-  "Dark Reading:https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
-  "The420 Cyber News India:https://the420.in/kerala-orders-vigilance-inquiry-into-rs-2-crore-bribery-allegation-against-cec-gyanesh-kumar/",
-  "The420 Cyber News India:https://the420.in/us-sanctions-indian-shipping-network-and-turkish-firm-over-iranian-trade/",
-  "The420 Cyber News India:https://the420.in/cyber-fraudsters-dupe-kolkata-woman-of-rs-1-2-crore-via-fake-portals/",
   "The420 Cyber News India:https://the420.in/rs-842-crore-medical-scam-mastermind-denied-bail-by-rouse-avenue-court/",
   "The420 Cyber News India:https://the420.in/%e2%82%b910-crore-in-alleged-illegal-earnings-1-lakh-liquor-bottles-sold-ed-tightens-noose-around-gurugrams-the-theka/",
   "The420 Cyber News India:https://the420.in/sebi-cancels-registrations-of-karvy-investment-advisory-and-seven-other-entities/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
   "Cloudflare Security:https://blog.cloudflare.com/personal-agents-visibility-control/",
   "Dark Reading:https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security"
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/",
+  "Security Affairs:https://securityaffairs.com/202742/hacking/france-blames-iran-for-the-supermarket-fridge-attacks.html",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33502",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+  "The Register Security:https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434"
 ]
