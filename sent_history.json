@@ -1,10 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/04/cpguard-update-supply-chain-compromised/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/04/binance-hack-north-korea-fake-job-interview/",
-  "The Hacker News:https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33476",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33474",
-  "The Hacker News:https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
   "The Register Security:https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
   "Security Affairs:https://securityaffairs.com/202440/security/two-barracuda-esg-flaws-could-be-combined-for-full-root-access-patches-released.html",
   "Dark Reading:https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
   "The Register Security:https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
   "The Register Security:https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483",
-  "Dark Reading:https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet"
+  "Dark Reading:https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+  "The Hacker News:https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+  "The Hacker News:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+  "Cloudflare Security:https://blog.cloudflare.com/personal-agents-visibility-control/",
+  "Dark Reading:https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security"
 ]
