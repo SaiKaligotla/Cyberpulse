@@ -1,10 +1,4 @@
 [
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
-  "The420 Cyber News India:https://the420.in/ed-400-crore-cyber-fraud-money-laundering-case/",
-  "SecurityWeek:https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-  "The420 Cyber News India:https://the420.in/canara-bank-cyber-fraud-refund-consumer-commission-order/",
-  "The Hacker News:https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-  "The Register Security:https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
   "The Hacker News:https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
   "The Register Security:https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889",
   "The420 Cyber News India:https://the420.in/bareilly-25-crore-cyber-fraud-network-six-arrested/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
   "SecurityWeek:https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
   "The Hacker News:https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-  "SecurityWeek:https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/"
+  "SecurityWeek:https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "The Register Security:https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+  "The Hacker News:https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+  "The Register Security:https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/"
 ]
