@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889",
-  "The420 Cyber News India:https://the420.in/bareilly-25-crore-cyber-fraud-network-six-arrested/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/",
-  "The420 Cyber News India:https://the420.in/meta-muse-voice-ai-animated-avatar-video-chat/",
   "The420 Cyber News India:https://the420.in/google-ai-search-teenager-lawsuit-chromebook-safety/",
   "The420 Cyber News India:https://the420.in/nvidia-ceo-jensen-huang-china-espionage-probe/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
   "The Hacker News:https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
   "The Register Security:https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/"
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+  "The Register Security:https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
+  "Cloudflare Security:https://blog.cloudflare.com/trusted-agent-delegation/",
+  "The Register Security:https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+  "Dark Reading:https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness"
 ]
