@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/05/rubrik-unstructured-data-protection/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
   "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
   "The Hacker News:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
   "The Register Security:https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/slack-ai-reverse-engineering/",
   "The Register Security:https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852"
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+  "The Hacker News:https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+  "The Register Security:https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
+  "The420 Cyber News India:https://the420.in/pannun-lawsuit-moves-ahead-in-us-court-as-indian-officials-named-defendants/",
+  "The Hacker News:https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+  "SecurityWeek:https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
+  "The Hacker News:https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html"
 ]
