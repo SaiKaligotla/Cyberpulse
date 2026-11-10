@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-  "The Hacker News:https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/05/arkose-agent-trust-manager/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/05/box-architect/",
-  "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765",
   "SecurityWeek:https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
   "Security Affairs:https://securityaffairs.com/202473/apt/russian-apt29-targets-mobile-users-with-watering-hole-attacks.html",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/pannun-lawsuit-moves-ahead-in-us-court-as-indian-officials-named-defendants/",
   "The Hacker News:https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
   "SecurityWeek:https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
-  "The Hacker News:https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html"
+  "The Hacker News:https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+  "The420 Cyber News India:https://the420.in/hackers-bypass-xen-orchestra-login-security-to-hijack-enterprise-virtual-machines/",
+  "The420 Cyber News India:https://the420.in/germanys-helsing-to-unveil-military-ai-software-as-european-rival-to-palantir/",
+  "The420 Cyber News India:https://the420.in/banks-face-rising-ai-agent-costs-as-mckinsey-warns-of-growing-financial-burden/",
+  "The420 Cyber News India:https://the420.in/microsoft-urges-trump-administration-to-drop-proposed-ban-on-chinese-ai-data-centre-components/",
+  "The420 Cyber News India:https://the420.in/google-agrees-to-stronger-privacy-safeguards-in-spirit-airlines-data-deal/",
+  "The420 Cyber News India:https://the420.in/yandex-says-nearly-3-of-cloud-customer-data-permanently-lost-after-drone-attacks/"
 ]
