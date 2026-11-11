@@ -1,10 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/sarajevo-cyber-security-summit-2026/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33484",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "Krebs on Security:https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
   "The Register Security:https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss",
   "The Register Security:https://www.theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/druva-agent-recovery/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/orca-security-ai-security/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/orca-security-ai-security/",
+  "The420 Cyber News India:https://the420.in/cyberattack-on-railway-triggers-7-40-lakh-dollars-in-fraudulent-ai-invoices/",
+  "SecurityWeek:https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+  "The420 Cyber News India:https://the420.in/fake-medical-appointment-file-leads-to-rs-6-85-lakh-cyber-fraud-in-agra/",
+  "The420 Cyber News India:https://the420.in/fraudsters-clear-14-fake-cheques-to-steal-rs-68-lakh-from-upnal-account-in-dehradun/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/microsoft-hidden-ai-backdoors-lazarus/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/obsidian-security-runtime-policy-decision-engine/"
 ]
