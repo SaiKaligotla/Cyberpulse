@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-  "The Register Security:https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097",
-  "SecurityWeek:https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-  "SecurityWeek:https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
-  "SecurityWeek:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-  "SecurityWeek:https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/sarajevo-cyber-security-summit-2026/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/cyberattacks-refrigeration-systems-cisa-fbi/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33484",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
   "SecurityWeek:https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
   "The420 Cyber News India:https://the420.in/former-commercial-tax-official-and-middleman-get-32-years-jail-in-forged-challan-scam/",
-  "The420 Cyber News India:https://the420.in/court-orders-fir-against-basic-education-director-and-assistant-in-record-forgery-case/"
+  "The420 Cyber News India:https://the420.in/court-orders-fir-against-basic-education-director-and-assistant-in-record-forgery-case/",
+  "SecurityWeek:https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+  "Security Affairs:https://securityaffairs.com/202839/hacking/microsoft-november-patch-tuesday-one-exploited-outlook-bug-and-30-wormable-flaws.html",
+  "The Hacker News:https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/druva-agent-recovery/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/fingerprint-fraud-score/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/orca-security-ai-security/"
 ]
