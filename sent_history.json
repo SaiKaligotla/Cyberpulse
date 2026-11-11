@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-  "Security Affairs:https://securityaffairs.com/202515/ai/openai-reports-covert-underperformance-in-gpt-6-astra.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/openai-gpt-6-cyber-released/",
-  "The420 Cyber News India:https://the420.in/meta-pixel-health-data-privacy-lawsuit-case/",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia",
-  "The Hacker News:https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
   "The Hacker News:https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
   "Security Affairs:https://securityaffairs.com/202528/security/enisa-warns-of-cyberattacks-targeting-refrigeration-systems-across-europe.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/06/white-house-residential-proxy-traffic/",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33506",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/dreeze-application-revival-33-million-funding/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/cisa-incident-reporting-form-update/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/cisa-incident-reporting-form-update/",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33510",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/irisscon-2026-dublin/",
+  "The Hacker News:https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/windows-settings-backup-default/"
 ]
