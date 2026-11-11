@@ -1,10 +1,4 @@
 [
-  "Cloudflare Security:https://blog.cloudflare.com/vole-mole/",
-  "The Hacker News:https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045",
-  "The Hacker News:https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
-  "The Hacker News:https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
   "The Hacker News:https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
   "The Register Security:https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
   "The Hacker News:https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/iverify-iphone-exploit-kit-attacks-report/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/google-fi-super-network-encryption/",
   "The Hacker News:https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33494"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33494",
+  "The420 Cyber News India:https://the420.in/cisa-mandates-urgent-patches-for-exploited-cisco-and-openwave-security-bugs/",
+  "The420 Cyber News India:https://the420.in/himachal-scholarship-scam-ed-missing-pages/",
+  "The Hacker News:https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/eu-enisa-cybersecurity-report/",
+  "The420 Cyber News India:https://the420.in/pune-digital-arrest-crypto-challan-fraud/",
+  "The420 Cyber News India:https://the420.in/%e2%82%b940-lakh-crore-wiped-out-jensen-huangs-personal-controversy-puts-nvidia-under-global-scrutiny/"
 ]
