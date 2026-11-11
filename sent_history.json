@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-  "The Hacker News:https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
-  "The420 Cyber News India:https://the420.in/rohini-district-police-seize-30000-spurious-gold-flake-cigarettes-following-tip-off/",
-  "The420 Cyber News India:https://the420.in/%e2%82%b912668-crore-liability-nclt-admits-sbi-bankruptcy-petition-against-venugopal-dhoot/",
-  "The420 Cyber News India:https://the420.in/open-jail-scandal-murder-convict-enjoys-thailand-trip-as-fake-attendance-is-recorded/",
   "The420 Cyber News India:https://the420.in/nvidia-ceo-jensen-huang-wealth-loss-tech-stocks/",
   "The420 Cyber News India:https://the420.in/meta-google-tiktok-california-social-media-law-lawsuits/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33482",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/202813/hacking/u-s-cisa-adds-ibm-signalwire-freeswitch-openssh-and-gpustack-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
   "The Hacker News:https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33508",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/"
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
+  "The Hacker News:https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+  "The Hacker News:https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+  "SecurityWeek:https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
+  "SecurityWeek:https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
+  "SecurityWeek:https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+  "SecurityWeek:https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/"
 ]
