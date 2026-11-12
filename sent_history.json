@@ -1,6 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-  "Dark Reading:https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
   "The Register Security:https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
   "Security Affairs:https://securityaffairs.com/202603/ai/one-product-isnt-the-problem-monetizing-an-ai-portfolio-without-confusing-your-customers.html",
   "Security Affairs:https://securityaffairs.com/202607/ai/inside-artex-ai-hacking-tools-exposed-servers-and-south-korean-bank-breaches.html",
@@ -498,5 +496,7 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
   "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
   "The Register Security:https://www.theregister.com/cyber-crime/2026/11/05/norways-aid-agency-pwned-and-all-users-data-is-stolen/5307765",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33490"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33490",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+  "The Register Security:https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-one-already-under-attack/5308946"
 ]
