@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33500",
-  "The420 Cyber News India:https://the420.in/aisa-ai-cybersecurity-warning/",
-  "The420 Cyber News India:https://the420.in/i4c-ai-banking-cyberattacks/",
-  "The420 Cyber News India:https://the420.in/smpp-ceo-cbi-defence-bribery-case/",
-  "The420 Cyber News India:https://the420.in/japan-cybersecurity-data-breach-warning/",
   "The420 Cyber News India:https://the420.in/pune-sim-swap-cyber-fraud/",
   "The Register Security:https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/09/barracuda-msp-cybersecurity-services-expectations-report/",
@@ -498,5 +492,11 @@
   "SecurityWeek:https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/",
   "The420 Cyber News India:https://the420.in/final-call-fcrf-certified-chief-ai-officer-caio-cohort-2-starts-november-14/",
-  "The420 Cyber News India:https://the420.in/chennai-police-bust-illegal-sim-box-network-linked-to-301-cybercrime-complaints/"
+  "The420 Cyber News India:https://the420.in/chennai-police-bust-illegal-sim-box-network-linked-to-301-cybercrime-complaints/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+  "The Hacker News:https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+  "The Hacker News:https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+  "The Hacker News:https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04"
 ]
