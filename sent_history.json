@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/09/product-showcase-malwarebytes-claude-scam-detection/",
-  "The420 Cyber News India:https://the420.in/ed-attaches-assets-worth-rs-10-63-crore-in-jammu-and-kashmir-bank-loan-fraud-case/",
-  "The Hacker News:https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/09/exploited-sonicwall-ssl-vpn-flaw-lets-attackers-bypass-saml-enforced-mfa-cve-2026-19868/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/09/credit-mutuel-arkea-cyberattack-133-million/",
   "The420 Cyber News India:https://the420.in/guwahati-police-arrest-key-accused-from-siliguri-in-rs-11-50-crore-fake-army-supply-scam/",
   "The420 Cyber News India:https://the420.in/allahabad-high-court-orders-up-government-to-pay-over-%e2%82%b915-lakh-for-illegal-vehicle-seizure/",
   "The Hacker News:https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
@@ -498,5 +492,11 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
   "The Hacker News:https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+  "The Register Security:https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+  "Dark Reading:https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+  "The Register Security:https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425",
+  "SecurityWeek:https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+  "The Register Security:https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401",
+  "The Register Security:https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216"
 ]
