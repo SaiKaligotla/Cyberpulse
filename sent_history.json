@@ -1,6 +1,4 @@
 [
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
-  "The Hacker News:https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
   "Dark Reading:https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
   "The420 Cyber News India:https://the420.in/shoppers-warned-against-fraudulent-deals-and-clone-websites/",
@@ -498,5 +496,7 @@
   "The Hacker News:https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
   "The Hacker News:https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/sans-industrial-cybersecurity-survey/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/bots-ai-agent-impersonation/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/bots-ai-agent-impersonation/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/dagster-open-source-cloud-native-data-pipeline-orchestrator/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/sprinto-ai-agent-offboarding/"
 ]
