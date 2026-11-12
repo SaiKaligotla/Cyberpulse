@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
-  "The Hacker News:https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-  "The420 Cyber News India:https://the420.in/whatsapp-india-account-bans-july-september-2026/",
-  "The420 Cyber News India:https://the420.in/raipur-man-russia-telegram-job-detention/",
-  "The420 Cyber News India:https://the420.in/venugopal-dhoot-videocon-bankruptcy-sbi-loan-default/",
-  "Security Affairs:https://securityaffairs.com/202717/malware/fake-github-security-tools-infect-over-2000-pcs-with-malware.html",
   "The Hacker News:https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/09/product-showcase-malwarebytes-claude-scam-detection/",
   "The420 Cyber News India:https://the420.in/ed-attaches-assets-worth-rs-10-63-crore-in-jammu-and-kashmir-bank-loan-fraud-case/",
@@ -498,5 +492,11 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33498",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/picus-autonomous-penetration-testing/",
-  "The Hacker News:https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html"
+  "The Hacker News:https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+  "The Hacker News:https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+  "The Hacker News:https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer"
 ]
