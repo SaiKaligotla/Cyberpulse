@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
-  "The Register Security:https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483",
-  "Dark Reading:https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
-  "The Hacker News:https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-  "The Hacker News:https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
   "Cloudflare Security:https://blog.cloudflare.com/personal-agents-visibility-control/",
   "Dark Reading:https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/kozhikode-operation-cy-hunt-arrests/",
   "The420 Cyber News India:https://the420.in/philippines-cyberattacks-millions-records-exposed/",
   "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-  "SecurityWeek:https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
+  "SecurityWeek:https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+  "The420 Cyber News India:https://the420.in/irctc-unauthorised-ecatering-platforms-fraud-risks/",
+  "The420 Cyber News India:https://the420.in/ed-gurugram-housing-fraud-chargesheet/",
+  "The420 Cyber News India:https://the420.in/microsoft-365-global-outage-server-failure/",
+  "The Hacker News:https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
+  "The Register Security:https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526"
 ]
