@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-  "The420 Cyber News India:https://the420.in/zero-login-vulnerabilities-in-sap-threaten-enterprise-systems-with-remote-takeover/",
-  "The420 Cyber News India:https://the420.in/railway-ordered-to-pay-rs-19700-after-passenger-forced-to-book-flight/",
-  "The420 Cyber News India:https://the420.in/punjab-corruption-probe-expands-as-whatsapp-chats-name-three-ias-and-one-ips-officer/",
-  "The420 Cyber News India:https://the420.in/ed-attaches-rs-18-33-crore-assets-of-kallam-peri-reddy-in-rice-mill-bank-fraud-case/",
-  "The420 Cyber News India:https://the420.in/openai-deploys-control-room-to-halt-errant-ai-models-within-35-seconds/",
   "The420 Cyber News India:https://the420.in/eu-ibm-atos-leonardo-border-system-lawsuit/",
   "The420 Cyber News India:https://the420.in/remus-stealer-gmail-persistent-access-claims/",
   "The420 Cyber News India:https://the420.in/us-warns-citizens-against-visiting-23-conflict-zones-and-unstable-states/",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
   "The Register Security:https://www.theregister.com/security/2026/11/13/crackdown-on-uk-medical-record-snooping-after-staff-reported-sneaking-300-times-this-year/5309421",
   "SecurityWeek:https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
-  "SecurityWeek:https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/"
+  "SecurityWeek:https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "The Hacker News:https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+  "The Hacker News:https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/artex-and-beyond/",
+  "The Register Security:https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/13/apple-secure-exclaves-security-architecture/"
 ]
