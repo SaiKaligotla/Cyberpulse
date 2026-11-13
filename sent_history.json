@@ -1,10 +1,4 @@
 [
-  "Cloudflare Security:https://blog.cloudflare.com/personal-agents-visibility-control/",
-  "Dark Reading:https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/",
-  "Security Affairs:https://securityaffairs.com/202742/hacking/france-blames-iran-for-the-supermarket-fridge-attacks.html",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33502",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
   "The Register Security:https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/microsoft-365-global-outage-server-failure/",
   "The Hacker News:https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
   "Dark Reading:https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
-  "The Register Security:https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526"
+  "The Register Security:https://www.theregister.com/devops/2026/11/13/c26-stumbles-at-finish-line-over-contracts-dispute/5309526",
+  "The420 Cyber News India:https://the420.in/land-grabbing-probe-ed-provisionally-attaches-rs-2-78-crore-properties-of-jailed-former-dcp/",
+  "SecurityWeek:https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+  "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
+  "The420 Cyber News India:https://the420.in/dubai-airports-suspends-spicejet-check-in-services-over-rs-35-85-crore-unpaid-dues/",
+  "The420 Cyber News India:https://the420.in/singapore-ministry-of-home-affairs-bars-alice-huang-from-returning-amid-ongoing-chip-probe/"
 ]
