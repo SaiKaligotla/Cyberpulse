@@ -1,9 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/cisa-incident-reporting-form-update/",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
-  "The Register Security:https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33510",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/irisscon-2026-dublin/",
   "The Hacker News:https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/windows-settings-backup-default/",
   "The420 Cyber News India:https://the420.in/microsoft-november-outlook-zero-day-security-patch/",
@@ -498,5 +493,10 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
   "SecurityWeek:https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
   "Dark Reading:https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
-  "Dark Reading:https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness"
+  "Dark Reading:https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+  "The Register Security:https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
+  "The Register Security:https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883",
+  "The Hacker News:https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+  "The Hacker News:https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33506"
 ]
