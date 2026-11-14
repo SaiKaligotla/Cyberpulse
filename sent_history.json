@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687",
-  "The420 Cyber News India:https://the420.in/iain-kay-ram-altman-email-script/",
-  "SecurityWeek:https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33492",
   "The Hacker News:https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
   "The420 Cyber News India:https://the420.in/mathura-sachin-sharma-fake-ed-arrest/",
   "The420 Cyber News India:https://the420.in/hackers-target-flaws-in-openssh-gpustack-freeswitch-and-ibm-aspera-faspex/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
   "SecurityWeek:https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
-  "The Register Security:https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379"
+  "The Register Security:https://www.theregister.com/security/2026/11/13/brit-police-watchdog-says-cops-use-of-facial-recog-risks-wrongful-arrests/5309379",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/11/10/google-deepmind-melds-humans-and-ai-agents-to-vet-signals-secure-messaging-techniques/5308625",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33504",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+  "The Register Security:https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
+  "The Register Security:https://www.theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security"
 ]
