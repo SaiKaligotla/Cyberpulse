@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
-  "The Hacker News:https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
-  "Security Affairs:https://securityaffairs.com/202788/hacking/ios-sandbox-escape-is-public-and-apple-hasnt-confirmed-a-fix.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/firefox-free-vpn-data/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/x-org-server-vulnerabilities-november-2026/",
   "CISA Advisories (US):https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
   "The420 Cyber News India:https://the420.in/gurugram-police-impound-bike-with-67-unpaid-challans-totalling-rs-4-06-lakh/",
   "The Hacker News:https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
@@ -498,5 +492,11 @@
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
   "The Register Security:https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
   "SecurityWeek:https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
-  "SecurityWeek:https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/"
+  "SecurityWeek:https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+  "The420 Cyber News India:https://the420.in/bill-gates-ai-critical-infrastructure-warning/",
+  "The420 Cyber News India:https://the420.in/open-weight-ai-models-cybersecurity-risks/",
+  "The420 Cyber News India:https://the420.in/legal-dispute-erupts-in-bachchan-family-over-ownership-of-juhu-bungalow-jalsa/",
+  "The420 Cyber News India:https://the420.in/retired-railway-official-under-cbi-scanner-for-%e2%82%b94-crore-loss-in-madurai-division/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33508",
+  "Dark Reading:https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them"
 ]
