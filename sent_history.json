@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/11/10/barracudas-email-security-gateways-bitten-by-make-me-root-vulns/5308883",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
-  "The Register Security:https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946",
-  "Security Affairs:https://securityaffairs.com/202813/hacking/u-s-cisa-adds-ibm-signalwire-freeswitch-openssh-and-gpustack-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
-  "The Hacker News:https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33508",
   "Cisco Talos Threat Intel:https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
   "The Hacker News:https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
   "The Hacker News:https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/fresh-fraud-cases-filed-against-mg-builders-director-and-partners-in-lucknow/",
   "The420 Cyber News India:https://the420.in/north-korean-hackers-stole-over-rs-3500-crore-in-crypto-over-18-months-fbi-warns/",
   "The420 Cyber News India:https://the420.in/cid-to-file-first-paper-leak-chargesheet-against-eight-asos-in-jssc-cgl-case/",
-  "The420 Cyber News India:https://the420.in/super-micro-rejects-client-ties-with-megaspeed-as-us-and-singapore-probes-intensify/"
+  "The420 Cyber News India:https://the420.in/super-micro-rejects-client-ties-with-megaspeed-as-us-and-singapore-probes-intensify/",
+  "The420 Cyber News India:https://the420.in/anthropic-faces-trademark-infringement-lawsuit-over-mythos-ai-model-name/",
+  "The420 Cyber News India:https://the420.in/ola-ccpa-fine-misleading-ride-prompts/",
+  "The420 Cyber News India:https://the420.in/odisha-crime-branch-orders-uber-and-rapido-to-halt-private-bike-taxi-services/",
+  "The420 Cyber News India:https://the420.in/ludhiana-retiree-digital-arrest-fraud-ats/",
+  "Krebs on Security:https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon"
 ]
