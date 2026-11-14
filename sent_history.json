@@ -1,10 +1,4 @@
 [
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-  "The Register Security:https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
-  "Cloudflare Security:https://blog.cloudflare.com/trusted-agent-delegation/",
-  "The Register Security:https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
   "Dark Reading:https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
   "Krebs on Security:https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
   "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
   "The Hacker News:https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+  "Security Affairs:https://securityaffairs.com/203040/hacking/u-s-cisa-adds-check-point-and-unrealircd-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+  "The420 Cyber News India:https://the420.in/jensen-huang-alice-huang-espionage-allegations/",
+  "The420 Cyber News India:https://the420.in/ats-identifies-four-associates-in-network-selling-email-ids-for-bomb-threats/",
+  "The420 Cyber News India:https://the420.in/kanpur-police-book-bogus-firms-and-operators-in-rs-15-40-crore-itc-fraud/",
+  "The Hacker News:https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+  "Dark Reading:https://www.darkreading.com/application-security/ai-reverse-engineering-apps"
 ]
