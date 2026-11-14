@@ -1,10 +1,4 @@
 [
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
-  "The Hacker News:https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-  "The Hacker News:https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-  "SecurityWeek:https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
-  "SecurityWeek:https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
-  "SecurityWeek:https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
   "SecurityWeek:https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
   "The Hacker News:https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/odisha-crime-branch-orders-uber-and-rapido-to-halt-private-bike-taxi-services/",
   "The420 Cyber News India:https://the420.in/ludhiana-retiree-digital-arrest-fraud-ats/",
   "Krebs on Security:https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon"
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+  "The Hacker News:https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+  "The Register Security:https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
+  "SecurityWeek:https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+  "SecurityWeek:https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/"
 ]
