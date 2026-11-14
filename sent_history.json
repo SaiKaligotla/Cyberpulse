@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/10/eset-turla-exchange-malware/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "The Register Security:https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
-  "The Hacker News:https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
   "The Register Security:https://www.theregister.com/networks/2026/11/06/ai-agents-are-a-bane-for-some-website-operators-says-cloudflare/5308022",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/govt-audit-finds-1-82-lakh-railway-staff-misusing-free-food-grain-scheme/",
   "The420 Cyber News India:https://the420.in/indian-railways-weighs-ending-rac-system-following-parliamentary-panel-observations/",
   "The420 Cyber News India:https://the420.in/substandard-promethazine-stock-returned-after-failing-quality-tests-in-three-labs/",
-  "The420 Cyber News India:https://the420.in/racket-planned-to-turn-up-into-mephedrone-hub-after-mumbai-says-kanpur-police/"
+  "The420 Cyber News India:https://the420.in/racket-planned-to-turn-up-into-mephedrone-hub-after-mumbai-says-kanpur-police/",
+  "The420 Cyber News India:https://the420.in/high-court-takes-strict-view-of-slow-police-probes-in-up-seeks-data-under-bnss-section-193/",
+  "The Hacker News:https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+  "The Hacker News:https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+  "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+  "The Hacker News:https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github"
 ]
