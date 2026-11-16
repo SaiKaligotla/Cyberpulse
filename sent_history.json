@@ -1,10 +1,4 @@
 [
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33514",
-  "The420 Cyber News India:https://the420.in/nhai-penalizes-riddhi-siddhi-associates-rs-15-lakh-proposes-one-year-tender-ban/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/wfx-loot-github-actions-secret-stealer/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/stolen-claude-api-keys-remote-controlled-implant/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/aws-ai-agents-built-emulator/",
-  "SecurityWeek:https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
   "The420 Cyber News India:https://the420.in/greater-noida-authority-official-faces-allegations-of-advance-cash-demands-from-contractors/",
   "The Hacker News:https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
   "The Hacker News:https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/hafeez-contractor-nse-mumbai-headquarters-architect-journey/",
   "The Register Security:https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775",
   "SecurityWeek:https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
-  "Security Affairs:https://securityaffairs.com/203250/cyber-warfare-2/cognitive-warfare-the-new-battlefield-is-the-human-mind.html"
+  "Security Affairs:https://securityaffairs.com/203250/cyber-warfare-2/cognitive-warfare-the-new-battlefield-is-the-human-mind.html",
+  "The Hacker News:https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+  "The Hacker News:https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+  "The Hacker News:https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+  "The Hacker News:https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+  "The Register Security:https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094"
 ]
