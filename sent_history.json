@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/nvidia-faces-market-turbulence-following-reports-of-jensen-huang-departure/",
-  "The420 Cyber News India:https://the420.in/europol-operation-endgame-malware-networks-credentials/",
-  "SecurityWeek:https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/",
-  "The420 Cyber News India:https://the420.in/final-call-fcrf-certified-chief-ai-officer-caio-cohort-2-starts-november-14/",
-  "The420 Cyber News India:https://the420.in/chennai-police-bust-illegal-sim-box-network-linked-to-301-cybercrime-complaints/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
   "The Hacker News:https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
   "The Hacker News:https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
   "The Hacker News:https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
   "The Register Security:https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33514"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33514",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+  "Security Affairs:https://securityaffairs.com/203260/hacking/google-gtig-warns-ai-agents-automate-exploits-steal-credentials-and-scale-cybercrime.html",
+  "The Hacker News:https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+  "The Register Security:https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
+  "The Register Security:https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
+  "The Register Security:https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122"
 ]
