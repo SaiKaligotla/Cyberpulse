@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-  "The Hacker News:https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-  "The Hacker News:https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-  "The Hacker News:https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
   "The420 Cyber News India:https://the420.in/ai-companies-recruit-former-intelligence-officers-as-nvidia-crisis-highlights-espionage-risks/",
   "The420 Cyber News India:https://the420.in/large-firms-turn-to-cheaper-open-weight-ai-models-as-spending-exceeds-budgets/",
   "The420 Cyber News India:https://the420.in/costco-eyes-wider-india-technology-expansion-as-ai-and-cybersecurity-investments-grow/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
   "The Register Security:https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
   "The Register Security:https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
-  "The Register Security:https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122"
+  "The Register Security:https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122",
+  "The Register Security:https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280",
+  "SecurityWeek:https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+  "SecurityWeek:https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33512",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience"
 ]
