@@ -1,10 +1,4 @@
 [
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
-  "Security Affairs:https://securityaffairs.com/202880/hacking/ai-pentest-tool-antifox-abused-to-steal-aws-credentials.html",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-  "Dark Reading:https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-  "The Register Security:https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
   "The Register Security:https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704",
   "Microsoft Security Blog:https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/16/cloudflare-kitesurf-open-source/",
   "Dark Reading:https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
-  "Dark Reading:https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack"
+  "Dark Reading:https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+  "The420 Cyber News India:https://the420.in/nvidia-ai-financing-commitments-leadership-change/",
+  "The Hacker News:https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+  "The420 Cyber News India:https://the420.in/ghaziabad-farmer-duped-of-rs-17-70-crore-in-land-deal-case-registered-against-eight/",
+  "The420 Cyber News India:https://the420.in/consumer-commission-orders-lufthansa-to-pay-rs-3-66-lakh-to-bhadohi-exporter-for-lost-bag/",
+  "The420 Cyber News India:https://the420.in/ghaziabad-police-freeze-over-12500-bank-accounts-and-block-24370-numbers-in-cyber-crackdown/",
+  "The420 Cyber News India:https://the420.in/india-ewaste-recyclers-fake-compliance-audit/"
 ]
