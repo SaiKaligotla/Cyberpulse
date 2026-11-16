@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-  "SecurityWeek:https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/rubrik-devops-protection/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/",
-  "The Register Security:https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
   "Dark Reading:https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
   "Dark Reading:https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/delhi-ncr-nbfc-cyber-fraud-cases/",
   "The420 Cyber News India:https://the420.in/ai-child-abuse-material-reports-surge/",
   "The420 Cyber News India:https://the420.in/visakhapatnam-retiree-digital-arrest-scam/",
-  "The420 Cyber News India:https://the420.in/rbi-digital-payment-cybersecurity-rules/"
+  "The420 Cyber News India:https://the420.in/rbi-digital-payment-cybersecurity-rules/",
+  "The420 Cyber News India:https://the420.in/bengaluru-instagram-gift-parcel-scam/",
+  "The420 Cyber News India:https://the420.in/india-dpdp-act-business-data-privacy/",
+  "The420 Cyber News India:https://the420.in/rajkot-farmer-fake-customer-care-fraud/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/16/forescout-ai-models-vulnerability-research/",
+  "Krebs on Security:https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/"
 ]
