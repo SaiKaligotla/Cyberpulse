@@ -1,9 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-  "Security Affairs:https://securityaffairs.com/202869/data-breach/whitearmor-demands-5-million-from-maersk-claims-theft-of-100gb-of-data.html",
-  "Dark Reading:https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-  "The Register Security:https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
   "Security Affairs:https://securityaffairs.com/202880/hacking/ai-pentest-tool-antifox-abused-to-steal-aws-credentials.html",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
@@ -498,5 +493,10 @@
   "The420 Cyber News India:https://the420.in/smart-class-firm-duped-of-rs-74-lakh-via-fake-purchase-order-in-noida/",
   "The420 Cyber News India:https://the420.in/ballia-sub-inspector-dies-by-suicide-amid-blackmail-allegations-woman-arrested/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/16/google-project-zero-disclosure-policy/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/16/product-showcase-eset-mobile-security-ios/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/16/product-showcase-eset-mobile-security-ios/",
+  "The420 Cyber News India:https://the420.in/intel-amd-desktop-cpu-market-share/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/16/cloudflare-kitesurf-open-source/",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
+  "Dark Reading:https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack"
 ]
