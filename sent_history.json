@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/13/fbi-north-korean-fake-zoom-calls/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/13/north-korean-it-workers-onboarding/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/13/ibm-digital-sovereignty-challenges-report/",
   "SecurityWeek:https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
   "The420 Cyber News India:https://the420.in/odisha-revenue-official-fund-fraud/",
   "The420 Cyber News India:https://the420.in/kozhikode-operation-cy-hunt-arrests/",
@@ -498,5 +492,11 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33524",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/17/cybersecurity-jobs-available-right-now-november-17-2026/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33516",
-  "Dark Reading:https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time"
+  "Dark Reading:https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+  "SecurityWeek:https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
+  "Security Affairs:https://securityaffairs.com/203289/malware/optimjack-bbc-cnn-and-zoom-among-targets-of-optimizely-script-hijacking.html",
+  "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33518",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33526",
+  "The Hacker News:https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html"
 ]
