@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
-  "The Register Security:https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
-  "Dark Reading:https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-  "The Register Security:https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425",
-  "SecurityWeek:https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
   "The Register Security:https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401",
   "The Register Security:https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/data-entry-operator-arrested-in-rs-5-61-crore-panchkula-civil-hospital-fraud/",
   "The420 Cyber News India:https://the420.in/rs-7-crore-job-fraud-accused-claims-torture-police-cite-cctv-footage/",
   "The420 Cyber News India:https://the420.in/publisher-r-mohan-arrested-in-tamil-nadu-library-book-procurement-scam/",
-  "The Hacker News:https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html"
+  "The Hacker News:https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+  "The420 Cyber News India:https://the420.in/dri-searches-cipla-office-in-mumbai-and-bhiwandi-depot-over-imported-drug-duty-claims/",
+  "The420 Cyber News India:https://the420.in/three-bogus-storage-licences-for-60000-cubic-metres-created-on-up-mining-portal-in-meerut/",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
+  "The Hacker News:https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+  "The Hacker News:https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/"
 ]
