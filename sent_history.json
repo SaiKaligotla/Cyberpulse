@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33500",
-  "The Hacker News:https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-  "Security Affairs:https://securityaffairs.com/202941/security/the-school-bomb-threats-came-from-accounts-already-in-stolen-data.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/13/fake-zillow-clickfix-netsupport-rat/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/13/google-smart-glasses-privacy-protections/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/13/postgresql-security-update-november-2026/",
   "The420 Cyber News India:https://the420.in/bomb-threats-target-3778-italian-schools-for-second-consecutive-day/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33516",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
   "The420 Cyber News India:https://the420.in/jpmorgan-outage-software-bug-confirmed/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/17/palo-alto-networks-ai-cloud-security-risks-report/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox"
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/17/anthropic-vulnerability-disclosure-days/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/17/cybersecurity-seed-funding-deals/",
+  "The Register Security:https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+  "The Hacker News:https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+  "The Register Security:https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/17/microsoft-windows-autopatch-controls/"
 ]
