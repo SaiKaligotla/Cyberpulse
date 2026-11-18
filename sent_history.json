@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-  "The Hacker News:https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-  "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-  "The Hacker News:https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-  "Security Affairs:https://securityaffairs.com/203040/hacking/u-s-cisa-adds-check-point-and-unrealircd-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
   "The420 Cyber News India:https://the420.in/jensen-huang-alice-huang-espionage-allegations/",
   "The420 Cyber News India:https://the420.in/ats-identifies-four-associates-in-network-selling-email-ids-for-bomb-threats/",
   "The420 Cyber News India:https://the420.in/kanpur-police-book-bogus-firms-and-operators-in-rs-15-40-crore-itc-fraud/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/18/ubuntu-ai-security-patches-edge-archive/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/18/nicola-fox-hamilton-victim-blaming-scams-phishing/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/18/christian-schwalbe-deutsche-telekom-iot-security/",
-  "The Register Security:https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401"
+  "The Register Security:https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401",
+  "The Hacker News:https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+  "The Hacker News:https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+  "Security Affairs:https://securityaffairs.com/203377/hacking/u-s-cisa-adds-perforce-puppet-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
+  "The420 Cyber News India:https://the420.in/rbi-nbfc-registration-cancellation-licence-surrender/",
+  "The420 Cyber News India:https://the420.in/telugu-actress-loses-rs-4-14-lakh-in-online-flight-ticket-fraud-in-hyderabad/",
+  "The420 Cyber News India:https://the420.in/cyber-police-bust-gang-cheating-policyholders-with-fake-loan-offers/"
 ]
