@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-  "The Hacker News:https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-  "The Hacker News:https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
-  "The Register Security:https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
-  "The420 Cyber News India:https://the420.in/iaf-chief-flags-cyber-espionage-and-insider-threats-to-indias-defence-establishment/",
   "The420 Cyber News India:https://the420.in/us-hyperscale-data-centres-emit-as-much-carbon-as-denmark-annually-study-finds/",
   "The420 Cyber News India:https://the420.in/google-warns-fully-autonomous-ai-cyberattacks-could-emerge-within-six-months/",
   "The420 Cyber News India:https://the420.in/jordan-and-iraq-announce-telegram-restrictions-over-extremism-and-illegal-content/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/up-police-inks-three-agreements-to-modernize-digital-policing-forensics-and-citizen-services/",
   "The Hacker News:https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
   "The420 Cyber News India:https://the420.in/gold-adulteration-scam-gjc-bis-warning/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/",
+  "The420 Cyber News India:https://the420.in/ias-shikhar-agrawal-villa-corruption-probe/",
+  "The420 Cyber News India:https://the420.in/delhi-high-court-aadhaar-birth-proof/",
+  "The420 Cyber News India:https://the420.in/pune-investment-fraud-three-accused-booked/",
+  "The Hacker News:https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+  "The Hacker News:https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+  "The Register Security:https://www.theregister.com/security/2026/11/16/partner-content-has-ais-black-october-changed-the-way-you-secure-your-code/5309775"
 ]
