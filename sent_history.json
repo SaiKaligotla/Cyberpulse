@@ -1,6 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-  "SecurityWeek:https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
   "Security Affairs:https://securityaffairs.com/203230/hacking/from-report-to-tested-detection-in-hours-the-artex-signature-pack.html",
   "SecurityWeek:https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
   "SecurityWeek:https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
@@ -498,5 +496,7 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/rubrik-configuration-resilience-for-microsoft-365/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/bitwarden-windows-macos-passkeys-integration/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33520",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33496"
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33496",
+  "The Register Security:https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+  "The Register Security:https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186"
 ]
