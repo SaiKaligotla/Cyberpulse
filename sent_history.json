@@ -1,7 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/203230/hacking/from-report-to-tested-detection-in-hours-the-artex-signature-pack.html",
-  "SecurityWeek:https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
-  "SecurityWeek:https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
   "The420 Cyber News India:https://the420.in/former-kpsc-chairman-and-ias-officer-charged-in-veterinary-officer-exam-paper-leak/",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33522",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/16/ai-powered-infostealer-marketplace-victim-profiles/",
@@ -498,5 +495,8 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33520",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33496",
   "The Register Security:https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
-  "The Register Security:https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186"
+  "The Register Security:https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
+  "Cloudflare Security:https://blog.cloudflare.com/nginx2root/",
+  "The420 Cyber News India:https://the420.in/up-government-issues-order-to-reinstate-1992-batch-ips-officer-jasvir-singh/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33538"
 ]
