@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-  "The Hacker News:https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
-  "The Hacker News:https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
   "Security Affairs:https://securityaffairs.com/203272/security/u-s-banks-struggle-with-outages-amid-wider-technology-disruptions.html",
   "The Register Security:https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-one-already-under-attack/5308946",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/",
   "The420 Cyber News India:https://the420.in/two-real-estate-brokers-accused-of-duping-ahmedabad-businessman-of-rs-4-50-crore/",
   "The420 Cyber News India:https://the420.in/amazon-fire-tv-cube-rooting-privacy-tracking/",
-  "The Hacker News:https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html"
+  "The Hacker News:https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+  "The420 Cyber News India:https://the420.in/ed-online-investment-fraud-money-laundering-chargesheet/",
+  "Security Affairs:https://securityaffairs.com/203598/hacking/hackers-exploit-cisco-expressway-flaw-cve-2026-76466-to-breach-russian-organization.html",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
+  "The Register Security:https://www.theregister.com/security/2026/11/20/uk-government-cant-keep-its-encryption-busting-order-to-apple-a-secret-tribunal-rules/5311292",
+  "The Register Security:https://www.theregister.com/security/2026/11/20/windows-11-passkey-bug-cries-failure-after-successful-sign-in/5311263"
 ]
