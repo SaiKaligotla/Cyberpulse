@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-  "The Hacker News:https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-  "The Hacker News:https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33514",
-  "Dark Reading:https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
   "Security Affairs:https://securityaffairs.com/203260/hacking/google-gtig-warns-ai-agents-automate-exploits-steal-credentials-and-scale-cybercrime.html",
   "The Hacker News:https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
   "The Register Security:https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/bank-compensation-flight-cancellation-cyber-fraud/",
   "The420 Cyber News India:https://the420.in/sec-crypto-investment-fraud-eight-firms/",
   "The420 Cyber News India:https://the420.in/bank-airline-tech-outages-phishing-scams/",
-  "The420 Cyber News India:https://the420.in/regulatory-row-over-old-monk-labeling-and-composition-halts-sales-in-maharashtra/"
+  "The420 Cyber News India:https://the420.in/regulatory-row-over-old-monk-labeling-and-composition-halts-sales-in-maharashtra/",
+  "SecurityWeek:https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
+  "The420 Cyber News India:https://the420.in/arizona-launches-criminal-probe-into-openai-over-rogue-ai-agents-targeting-banking-systems/",
+  "The420 Cyber News India:https://the420.in/muzaffarnagar-police-arrest-three-in-cambodia-linked-cyber-fraud-ring-using-3648-sim-cards/",
+  "The420 Cyber News India:https://the420.in/dgca-issues-show-cause-notice-to-spicejet-over-flight-delays-grounded-fleet/",
+  "The Register Security:https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models"
 ]
