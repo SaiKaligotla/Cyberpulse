@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
-  "SecurityWeek:https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33512",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
   "The Hacker News:https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
   "The Hacker News:https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
   "The Hacker News:https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
   "The420 Cyber News India:https://the420.in/telangana-police-arrest-nine-in-%e2%82%b974-lakh-online-investment-scam-using-mule-bank-accounts/",
-  "The420 Cyber News India:https://the420.in/br-shettys-%e2%82%b91-44-lakh-crore-lawsuit-bank-of-baroda-agrees-to-safeguard-relevant-documents/"
+  "The420 Cyber News India:https://the420.in/br-shettys-%e2%82%b91-44-lakh-crore-lawsuit-bank-of-baroda-agrees-to-safeguard-relevant-documents/",
+  "The420 Cyber News India:https://the420.in/ed-nagpur-sand-mining-fraud-attachment/",
+  "The Hacker News:https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/",
+  "The420 Cyber News India:https://the420.in/two-real-estate-brokers-accused-of-duping-ahmedabad-businessman-of-rs-4-50-crore/",
+  "The420 Cyber News India:https://the420.in/amazon-fire-tv-cube-rooting-privacy-tracking/",
+  "The Hacker News:https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html"
 ]
