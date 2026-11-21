@@ -1,8 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
-  "The Hacker News:https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-  "Dark Reading:https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-  "The Register Security:https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574",
   "The Hacker News:https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
   "Cloudflare Security:https://blog.cloudflare.com/quad9-withdrawal-from-france/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
@@ -498,5 +494,9 @@
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+  "Security Affairs:https://securityaffairs.com/203639/security/u-s-cisa-adds-cisco-expressway-sap-netweaver-broadcom-vmware-vcenter-and-apache-roller-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+  "The420 Cyber News India:https://the420.in/moengage-confirms-october-cyber-breach-zebpay-user-data-compromised/",
+  "The Hacker News:https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07"
 ]
