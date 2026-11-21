@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-  "Cloudflare Security:https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-  "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-  "The Hacker News:https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197",
   "SecurityWeek:https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
   "Security Affairs:https://securityaffairs.com/203324/security/fridge-controller-attacks-researchers-find-six-zero-days-in-an-hour.html",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/203639/security/u-s-cisa-adds-cisco-expressway-sap-netweaver-broadcom-vmware-vcenter-and-apache-roller-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
   "The420 Cyber News India:https://the420.in/moengage-confirms-october-cyber-breach-zebpay-user-data-compromised/",
   "The Hacker News:https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+  "The420 Cyber News India:https://the420.in/google-announces-%e2%82%b946-crore-ai-research-funding-for-iit-kharagpur-to-boost-innovation/",
+  "The420 Cyber News India:https://the420.in/ai-hackers-are-finding-security-flaws-faster-than-indian-banks-can-fix-them/",
+  "Security Affairs:https://securityaffairs.com/203664/ai/cairn-ai-framework-used-in-autonomous-zero-day-exploitation.html",
+  "The420 Cyber News India:https://the420.in/senior-assistant-arrested-in-odisha-over-rs-1-23-crore-forest-department-fund-embezzlement/",
+  "The420 Cyber News India:https://the420.in/principal-accountant-general-to-scrutinize-lda-map-approvals-and-compounding-from-2022-to-2026/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02"
 ]
