@@ -1,10 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-  "The Hacker News:https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
-  "Security Affairs:https://securityaffairs.com/203354/security/apple-outages-add-to-growing-concerns-over-technology-service-disruptions.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
-  "The Register Security:https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402",
   "Security Affairs:https://securityaffairs.com/203339/data-breach/fireworks-ai-breach-exposes-uber-data-and-highlights-supply-chain-risks.html",
   "The420 Cyber News India:https://the420.in/deloitte-sues-former-contractor-in-us-court-over-alleged-theft-of-ai-trade-secrets/",
   "The420 Cyber News India:https://the420.in/pimpri-chinchwad-police-bust-syndicate-supplying-12000-indian-sim-cards-to-dubai-cyber-fraudsters/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/fatehabad-police-bust-cyber-fraud-network-seize-56-atm-cards-and-arrest-suspect/",
   "The420 Cyber News India:https://the420.in/gurugram-police-arrest-bank-account-middleman-in-%e2%82%b934-lakh-online-investment-fraud/",
   "The Hacker News:https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-  "The Hacker News:https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html"
+  "The Hacker News:https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+  "The Register Security:https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
+  "Security Affairs:https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html",
+  "Dark Reading:https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check"
 ]
