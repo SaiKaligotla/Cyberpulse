@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-  "Security Affairs:https://securityaffairs.com/203324/security/fridge-controller-attacks-researchers-find-six-zero-days-in-an-hour.html",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
-  "The Register Security:https://www.theregister.com/security/2026/11/13/quantum-systems-drones-back-in-the-air-after-malware-scare/5309658",
-  "The Hacker News:https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
   "Dark Reading:https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/203664/ai/cairn-ai-framework-used-in-autonomous-zero-day-exploitation.html",
   "The420 Cyber News India:https://the420.in/senior-assistant-arrested-in-odisha-over-rs-1-23-crore-forest-department-fund-embezzlement/",
   "The420 Cyber News India:https://the420.in/principal-accountant-general-to-scrutinize-lda-map-approvals-and-compounding-from-2022-to-2026/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+  "The420 Cyber News India:https://the420.in/deoghar-police-arrest-seven-in-cyber-fraud-racket-using-fake-customer-care-calls/",
+  "The420 Cyber News India:https://the420.in/ahmedabad-email-hacking-case-exposes-seven-bank-accounts-used-in-cyber-fraud/",
+  "Cloudflare Security:https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+  "Dark Reading:https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+  "The Register Security:https://www.theregister.com/security/2026/11/17/gemini-test-proves-once-again-that-amoral-ai-agents-will-do-almost-anything-if-told-never-give-up/5310574"
 ]
