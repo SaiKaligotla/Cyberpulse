@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/203440/hacking/nginx2rootai-discovers-five-critical-nginx-flaws-and-a-path-to-root.html",
-  "The Hacker News:https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-  "SecurityWeek:https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
-  "SecurityWeek:https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-  "The420 Cyber News India:https://the420.in/payu-cloud-server-breach-cyber-fraud/",
-  "The420 Cyber News India:https://the420.in/143951-2/",
   "Security Affairs:https://securityaffairs.com/203472/security/php-warns-of-critical-flaws-ahead-of-november-security-release.html",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/backbox-linux-10-penetration-testing/",
   "The420 Cyber News India:https://the420.in/chanda-kochhar-rbi-prosecution-sanction-ruling/",
@@ -498,5 +492,11 @@
   "The Hacker News:https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
   "The Hacker News:https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-  "The Hacker News:https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
+  "The Hacker News:https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+  "The Register Security:https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
+  "The Register Security:https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
+  "The Register Security:https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+  "The Register Security:https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629",
+  "Security Affairs:https://securityaffairs.com/203851/data-breach/cleverbridge-confirms-attackers-copied-payment-card-data-from-its-platform.html",
+  "The Register Security:https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458"
 ]
