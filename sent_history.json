@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/tina-ambani-lookout-circular-court-plea/",
-  "SecurityWeek:https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-  "The420 Cyber News India:https://the420.in/woman-loses-rs-90-lakh-in-bollywood-casting-fraud-in-ghaziabad/",
-  "The420 Cyber News India:https://the420.in/cybercriminals-target-gta-6-players-with-fake-download-and-discount-key-scams/",
-  "The420 Cyber News India:https://the420.in/former-mla-shahnawaz-rana-and-two-sons-booked-in-%e2%82%b975-lakh-scrap-fraud-case/",
-  "The420 Cyber News India:https://the420.in/dubai-linked-cyber-fraud-sim-racket/",
   "Security Affairs:https://securityaffairs.com/203440/hacking/nginx2rootai-discovers-five-critical-nginx-flaws-and-a-path-to-root.html",
   "The Hacker News:https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
   "SecurityWeek:https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/uk-retailer-next-reports-cyberattack-at-online-supplier-says-customer-data-remains-safe/",
   "The420 Cyber News India:https://the420.in/laliga-confirms-cyberattack-as-hackers-steal-personal-data-of-football-fans/",
   "The420 Cyber News India:https://the420.in/eu-academy-shut-down-after-ai-assisted-cyberattack-exposes-users-personal-data/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors"
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
+  "SecurityWeek:https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+  "The Hacker News:https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+  "The Hacker News:https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+  "Dark Reading:https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+  "The Hacker News:https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
 ]
