@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/203472/security/php-warns-of-critical-flaws-ahead-of-november-security-release.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/backbox-linux-10-penetration-testing/",
-  "The420 Cyber News India:https://the420.in/chanda-kochhar-rbi-prosecution-sanction-ruling/",
-  "The420 Cyber News India:https://the420.in/himachal-fake-medicine-manufacturing-racket/",
-  "The420 Cyber News India:https://the420.in/cid-arrests-50-year-old-man-in-%e2%82%b97-crore-government-job-fraud-in-guntur/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/ukraine-ransomware-gang-arrests-fake-it-support-calls/",
   "The420 Cyber News India:https://the420.in/ed-files-prosecution-complaint-against-former-odisha-accounts-officer-in-rs-8-93-crore-asset-case/",
   "The420 Cyber News India:https://the420.in/microsoft-ai-python-package-compromised-with-azure-and-github-credential-stealer/",
   "The Hacker News:https://thehackernews.com/2026/11/everything-is-web-application-including.html",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
   "The Register Security:https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629",
   "Security Affairs:https://securityaffairs.com/203851/data-breach/cleverbridge-confirms-attackers-copied-payment-card-data-from-its-platform.html",
-  "The Register Security:https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458"
+  "The Register Security:https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458",
+  "The Hacker News:https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
+  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573",
+  "SecurityWeek:https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
+  "SecurityWeek:https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
+  "Security Affairs:https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html"
 ]
