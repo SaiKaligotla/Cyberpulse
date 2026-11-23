@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-  "The420 Cyber News India:https://the420.in/rbi-api-security-advisory-banks-nbfcs/",
-  "The420 Cyber News India:https://the420.in/thane-digital-arrest-fraud-recovery/",
-  "The420 Cyber News India:https://the420.in/ukrainian-influencer-oleksandr-slobozhenko-arrested-in-italy-over-%e2%82%b946-crore-tax-evasion-case/",
-  "The420 Cyber News India:https://the420.in/google-removes-19372-pro-government-youtube-channels-linked-to-indonesia/",
-  "The420 Cyber News India:https://the420.in/majholi-warehouse-loan-fraud-accused-arrested/",
   "The420 Cyber News India:https://the420.in/rbi-tightens-api-security-rules-for-banks-and-nbfcs-amid-cyberattack-risks/",
   "The420 Cyber News India:https://the420.in/delhi-navy-veteran-grandson-banking-fraud/",
   "The420 Cyber News India:https://the420.in/shoaib-akhtar-admits-pakistan-used-bottle-caps-for-ball-tampering-in-england/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/cbi-ashish-kumar-kazakhstan-murder-case-deportation/",
   "SecurityWeek:https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/23/cairn-ai-agents-autonomous-attacks/",
-  "The Register Security:https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887"
+  "The Register Security:https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+  "The420 Cyber News India:https://the420.in/virginia-and-oregon-sue-spacex-over-explicit-deepfakes-linked-to-grok-ai/",
+  "SecurityWeek:https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+  "SecurityWeek:https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/23/gl-inet-cloud-compromise-malware-backdoors/",
+  "The Hacker News:https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+  "The Hacker News:https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
 ]
