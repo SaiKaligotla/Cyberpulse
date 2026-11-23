@@ -1,10 +1,4 @@
 [
-  "The420 Cyber News India:https://the420.in/ed-files-prosecution-complaint-against-former-odisha-accounts-officer-in-rs-8-93-crore-asset-case/",
-  "The420 Cyber News India:https://the420.in/microsoft-ai-python-package-compromised-with-azure-and-github-credential-stealer/",
-  "The Hacker News:https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-  "SecurityWeek:https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-  "The420 Cyber News India:https://the420.in/deutsche-bank-epstein-suspicious-payments-leak/",
-  "The420 Cyber News India:https://the420.in/abu-dhabi-court-orders-freeze-on-rs-60775-crore-crypto-assets-linked-to-binance-hack/",
   "The420 Cyber News India:https://the420.in/bihar-stf-uncovers-rs-88-52-crore-betting-network-run-on-lines-of-mahadev-app/",
   "The420 Cyber News India:https://the420.in/varanasi-police-book-four-in-interstate-fake-drug-supply-network/",
   "The420 Cyber News India:https://the420.in/global-credit-card-theft-windows-vulnerability/",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573",
   "SecurityWeek:https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
   "SecurityWeek:https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
-  "Security Affairs:https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html"
+  "Security Affairs:https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "Dark Reading:https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+  "The Register Security:https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+  "PortSwigger Web Security Research:https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/23/crowdstrike-zscaler-43-9-billion-acquisition/",
+  "The Register Security:https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363"
 ]
