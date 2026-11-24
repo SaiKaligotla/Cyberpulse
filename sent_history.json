@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-  "The Hacker News:https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
-  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
-  "The Register Security:https://www.theregister.com/security/2026/11/19/cyberattack-on-service-provider-exposes-payee-data-at-40-irish-credit-unions/5310979",
-  "SecurityWeek:https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
   "Dark Reading:https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
   "The Register Security:https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/us-iran-russia-ships-cyberattacks/",
   "The420 Cyber News India:https://the420.in/cbi-cgst-officers-bribery-arrest/",
   "The Register Security:https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/24/passwork-enterprise-password-management/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/24/passwork-enterprise-password-management/",
+  "The420 Cyber News India:https://the420.in/ed-punjab-dig-bhullar-money-laundering/",
+  "The Hacker News:https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+  "The420 Cyber News India:https://the420.in/ludhiana-arms-licence-corruption-probe/",
+  "The420 Cyber News India:https://the420.in/delhi-cryptocurrency-phishing-fraud-four-arrested/",
+  "The Hacker News:https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/24/chris-betz-google-agentic-ai-security/"
 ]
