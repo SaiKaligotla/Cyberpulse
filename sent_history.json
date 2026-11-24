@@ -1,10 +1,4 @@
 [
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/microsoft-agent-framework-package-pypi-compromised/",
-  "SecurityWeek:https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
-  "The Hacker News:https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-  "The Hacker News:https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
   "The Hacker News:https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
   "SecurityWeek:https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
   "The420 Cyber News India:https://the420.in/dutch-regulator-advises-consumers-against-buying-ai-smart-glasses-over-privacy-risks/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/24/cybersecurity-jobs-available-right-now-november-24-2026/",
   "Dark Reading:https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool"
+  "Dark Reading:https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+  "The420 Cyber News India:https://the420.in/sebi-takes-strict-view-on-ipo-grey-market-warns-of-zero-exchange-protection-in-disputes/",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33536",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33534",
+  "The Register Security:https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841",
+  "The Register Security:https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325",
+  "The Register Security:https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515"
 ]
