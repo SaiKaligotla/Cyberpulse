@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/palo-alto-networks-acquires-applied-compute/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/gta-6-scams-threats/",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-  "The Register Security:https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
   "SecurityWeek:https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
   "Security Affairs:https://securityaffairs.com/203483/hacking/european-commission-cyberattack-artex-ai-tool-suspected-in-prolonged-disruption.html",
   "The420 Cyber News India:https://the420.in/delhi-high-court-asks-ed-and-sfio-to-clarify-if-lookout-circular-exists-against-tina-ambani/",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/cyberattack-on-south-korean-power-utility-kepco-exposes-data-of-over-1-5-million-people/",
   "The420 Cyber News India:https://the420.in/rbi-proposes-stop-switch-to-let-bank-customers-block-all-outgoing-digital-payments/",
   "The Register Security:https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03"
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+  "The420 Cyber News India:https://the420.in/us-blacklists-singapore-chip-firm-megaspeed-amid-probe-into-nvidia-ai-chip-transfers-to-china/",
+  "The420 Cyber News India:https://the420.in/ai-exposing-software-flaws-faster-rushed-fixes-may-increase-outages-microsoft/",
+  "The420 Cyber News India:https://the420.in/employee-visa-and-immigration-records-suspected-stolen-in-breach-at-persistent-systems-us-firm/",
+  "The Hacker News:https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+  "The Hacker News:https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+  "The Hacker News:https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html"
 ]
