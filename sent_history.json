@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-  "SecurityWeek:https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
-  "The420 Cyber News India:https://the420.in/dutch-regulator-advises-consumers-against-buying-ai-smart-glasses-over-privacy-risks/",
-  "The420 Cyber News India:https://the420.in/he-quit-openai-to-build-a-%e2%82%b940000-crore-ai-startup-23-year-old-yash-patils-remarkable-success/",
-  "The Register Security:https://www.theregister.com/patches/2026/11/18/another-critical-php-security-release-has-dropped/5310911",
-  "The420 Cyber News India:https://the420.in/jpmorgan-third-party-vendors-hit-by-cyberattack-customer-names-and-emails-exposed/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/19/palo-alto-networks-acquires-applied-compute/",
@@ -498,5 +492,11 @@
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33534",
   "The Register Security:https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841",
   "The Register Security:https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325",
-  "The Register Security:https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515"
+  "The Register Security:https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515",
+  "The420 Cyber News India:https://the420.in/delhi-hc-questions-arrests-without-bail-opposition-adjourns-job-fraud-hearing-to-dec-14/",
+  "The420 Cyber News India:https://the420.in/rs-1-lakh-crore-kalyani-family-feud-over-shareholdings-and-ancestral-assets-reaches-supreme-court/",
+  "The420 Cyber News India:https://the420.in/cyberattack-on-south-korean-power-utility-kepco-exposes-data-of-over-1-5-million-people/",
+  "The420 Cyber News India:https://the420.in/rbi-proposes-stop-switch-to-let-bank-customers-block-all-outgoing-digital-payments/",
+  "The Register Security:https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+  "CISA Advisories (US):https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03"
 ]
