@@ -1,10 +1,4 @@
 [
-  "The Register Security:https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
-  "The Register Security:https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
-  "Cloudflare Security:https://blog.cloudflare.com/nginx2root/",
-  "The420 Cyber News India:https://the420.in/up-government-issues-order-to-reinstate-1992-batch-ips-officer-jasvir-singh/",
-  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33538",
-  "The420 Cyber News India:https://the420.in/us-bars-chinese-telecom-companies-from-direct-access-to-american-phone-numbers/",
   "The420 Cyber News India:https://the420.in/alibaba-faces-us-shareholder-lawsuit-over-undisclosed-ties-to-singapore-firm-megaspeed/",
   "The420 Cyber News India:https://the420.in/pune-doctor-digital-arrest-scam/",
   "The420 Cyber News India:https://the420.in/surat-digital-arrest-senior-citizen-fraud/",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/24/anthropic-claude-ship-beta/",
   "Dark Reading:https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
   "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
-  "The Hacker News:https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html"
+  "The Hacker News:https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+  "The Hacker News:https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+  "The Hacker News:https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+  "SecurityWeek:https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+  "The Hacker News:https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+  "Cisco Talos Threat Intel:https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
+  "SecurityWeek:https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/"
 ]
