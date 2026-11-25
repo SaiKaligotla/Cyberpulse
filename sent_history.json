@@ -1,7 +1,4 @@
 [
-  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
-  "The Register Security:https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
-  "The Hacker News:https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
   "Cloudflare Security:https://blog.cloudflare.com/phpaftershell-waf-protection/",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
   "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
@@ -498,5 +495,8 @@
   "The420 Cyber News India:https://the420.in/lic-liable-for-agents-fraud-must-refund-rs-5-30-crore-with-interest-consumer-commission/",
   "The Register Security:https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
   "The Hacker News:https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345"
+  "The Register Security:https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+  "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33554",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/"
 ]
