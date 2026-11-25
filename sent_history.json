@@ -1,10 +1,4 @@
 [
-  "Cloudflare Security:https://blog.cloudflare.com/phpaftershell-waf-protection/",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
-  "The Register Security:https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
-  "The Register Security:https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
-  "Cloudflare Security:https://blog.cloudflare.com/ruby2shell-waf-protection/",
   "The Hacker News:https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
   "The Register Security:https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
   "The Hacker News:https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
@@ -498,5 +492,11 @@
   "The Register Security:https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
   "SANS Internet Storm Center:https://isc.sans.edu/diary/rss/33554",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/"
+  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+  "The420 Cyber News India:https://the420.in/hd-kumaraswamy-whatsapp-chat-cyber-probe/",
+  "The420 Cyber News India:https://the420.in/cisco-openai-shirudo-ai-cybersecurity/",
+  "The420 Cyber News India:https://the420.in/cia-us-intelligence-cybersecurity-breach/",
+  "The420 Cyber News India:https://the420.in/noida-crypto-investment-fraud/",
+  "The Hacker News:https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide"
 ]
