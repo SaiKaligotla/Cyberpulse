@@ -1,10 +1,4 @@
 [
-  "The Hacker News:https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-  "The Register Security:https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/20/security-dashboards-tips-video/",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
-  "Dark Reading:https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
   "The Hacker News:https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
   "Dark Reading:https://www.darkreading.com/cybersecurity-operations/security-words-matter",
   "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
@@ -498,5 +492,11 @@
   "Security Affairs:https://securityaffairs.com/203931/security/vmware-patches-critical-vcenter-authentication-bypass-and-esx-flaws.html",
   "The420 Cyber News India:https://the420.in/hackers-linked-to-shinyhunters-launch-new-inception-leak-site-after-vishing-attacks/",
   "The Register Security:https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985",
-  "The Register Security:https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908"
+  "The Register Security:https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908",
+  "The420 Cyber News India:https://the420.in/defence-ministry-denies-military-data-leak-flags-suspected-infiltration-of-whatsapp-groups/",
+  "The420 Cyber News India:https://the420.in/us-court-finds-huawei-guilty-of-misleading-banks-on-iran-dealings-and-stealing-trade-secrets/",
+  "The420 Cyber News India:https://the420.in/marico-penalizes-director-bhaskar-bhat-rs-3-lakh-for-trading-window-violation/",
+  "The420 Cyber News India:https://the420.in/idbi-bank-not-a-government-institution-under-article-12-rules-supreme-court/",
+  "The420 Cyber News India:https://the420.in/kerala-cm-v-d-satheesan-announces-strict-jail-provision-for-elderly-neglect-after-property-transfer/",
+  "The Register Security:https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292"
 ]
