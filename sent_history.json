@@ -1,10 +1,4 @@
 [
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-  "The Register Security:https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197",
-  "Microsoft Security Blog:https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
-  "Security Affairs:https://securityaffairs.com/203680/hacking/cyberattack-on-austrian-foreign-ministry-exposes-diplomatic-staff-data.html",
-  "Dark Reading:https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
   "The Register Security:https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
   "Dark Reading:https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
   "The Register Security:https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
@@ -498,5 +492,11 @@
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
   "The Register Security:https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
   "SecurityWeek:https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
-  "SecurityWeek:https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/"
+  "SecurityWeek:https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+  "SecurityWeek:https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+  "SecurityWeek:https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
+  "Security Affairs:https://securityaffairs.com/203946/hacking/gt13-ai-assisted-hackers-target-22-organizations-through-check-point-servers.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/25/anthropic-enterprise-frontier-safeguards-public-beta/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/25/illegal-iptv-disrupted-europol-crypto/",
+  "The Hacker News:https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html"
 ]
