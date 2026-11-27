@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
-  "Security Affairs:https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html",
-  "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-  "Dark Reading:https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
-  "The Register Security:https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
-  "PortSwigger Web Security Research:https://portswigger.net/research/achieving-the-impossible-xss-in-innerhtml-without-equals",
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/23/crowdstrike-zscaler-43-9-billion-acquisition/",
   "The Register Security:https://www.theregister.com/columnists/2026/11/23/when-microsoft-apple-and-the-faa-cant-keep-it-up-its-a-system-of-a-down/5311363",
   "The Hacker News:https://thehackernews.com/2026/11/everything-is-web-application-including.html",
@@ -498,5 +492,11 @@
   "Help Net Security:https://www.helpnetsecurity.com/2026/11/27/artex-ai-pentest-framework-china-north-korea-state-hackers/",
   "The Hacker News:https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
-  "The Register Security:https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748"
+  "The Register Security:https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
+  "GBHackers InfoSec:https://gbhackers.com/fake-facebook-ads/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/27/fifa-cyberattack-data-leak/",
+  "The420 Cyber News India:https://the420.in/itat-chennai-coconut-business-cash-deposit-relief/",
+  "The420 Cyber News India:https://the420.in/nvidia-blackwell-chips-found-in-shanghai-data-center-linked-to-alice-huang/",
+  "The420 Cyber News India:https://the420.in/sebi-psu-corporate-governance-director-compliance/",
+  "The Hacker News:https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html"
 ]
