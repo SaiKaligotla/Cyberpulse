@@ -1,10 +1,4 @@
 [
-  "SecurityWeek:https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/23/gl-inet-cloud-compromise-malware-backdoors/",
-  "The Hacker News:https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-  "The Hacker News:https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-  "The420 Cyber News India:https://the420.in/ed-takes-action-across-mumbai-pune-and-satara-in-rs-8852-crore-fraud-case/",
-  "The Hacker News:https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
   "The420 Cyber News India:https://the420.in/six-held-in-prayagraj-for-supplying-mule-bank-accounts-to-southeast-asian-cybercriminals/",
   "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
   "The Hacker News:https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
@@ -498,5 +492,11 @@
   "GBHackers InfoSec:https://gbhackers.com/military-files-exposed/",
   "GBHackers InfoSec:https://gbhackers.com/hidden-python-loaders/",
   "The Hacker News:https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
-  "Help Net Security:https://www.helpnetsecurity.com/2026/11/27/sailpoint-2027-ai-identity-security-predictions-report/"
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/27/sailpoint-2027-ai-identity-security-predictions-report/",
+  "SecurityWeek:https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+  "SecurityWeek:https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/27/product-showcase-norton-claude-scam-detection/",
+  "GBHackers InfoSec:https://gbhackers.com/bitcoin-core-privacy-flaw/",
+  "The Hacker News:https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+  "GBHackers InfoSec:https://gbhackers.com/standard-chartereds-crypto-unit-zodia-custody-hit-by-data-breach/"
 ]
