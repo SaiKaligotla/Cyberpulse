@@ -1,10 +1,4 @@
 [
-  "Security Affairs:https://securityaffairs.com/203851/data-breach/cleverbridge-confirms-attackers-copied-payment-card-data-from-its-platform.html",
-  "The Register Security:https://www.theregister.com/off-prem/2026/11/23/everything-going-down-at-once-wasnt-evidence-of-a-conspiracy-but-the-truth-may-be-scarier/5311458",
-  "The Hacker News:https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-  "Dark Reading:https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
-  "The Register Security:https://www.theregister.com/cyber-crime/2026/11/23/cleverbridge-admits-attackers-stole-customers-credit-card-and-cvv-numbers-yep-you-read-that-right/5311573",
-  "SecurityWeek:https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
   "SecurityWeek:https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
   "Security Affairs:https://securityaffairs.com/203820/data-breach/microsoft-entra-connect-health-breach-exposes-tenant-metadata-and-admin-details.html",
   "CISA Advisories (US):https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -498,5 +492,11 @@
   "The420 Cyber News India:https://the420.in/retired-bank-officers-wife-duped-of-%e2%82%b966-lakh-in-seven-day-digital-arrest-in-saharanpur/",
   "The420 Cyber News India:https://the420.in/mumbai-police-cjp-leaders-lookout-circulars-protest/",
   "GBHackers InfoSec:https://gbhackers.com/tor-browser-15-0-23-released/",
-  "GBHackers InfoSec:https://gbhackers.com/q-dir-and-desktop-ok-installers/"
+  "GBHackers InfoSec:https://gbhackers.com/q-dir-and-desktop-ok-installers/",
+  "SecurityWeek:https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+  "The Hacker News:https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+  "Help Net Security:https://www.helpnetsecurity.com/2026/11/27/artex-ai-pentest-framework-china-north-korea-state-hackers/",
+  "The Hacker News:https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+  "Dark Reading:https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+  "The Register Security:https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748"
 ]
